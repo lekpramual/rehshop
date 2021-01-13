@@ -1,48 +1,29 @@
-import React, { useEffect, useState, useCallback } from "react";
+import React, { useEffect, useState } from "react";
 import SearchMember from "../common/SearchMember";
+import Information from "../common/info-json";
 import MemberList from "./MemberList";
-import MemberMessage from "./MemberMessage";
-
-import { useDispatch, useSelector } from "react-redux";
-import { shopFetch, countshopFetch } from "../../../../reduxs/actions/Shop";
 
 function Member() {
-  const [reload, setReload] = useState(false);
-  const dispatch = useDispatch();
-  const currentShop = useSelector((state) => state.shop.currentShop);
-  const countShop = useSelector((state) => state.shop.countShop);
+  const [data, setData] = useState([]);
 
-  function formatNumber(num) {
-    const parseNumber = parseInt(num);
-    const toLocale = parseNumber.toLocaleString();
-    return toLocale;
-  }
   // Confirm From Search
-  const onConfirm = (msg, member_search) => {
+  const onConfirm = (msg, member_search, member_name) => {
     if (msg === "SearchMember") {
-      setReload(true);
-      // promise reload
-      var promise = new Promise(function (resolve, reject) {
-        // call resolve if the method succeeds
-        setTimeout(() => {
-          resolve(true);
-        }, 1000);
-      });
-      // delay 3 second on reset state
-      promise.then(() => {
-        dispatch(shopFetch(member_search)).then((res) => {
-          setReload(false);
-        });
-      });
+      console.log(member_search, member_name);
+      const filterData =
+        member_search !== ""
+          ? Information.filter(
+              (row) =>
+                row.member_no === `${member_search}` &&
+                row.member_name === `${member_name}`
+            )
+          : "";
+
+      setData(filterData);
     }
   };
-  const getshopFetch = useCallback(async () => {
-    return await dispatch(countshopFetch());
-  }, [dispatch]);
 
-  useEffect(() => {
-    getshopFetch();
-  }, [getshopFetch]);
+  useEffect(() => {}, []);
 
   return (
     <section className="content" style={{ marginTop: -16 }}>
@@ -52,7 +33,8 @@ function Member() {
             <div className="card">
               <SearchMember confirm={onConfirm} />
               <div className="card-body">
-                <MemberList reload={reload} currentShop={currentShop} />
+                {/* <MemberList data={data} /> */}
+                <h1>จะมีการเปิดให้ ตรวจสอบในภายหลัง</h1>
               </div>
             </div>
           </div>

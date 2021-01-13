@@ -2,19 +2,16 @@ import React, { useEffect } from "react";
 import { Link, withRouter } from "react-router-dom";
 
 import AdminLTELogo from "../../../assets/img/187-file-9.svg";
-import archive from "../../../assets/img/155-file-26.svg";
-import setting from "../../../assets/img/170-folder-13.svg";
-import dashboard from "../../../assets/img/015-analytics-7.svg";
-// import member from "../../../assets/img/101-analytics-4.svg";
+import member from "../../../assets/img/101-analytics-4.svg";
 
 function Aside(props) {
   const pathname = props.location.pathname;
 
-  const handleNavitem = (navItem) => {
-    return pathname === navItem
-      ? "nav-item has-treeview menu-open"
-      : "nav-item has-treeview";
-  };
+  // const handleNavitem = (navItem) => {
+  //   return pathname === navItem
+  //     ? "nav-item has-treeview menu-open"
+  //     : "nav-item has-treeview";
+  // };
 
   const handleNavLink = (navLink) => {
     return pathname === navLink ? "nav-link active" : "nav-link";
@@ -33,12 +30,12 @@ function Aside(props) {
         >
           <li className="nav-item">
             <Link
-              to="/backoffice/dashboard"
-              className={handleNavLink("/backoffice/dashboard")}
+              to="/shop/member"
+              className={handleNavLink("/shop/member")}
               replace
             >
               <img
-                src={dashboard}
+                src={member}
                 alt="dashboard Logo"
                 style={{
                   width: 30,
@@ -47,124 +44,8 @@ function Aside(props) {
                   paddingBottom: 2,
                 }}
               />
-              <p style={{ fontWeight: "bold" }}> ภาพรวม </p>
+              <p style={{ fontWeight: "bold" }}> เช็กยอดปันผล </p>
             </Link>
-          </li>
-          {/* <li className="nav-item">
-            <Link to="/forms" className={handleNavLink("/forms")} replace>
-            <img
-                src={notepad}
-                alt="notepad Logo"
-                style={{
-                  width:30,
-                  marginRight:5,
-                  marginLeft:-7,
-                  paddingBottom:2
-                }}
-              />
-              <p style={{fontWeight:'bold'}}>บันทึกข้อมูล</p>
-            </Link>
-          </li> */}
-          <li
-            className={
-              pathname === "/wellness/dashboard" ||
-              pathname === "/wellness/record" ||
-              pathname === "/wellness/result" ||
-              pathname === "/wellness/depart"
-                ? handleNavitem(pathname)
-                : "nav-item has-treeview"
-            }
-          >
-            <Link
-              to="#"
-              className={
-                pathname === "/wellness/dashboard" ||
-                pathname === "/wellness/record" ||
-                pathname === "/wellness/result" ||
-                pathname === "/wellness/depart"
-                  ? handleNavLink(pathname)
-                  : "nav-link"
-              }
-              replace
-            >
-              <img
-                src={archive}
-                alt="archive Logo"
-                style={{
-                  width: 30,
-                  marginRight: 5,
-                  marginLeft: -7,
-                  paddingBottom: 2,
-                }}
-              />
-              <p style={{ fontWeight: "bold" }}>
-                บริการสุขภาพ
-                <i className="right fas fa-angle-left" />
-              </p>
-            </Link>
-            <ul className="nav nav-treeview">
-              <li className="nav-item ">
-                <Link
-                  to="/wellness/dashboard"
-                  className={
-                    pathname === "/wellness/dashboard" ||
-                    pathname === "/wellness/record" ||
-                    pathname === "/wellness/result" ||
-                    pathname === "/wellness/depart"
-                      ? handleNavLink(pathname)
-                      : "nav-link"
-                  }
-                  replace
-                >
-                  <i className="fas fa-heartbeat nav-icon" />
-                  <p>ผลตรวจสุขภาพ</p>
-                </Link>
-              </li>
-            </ul>
-          </li>
-          <li
-            className={
-              pathname === "/backoffice/contact"
-                ? handleNavitem(pathname)
-                : "nav-item has-treeview"
-            }
-          >
-            <Link
-              to="#"
-              className={
-                pathname === "/backoffice/contact"
-                  ? handleNavLink(pathname)
-                  : "nav-link"
-              }
-              replace
-            >
-              <img
-                src={setting}
-                alt="inbox Logo"
-                style={{
-                  width: 30,
-                  marginRight: 5,
-                  marginLeft: -7,
-                  paddingBottom: 2,
-                }}
-              />
-              <p style={{ fontWeight: "bold" }}>
-                ตั้งค่า
-                <i className="right fas fa-angle-left" />
-              </p>
-            </Link>
-            <ul className="nav nav-treeview">
-              <li className="nav-item">
-                <Link
-                  to="/backoffice/contact"
-                  className={handleNavLink("/backoffice/contact")}
-                  replace
-                >
-                  <i className="fas fa-comment nav-icon" />
-                  <p>ติดต่อ</p>
-                </Link>
-              </li>
-            </ul>
           </li>
         </ul>
       </nav>
@@ -192,7 +73,7 @@ function Aside(props) {
             paddingBottom: 2,
           }}
         />
-        <span className="brand-text font-weight-light">Backoffice REH</span>
+        <span className="brand-text font-weight-light">Shop101 REH</span>
       </Link>
       {/* Sidebar */}
       <div className="sidebar">
