@@ -1,0 +1,6 @@
+{
+  "name": "ResultUpdate",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ResultUpdate.js"
+}
