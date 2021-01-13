@@ -52,6 +52,44 @@ function Member() {
             <div className="card">
               <SearchMember confirm={onConfirm} />
               <div className="card-body">
+                <MemberMessage />
+                <div className="row" style={{ marginBottom: 5 }}>
+                  <div className="col-12">
+                    <div className="badge badge-primary" style={{ padding: 5 }}>
+                      <h6>
+                        <i className="far fa-user-check"></i> สมาชิกทั้งหมด{" "}
+                        {countShop.map((rs) => {
+                          return rs.data.map((rs) => {
+                            return formatNumber(rs.member_tatal);
+                          });
+                        })}{" "}
+                        คน{" "}
+                      </h6>
+                    </div>{" "}
+                    <div className="badge badge-success" style={{ padding: 5 }}>
+                      <h6>
+                        <i className="far fa-user-check"></i> ยืนยันยอด{" "}
+                        {countShop.map((rs) => {
+                          return rs.data.map((rs) => {
+                            return formatNumber(rs.member_ischeck);
+                          });
+                        })}{" "}
+                        คน{" "}
+                      </h6>
+                    </div>{" "}
+                    <div className="badge badge-danger" style={{ padding: 5 }}>
+                      <h6>
+                        <i className="far fa-user-check"></i> ยังไม่ยืนยันยอด{" "}
+                        {countShop.map((rs) => {
+                          return rs.data.map((rs) => {
+                            return formatNumber(rs.member_notcheck);
+                          });
+                        })}{" "}
+                        คน{" "}
+                      </h6>
+                    </div>
+                  </div>
+                </div>
                 <MemberList reload={reload} currentShop={currentShop} />
               </div>
             </div>

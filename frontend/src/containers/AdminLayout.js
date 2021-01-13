@@ -31,7 +31,7 @@ export default function DefaultLayout(props) {
                 />
               ) : null;
             })}
-            <Redirect from="/" to="/backoffice/dashboard" />
+            <Redirect from="/" to="/shop/member" />
           </Switch>
         </Suspense>
       </div>
