@@ -9,7 +9,6 @@ function Member() {
   // Confirm From Search
   const onConfirm = (msg, member_search, member_name) => {
     if (msg === "SearchMember") {
-      console.log(member_search, member_name);
       const filterData =
         member_search !== ""
           ? Information.filter(
@@ -33,8 +32,7 @@ function Member() {
             <div className="card">
               <SearchMember confirm={onConfirm} />
               <div className="card-body">
-                {/* <MemberList data={data} /> */}
-                <h1>จะมีการเปิดให้ ตรวจสอบในภายหลัง</h1>
+                <MemberList data={data} />
               </div>
             </div>
           </div>

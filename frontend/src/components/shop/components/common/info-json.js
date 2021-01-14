@@ -16012,7 +16012,7 @@
   {
     member_id: "1689",
     member_no: "1776",
-    member_name: "ศูนย์คอมพิวเตอร์  ",
+    member_name: "ศูนย์คอมพิวเตอร์",
     member_money: "2000",
     member_sell: "145.00",
     member_stock: "1033.02",

@@ -29,13 +29,13 @@ const MemberList = (props) => {
         <table className="table table-bordered table-responsive p-0">
           <thead>
             <tr>
-              <td>รหัสสมาชิก</td>
-              <td>ชื่อสมาชิก</td>
-              <td>เงินหุ้น</td>
-              <td>ยอดซื้อ</td>
-              <td>ปันผลหุ้น</td>
-              <td>เฉลี่ยคืนยอดซื้อ</td>
-              <td>จ่ายจริง</td>
+              <td style={{ width: "5%" }}>รหัส</td>
+              <td style={{ width: "20%" }}>ชื่อสมาชิก</td>
+              <td style={{ width: "15%" }}>เงินหุ้น</td>
+              <td style={{ width: "10%" }}>ยอดซื้อ</td>
+              <td style={{ width: "10%" }}>ปันผลหุ้น</td>
+              <td style={{ width: "15%" }}>เฉลี่ยคืนยอดซื้อ</td>
+              <td style={{ width: "20%" }}>จ่ายจริง</td>
             </tr>
           </thead>
           <tbody>
