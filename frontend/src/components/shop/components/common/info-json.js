@@ -1122,7 +1122,7 @@
   {
     member_id: "121",
     member_no: "124",
-    member_name: "นางสุนีย์รัตน์  ธรรมราษฎร์",
+    member_name: "นางสุนีย์รัตน์ ธรรมราษฎร์",
     member_money: "3000",
     member_sell: "34081.60",
     member_stock: "1549.53",
@@ -2342,7 +2342,7 @@
   {
     member_id: "247",
     member_no: "254",
-    member_name: "นายเกียรติพันธุ์  อินทิแสง",
+    member_name: "นายเกียรติพันธุ์ อินทิแสง",
     member_money: "3000",
     member_sell: "72275.00",
     member_stock: "1549.53",
@@ -2422,7 +2422,7 @@
   {
     member_id: "255",
     member_no: "262",
-    member_name: "นายชีวานนท์ (สายันต์)  จอมคำสิงห์",
+    member_name: "นายชีวานนท์ (สายันต์) จอมคำสิงห์",
     member_money: "1000",
     member_sell: "22783.00",
     member_stock: "516.51",
@@ -3162,7 +3162,7 @@
   {
     member_id: "331",
     member_no: "341",
-    member_name: "นางสุพัชฌาพ์  ภูพลผัน",
+    member_name: "นางสุพัชฌาพ์ ภูพลผัน",
     member_money: "3000",
     member_sell: "4824.00",
     member_stock: "1549.53",
@@ -3382,7 +3382,7 @@
   {
     member_id: "356",
     member_no: "366",
-    member_name: "นางสาวหทัยวรรณ (โอภาส)  แสนตลาด",
+    member_name: "นางสาวหทัยวรรณ (โอภาส) แสนตลาด",
     member_money: "3000",
     member_sell: "19229.00",
     member_stock: "1549.53",
@@ -4562,7 +4562,7 @@
   {
     member_id: "481",
     member_no: "498",
-    member_name: "นางชมภู   ไพบูลย์  (ประดับสุข)",
+    member_name: "นางชมภู  ไพบูลย์ (ประดับสุข)",
     member_money: "3000",
     member_sell: "33155.00",
     member_stock: "1549.53",
@@ -4802,7 +4802,7 @@
   {
     member_id: "510",
     member_no: "527",
-    member_name: "นางสาวทัศนีย์  ศิริเวช",
+    member_name: "นางสาวทัศนีย์ ศิริเวช",
     member_money: "500",
     member_sell: "10170.00",
     member_stock: "258.26",
@@ -6432,7 +6432,7 @@
   {
     member_id: "682",
     member_no: "703",
-    member_name: "นางสาวเจนจิรา  พระสว่าง",
+    member_name: "นางสาวเจนจิรา พระสว่าง",
     member_money: "3000",
     member_sell: "35.00",
     member_stock: "1549.53",
@@ -11902,7 +11902,7 @@
   {
     member_id: "1256",
     member_no: "1319",
-    member_name: "นางสาวรัชนี  พิมพ์มหา",
+    member_name: "นางสาวรัชนี พิมพ์มหา",
     member_money: "500",
     member_sell: "33308.00",
     member_stock: "258.26",
@@ -11912,7 +11912,7 @@
   {
     member_id: "1257",
     member_no: "1320",
-    member_name: "นางจตุพร  สมใจ",
+    member_name: "นางจตุพร สมใจ",
     member_money: "500",
     member_sell: "8639.00",
     member_stock: "258.26",
@@ -11922,7 +11922,7 @@
   {
     member_id: "1258",
     member_no: "1321",
-    member_name: "นายถาวร  จำปาใด",
+    member_name: "นายถาวร จำปาใด",
     member_money: "1000",
     member_sell: "13694.00",
     member_stock: "516.51",
@@ -11932,7 +11932,7 @@
   {
     member_id: "1259",
     member_no: "1322",
-    member_name: "นางสาวเกศรินทร์  นาทอง",
+    member_name: "นางสาวเกศรินทร์ นาทอง",
     member_money: "3000",
     member_sell: "15939.00",
     member_stock: "1549.53",
@@ -11942,7 +11942,7 @@
   {
     member_id: "1260",
     member_no: "1323",
-    member_name: "นางสาวจริญญา  สีลาเกตุ",
+    member_name: "นางสาวจริญญา สีลาเกตุ",
     member_money: "3000",
     member_sell: "9849.00",
     member_stock: "1549.53",
@@ -11952,7 +11952,7 @@
   {
     member_id: "1261",
     member_no: "1324",
-    member_name: "นาบสิทธิชัย  สายใหม",
+    member_name: "นาบสิทธิชัย สายใหม",
     member_money: "3000",
     member_sell: "7872.00",
     member_stock: "1549.53",
@@ -11962,7 +11962,7 @@
   {
     member_id: "1262",
     member_no: "1325",
-    member_name: "นางนิตยา  สุขศรี",
+    member_name: "นางนิตยา สุขศรี",
     member_money: "500",
     member_sell: "7050.00",
     member_stock: "258.26",
@@ -11972,7 +11972,7 @@
   {
     member_id: "1263",
     member_no: "1326",
-    member_name: "นางสาวปรมาภรณ์  เอื้อกิจ",
+    member_name: "นางสาวปรมาภรณ์ เอื้อกิจ",
     member_money: "2000",
     member_sell: "11941.00",
     member_stock: "1033.02",
@@ -11982,7 +11982,7 @@
   {
     member_id: "1264",
     member_no: "1327",
-    member_name: "นายณรงค์  อึ้งตระกูล",
+    member_name: "นายณรงค์ อึ้งตระกูล",
     member_money: "3000",
     member_sell: "411.00",
     member_stock: "1549.53",
@@ -11992,7 +11992,7 @@
   {
     member_id: "1265",
     member_no: "1328",
-    member_name: "นางสุกัญญา  อึ้งตระกูล",
+    member_name: "นางสุกัญญา อึ้งตระกูล",
     member_money: "3000",
     member_sell: "1235.00",
     member_stock: "1549.53",
@@ -12002,7 +12002,7 @@
   {
     member_id: "1266",
     member_no: "1329",
-    member_name: "นางสาวอัมภิกา  สัตะโส",
+    member_name: "นางสาวอัมภิกา สัตะโส",
     member_money: "2000",
     member_sell: "9594.00",
     member_stock: "1033.02",
@@ -12012,7 +12012,7 @@
   {
     member_id: "1267",
     member_no: "1330",
-    member_name: "นางสาวยุวธิดา  เหลานาคำ",
+    member_name: "นางสาวยุวธิดา เหลานาคำ",
     member_money: "2000",
     member_sell: "19501.00",
     member_stock: "1033.02",
@@ -12022,7 +12022,7 @@
   {
     member_id: "1268",
     member_no: "1331",
-    member_name: "นายบรรจง  จอมคำสิงห์",
+    member_name: "นายบรรจง จอมคำสิงห์",
     member_money: "3000",
     member_sell: "3023.00",
     member_stock: "1549.53",
@@ -12032,7 +12032,7 @@
   {
     member_id: "1269",
     member_no: "1332",
-    member_name: "นางสาวสุดาดวง  พัฒนาสาร",
+    member_name: "นางสาวสุดาดวง พัฒนาสาร",
     member_money: "3000",
     member_sell: "1001.00",
     member_stock: "1549.53",
@@ -12042,7 +12042,7 @@
   {
     member_id: "1270",
     member_no: "1333",
-    member_name: "นางอารุณ  โคตรสุวรรณ์",
+    member_name: "นางอารุณ โคตรสุวรรณ์",
     member_money: "1000",
     member_sell: "13765.00",
     member_stock: "516.51",
@@ -12052,7 +12052,7 @@
   {
     member_id: "1271",
     member_no: "1334",
-    member_name: "นายนพดล  โสเต",
+    member_name: "นายนพดล โสเต",
     member_money: "3000",
     member_sell: "3477.00",
     member_stock: "1549.53",
@@ -12062,7 +12062,7 @@
   {
     member_id: "1272",
     member_no: "1335",
-    member_name: "นางสาวศิรินาถ  แคนวงษ์",
+    member_name: "นางสาวศิรินาถ แคนวงษ์",
     member_money: "3000",
     member_sell: "10820.00",
     member_stock: "1549.53",
@@ -12072,7 +12072,7 @@
   {
     member_id: "1273",
     member_no: "1336",
-    member_name: "นายอนุชิต  ลุนบง",
+    member_name: "นายอนุชิต ลุนบง",
     member_money: "1500",
     member_sell: "9000.00",
     member_stock: "774.77",
@@ -12082,7 +12082,7 @@
   {
     member_id: "1274",
     member_no: "1338",
-    member_name: "นางเจียมจิต  นิลแสง",
+    member_name: "นางเจียมจิต นิลแสง",
     member_money: "1000",
     member_sell: "2759.00",
     member_stock: "516.51",
@@ -12092,7 +12092,7 @@
   {
     member_id: "1276",
     member_no: "1340",
-    member_name: "นางสาวดารณี  แท่นศร",
+    member_name: "นางสาวดารณี แท่นศร",
     member_money: "2000",
     member_sell: "8539.00",
     member_stock: "1033.02",
@@ -12102,7 +12102,7 @@
   {
     member_id: "1277",
     member_no: "1341",
-    member_name: "นางสาววัชราภรณ์  ทำนาแพง",
+    member_name: "นางสาววัชราภรณ์ ทำนาแพง",
     member_money: "500",
     member_sell: "14151.00",
     member_stock: "258.26",
@@ -12112,7 +12112,7 @@
   {
     member_id: "1278",
     member_no: "1342",
-    member_name: "นายสิทธิชัย  สุทธิสิงห์",
+    member_name: "นายสิทธิชัย สุทธิสิงห์",
     member_money: "1000",
     member_sell: "27920.00",
     member_stock: "516.51",
@@ -12122,7 +12122,7 @@
   {
     member_id: "1279",
     member_no: "1343",
-    member_name: "นางสาวผ่องศรี  ยั่งยืน",
+    member_name: "นางสาวผ่องศรี ยั่งยืน",
     member_money: "3000",
     member_sell: "11539.00",
     member_stock: "1549.53",
@@ -12132,7 +12132,7 @@
   {
     member_id: "1280",
     member_no: "1344",
-    member_name: "นางสาวปิยะพร  รินทะสมบัติ",
+    member_name: "นางสาวปิยะพร รินทะสมบัติ",
     member_money: "2000",
     member_sell: "57224.00",
     member_stock: "1033.02",
@@ -12142,7 +12142,7 @@
   {
     member_id: "1281",
     member_no: "1347",
-    member_name: "นางสาวปิยะนุช  ดอนพันเมือง",
+    member_name: "นางสาวปิยะนุช ดอนพันเมือง",
     member_money: "2000",
     member_sell: "2730.00",
     member_stock: "1033.02",
@@ -12152,7 +12152,7 @@
   {
     member_id: "1282",
     member_no: "1348",
-    member_name: "นางสาวกนกวรรณ  โพธิสิงห์",
+    member_name: "นางสาวกนกวรรณ โพธิสิงห์",
     member_money: "3000",
     member_sell: "16957.00",
     member_stock: "1549.53",
@@ -12162,7 +12162,7 @@
   {
     member_id: "1283",
     member_no: "1349",
-    member_name: "นางสาวชุรีพร  เปลือยหนองแข้",
+    member_name: "นางสาวชุรีพร เปลือยหนองแข้",
     member_money: "3000",
     member_sell: "43774.00",
     member_stock: "1549.53",
@@ -12172,7 +12172,7 @@
   {
     member_id: "1285",
     member_no: "1351",
-    member_name: "นายวงศพัทธ์  ชมภูวิเศษ",
+    member_name: "นายวงศพัทธ์ ชมภูวิเศษ",
     member_money: "3000",
     member_sell: "11120.00",
     member_stock: "1549.53",
@@ -12182,7 +12182,7 @@
   {
     member_id: "1286",
     member_no: "1352",
-    member_name: "นางสาวพิมพ์ชนก  ศิริบูรณ์",
+    member_name: "นางสาวพิมพ์ชนก ศิริบูรณ์",
     member_money: "1500",
     member_sell: "6922.00",
     member_stock: "774.77",
@@ -12192,7 +12192,7 @@
   {
     member_id: "1287",
     member_no: "1353",
-    member_name: "นางสาวภัคปภัสร์  อัศวชัยโสภณ",
+    member_name: "นางสาวภัคปภัสร์ อัศวชัยโสภณ",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -12202,7 +12202,7 @@
   {
     member_id: "1288",
     member_no: "1354",
-    member_name: "นางกรรณิการ์  วิชระอนนท์",
+    member_name: "นางกรรณิการ์ วิชระอนนท์",
     member_money: "3000",
     member_sell: "1066.00",
     member_stock: "1549.53",
@@ -12212,7 +12212,7 @@
   {
     member_id: "1290",
     member_no: "1356",
-    member_name: "นางสาวลัดดาพร  วรนาม",
+    member_name: "นางสาวลัดดาพร วรนาม",
     member_money: "2000",
     member_sell: "55810.00",
     member_stock: "1033.02",
@@ -12222,7 +12222,7 @@
   {
     member_id: "1292",
     member_no: "1359",
-    member_name: "นางสาวอัญชลี  ลำเภา",
+    member_name: "นางสาวอัญชลี ลำเภา",
     member_money: "3000",
     member_sell: "1075.00",
     member_stock: "1549.53",
@@ -12232,7 +12232,7 @@
   {
     member_id: "1293",
     member_no: "1360",
-    member_name: "กลุ่มงานศัลยกรรม  ",
+    member_name: "กลุ่มงานศัลยกรรม ",
     member_money: "3000",
     member_sell: "6300.00",
     member_stock: "1549.53",
@@ -12242,7 +12242,7 @@
   {
     member_id: "1294",
     member_no: "1361",
-    member_name: "นายสัญญพงษ์  วงศ์สัจจา",
+    member_name: "นายสัญญพงษ์ วงศ์สัจจา",
     member_money: "3000",
     member_sell: "0.00",
     member_stock: "1549.53",
@@ -12252,7 +12252,7 @@
   {
     member_id: "1295",
     member_no: "1362",
-    member_name: "นางสาวสุมัทธนา  ผจงศิลป์",
+    member_name: "นางสาวสุมัทธนา ผจงศิลป์",
     member_money: "3000",
     member_sell: "200.00",
     member_stock: "1549.53",
@@ -12262,7 +12262,7 @@
   {
     member_id: "1296",
     member_no: "1363",
-    member_name: "นายสรายุทธ  ไชยสิทธิ์",
+    member_name: "นายสรายุทธ ไชยสิทธิ์",
     member_money: "3000",
     member_sell: "18987.00",
     member_stock: "1549.53",
@@ -12272,7 +12272,7 @@
   {
     member_id: "1297",
     member_no: "1365",
-    member_name: "นายวีระวัฒน์  หลาบหนองแสง",
+    member_name: "นายวีระวัฒน์ หลาบหนองแสง",
     member_money: "3000",
     member_sell: "36189.00",
     member_stock: "1549.53",
@@ -12282,7 +12282,7 @@
   {
     member_id: "1298",
     member_no: "1366",
-    member_name: "นางสาวกัญญ์จนพร  ศิลวัตร",
+    member_name: "นางสาวกัญญ์จนพร ศิลวัตร",
     member_money: "3000",
     member_sell: "8189.00",
     member_stock: "1549.53",
@@ -12292,7 +12292,7 @@
   {
     member_id: "1299",
     member_no: "1367",
-    member_name: "นางสาวภัทราภรณ์  แดงวิบูลย์",
+    member_name: "นางสาวภัทราภรณ์ แดงวิบูลย์",
     member_money: "3000",
     member_sell: "12492.00",
     member_stock: "1549.53",
@@ -12302,7 +12302,7 @@
   {
     member_id: "1300",
     member_no: "1368",
-    member_name: "นางสาวพัชนก  พวงพิลา",
+    member_name: "นางสาวพัชนก พวงพิลา",
     member_money: "3000",
     member_sell: "7037.00",
     member_stock: "1549.53",
@@ -12312,7 +12312,7 @@
   {
     member_id: "1301",
     member_no: "1369",
-    member_name: "-หน่วยงาน MICU1  -",
+    member_name: "-หน่วยงาน MICU1 -",
     member_money: "500",
     member_sell: "2978.00",
     member_stock: "258.26",
@@ -12322,7 +12322,7 @@
   {
     member_id: "1302",
     member_no: "1370",
-    member_name: "นายทวีศักดิ์  ประกอบมัย",
+    member_name: "นายทวีศักดิ์ ประกอบมัย",
     member_money: "500",
     member_sell: "6147.00",
     member_stock: "258.26",
@@ -12332,7 +12332,7 @@
   {
     member_id: "1303",
     member_no: "1371",
-    member_name: "นางสาวอ้อย  ปัญญาบุญ",
+    member_name: "นางสาวอ้อย ปัญญาบุญ",
     member_money: "2000",
     member_sell: "4748.00",
     member_stock: "1033.02",
@@ -12342,7 +12342,7 @@
   {
     member_id: "1304",
     member_no: "1372",
-    member_name: "นางสาวกมลวรรณ  วุฒิจำนงค์",
+    member_name: "นางสาวกมลวรรณ วุฒิจำนงค์",
     member_money: "3000",
     member_sell: "10340.00",
     member_stock: "1549.53",
@@ -12352,7 +12352,7 @@
   {
     member_id: "1305",
     member_no: "1373",
-    member_name: "นางสาวศิรินทร์ลักษณ์  แดงด้อมยุทธ",
+    member_name: "นางสาวศิรินทร์ลักษณ์ แดงด้อมยุทธ",
     member_money: "3000",
     member_sell: "3919.00",
     member_stock: "1549.53",
@@ -12362,7 +12362,7 @@
   {
     member_id: "1306",
     member_no: "1374",
-    member_name: "นางวันณา  เขตเจริญ",
+    member_name: "นางวันณา เขตเจริญ",
     member_money: "3000",
     member_sell: "2088.00",
     member_stock: "1549.53",
@@ -12372,7 +12372,7 @@
   {
     member_id: "1307",
     member_no: "1375",
-    member_name: "นางอุสา  โพธิเหล็ก",
+    member_name: "นางอุสา โพธิเหล็ก",
     member_money: "3000",
     member_sell: "16164.00",
     member_stock: "1549.53",
@@ -12382,7 +12382,7 @@
   {
     member_id: "1308",
     member_no: "1376",
-    member_name: "นางยุพิน  ชมภูบุตร",
+    member_name: "นางยุพิน ชมภูบุตร",
     member_money: "3000",
     member_sell: "4159.00",
     member_stock: "1549.53",
@@ -12392,7 +12392,7 @@
   {
     member_id: "1309",
     member_no: "1377",
-    member_name: "นางบับไพร  ถาวรจันทร์",
+    member_name: "นางบับไพร ถาวรจันทร์",
     member_money: "1000",
     member_sell: "16249.00",
     member_stock: "516.51",
@@ -12402,7 +12402,7 @@
   {
     member_id: "1310",
     member_no: "1378",
-    member_name: "นางวรรณเพ็ญ  ศรีวิจารย์",
+    member_name: "นางวรรณเพ็ญ ศรีวิจารย์",
     member_money: "3000",
     member_sell: "15031.00",
     member_stock: "1549.53",
@@ -12412,7 +12412,7 @@
   {
     member_id: "1311",
     member_no: "1379",
-    member_name: "นางสมประสงค์  อินอุ่นโชติ",
+    member_name: "นางสมประสงค์ อินอุ่นโชติ",
     member_money: "3000",
     member_sell: "59413.00",
     member_stock: "1549.53",
@@ -12422,7 +12422,7 @@
   {
     member_id: "1312",
     member_no: "1380",
-    member_name: "นางพรนภารัตน์  แมคออเลย์",
+    member_name: "นางพรนภารัตน์ แมคออเลย์",
     member_money: "3000",
     member_sell: "33077.00",
     member_stock: "1549.53",
@@ -12432,7 +12432,7 @@
   {
     member_id: "1313",
     member_no: "1381",
-    member_name: "นางสาวสุปราณี  ไชยโภค",
+    member_name: "นางสาวสุปราณี ไชยโภค",
     member_money: "3000",
     member_sell: "18396.00",
     member_stock: "1549.53",
@@ -12442,7 +12442,7 @@
   {
     member_id: "1314",
     member_no: "1382",
-    member_name: "นางสาวสมจิต  กัญยวงศ์หา",
+    member_name: "นางสาวสมจิต กัญยวงศ์หา",
     member_money: "3000",
     member_sell: "26599.00",
     member_stock: "1549.53",
@@ -12452,7 +12452,7 @@
   {
     member_id: "1315",
     member_no: "1384",
-    member_name: "นางสาวพิมพ์ศิริ  รุ่งเรือง",
+    member_name: "นางสาวพิมพ์ศิริ รุ่งเรือง",
     member_money: "3000",
     member_sell: "15575.00",
     member_stock: "1549.53",
@@ -12462,7 +12462,7 @@
   {
     member_id: "1316",
     member_no: "1385",
-    member_name: "นางสุราวัล  จำปาลี",
+    member_name: "นางสุราวัล จำปาลี",
     member_money: "3000",
     member_sell: "735.00",
     member_stock: "1549.53",
@@ -12472,7 +12472,7 @@
   {
     member_id: "1317",
     member_no: "1386",
-    member_name: "นางทองใบ  ดาวขจร",
+    member_name: "นางทองใบ ดาวขจร",
     member_money: "3000",
     member_sell: "2642.00",
     member_stock: "1549.53",
@@ -12482,7 +12482,7 @@
   {
     member_id: "1318",
     member_no: "1387",
-    member_name: "นางมาลี  สังขเนตร",
+    member_name: "นางมาลี สังขเนตร",
     member_money: "3000",
     member_sell: "654.00",
     member_stock: "1549.53",
@@ -12492,7 +12492,7 @@
   {
     member_id: "1319",
     member_no: "1388",
-    member_name: "นางรุจิรา  สุริยวนากุล",
+    member_name: "นางรุจิรา สุริยวนากุล",
     member_money: "3000",
     member_sell: "609.00",
     member_stock: "1549.53",
@@ -12502,7 +12502,7 @@
   {
     member_id: "1320",
     member_no: "1389",
-    member_name: "นางกรองแก้ว  อินทรวรศิลป์",
+    member_name: "นางกรองแก้ว อินทรวรศิลป์",
     member_money: "3000",
     member_sell: "1666.00",
     member_stock: "1549.53",
@@ -12512,7 +12512,7 @@
   {
     member_id: "1321",
     member_no: "1390",
-    member_name: "นางแสงจันทร์  พวงศรี",
+    member_name: "นางแสงจันทร์ พวงศรี",
     member_money: "3000",
     member_sell: "369.00",
     member_stock: "1549.53",
@@ -12522,7 +12522,7 @@
   {
     member_id: "1322",
     member_no: "1391",
-    member_name: "นางสาวสุนันทวรรณ  ขัติยนนท์",
+    member_name: "นางสาวสุนันทวรรณ ขัติยนนท์",
     member_money: "3000",
     member_sell: "37.00",
     member_stock: "1549.53",
@@ -12532,7 +12532,7 @@
   {
     member_id: "1323",
     member_no: "1392",
-    member_name: "นางสมเพชร  รักษาก้านตง",
+    member_name: "นางสมเพชร รักษาก้านตง",
     member_money: "3000",
     member_sell: "13026.00",
     member_stock: "1549.53",
@@ -12542,7 +12542,7 @@
   {
     member_id: "1324",
     member_no: "1393",
-    member_name: "นางสาววรรณภา  คูคำ",
+    member_name: "นางสาววรรณภา คูคำ",
     member_money: "1000",
     member_sell: "2755.00",
     member_stock: "516.51",
@@ -12552,7 +12552,7 @@
   {
     member_id: "1325",
     member_no: "1394",
-    member_name: "นางอุรารัตน์  จำลองเพ็ง",
+    member_name: "นางอุรารัตน์ จำลองเพ็ง",
     member_money: "2000",
     member_sell: "11678.00",
     member_stock: "1033.02",
@@ -12562,7 +12562,7 @@
   {
     member_id: "1326",
     member_no: "1395",
-    member_name: "นางศิริภัทร  คำภู",
+    member_name: "นางศิริภัทร คำภู",
     member_money: "3000",
     member_sell: "6512.00",
     member_stock: "1549.53",
@@ -12572,7 +12572,7 @@
   {
     member_id: "1327",
     member_no: "1396",
-    member_name: "นางพจนีย์  ศรีวงษา",
+    member_name: "นางพจนีย์ ศรีวงษา",
     member_money: "3000",
     member_sell: "10021.00",
     member_stock: "1549.53",
@@ -12582,7 +12582,7 @@
   {
     member_id: "1328",
     member_no: "1398",
-    member_name: "นางปราณี  ทาบึงการ",
+    member_name: "นางปราณี ทาบึงการ",
     member_money: "3000",
     member_sell: "64587.00",
     member_stock: "1549.53",
@@ -12592,7 +12592,7 @@
   {
     member_id: "1329",
     member_no: "1399",
-    member_name: "นางสาวพงษ์ภักดิ์  สังฆมณี",
+    member_name: "นางสาวพงษ์ภักดิ์ สังฆมณี",
     member_money: "2000",
     member_sell: "12839.00",
     member_stock: "1033.02",
@@ -12602,7 +12602,7 @@
   {
     member_id: "1330",
     member_no: "1400",
-    member_name: "นางสุจิตรา  บุญศรี",
+    member_name: "นางสุจิตรา บุญศรี",
     member_money: "3000",
     member_sell: "5166.00",
     member_stock: "1549.53",
@@ -12612,7 +12612,7 @@
   {
     member_id: "1331",
     member_no: "1401",
-    member_name: "นางสาวณัฐิยา  พละสุข",
+    member_name: "นางสาวณัฐิยา พละสุข",
     member_money: "3000",
     member_sell: "1071.00",
     member_stock: "1549.53",
@@ -12622,7 +12622,7 @@
   {
     member_id: "1332",
     member_no: "1402",
-    member_name: "นางสมัย  สุประไตร",
+    member_name: "นางสมัย สุประไตร",
     member_money: "3000",
     member_sell: "580.00",
     member_stock: "1549.53",
@@ -12632,7 +12632,7 @@
   {
     member_id: "1333",
     member_no: "1403",
-    member_name: "นางชนิดาภา  ศิรินาม",
+    member_name: "นางชนิดาภา ศิรินาม",
     member_money: "1000",
     member_sell: "11045.00",
     member_stock: "516.51",
@@ -12642,7 +12642,7 @@
   {
     member_id: "1334",
     member_no: "1404",
-    member_name: "นางสาวบุศรินทร์  ศิรินาม",
+    member_name: "นางสาวบุศรินทร์ ศิรินาม",
     member_money: "2000",
     member_sell: "11042.00",
     member_stock: "1033.02",
@@ -12652,7 +12652,7 @@
   {
     member_id: "1335",
     member_no: "1405",
-    member_name: "นางวิภาดา  แสงงาม",
+    member_name: "นางวิภาดา แสงงาม",
     member_money: "2000",
     member_sell: "53528.00",
     member_stock: "1033.02",
@@ -12662,7 +12662,7 @@
   {
     member_id: "1336",
     member_no: "1406",
-    member_name: "นายอนันธวัฒน์  สวัสดิ์ผล",
+    member_name: "นายอนันธวัฒน์ สวัสดิ์ผล",
     member_money: "2000",
     member_sell: "36492.00",
     member_stock: "1033.02",
@@ -12672,7 +12672,7 @@
   {
     member_id: "1337",
     member_no: "1407",
-    member_name: "นางพัฒศดี  อินต๊ะเม้า",
+    member_name: "นางพัฒศดี อินต๊ะเม้า",
     member_money: "3000",
     member_sell: "20729.00",
     member_stock: "1549.53",
@@ -12682,7 +12682,7 @@
   {
     member_id: "1338",
     member_no: "1408",
-    member_name: "นางสาวภรภัทร  สุดหนองบัว",
+    member_name: "นางสาวภรภัทร สุดหนองบัว",
     member_money: "2000",
     member_sell: "23939.00",
     member_stock: "1033.02",
@@ -12692,7 +12692,7 @@
   {
     member_id: "1339",
     member_no: "1409",
-    member_name: "นางสาวนิภาภรณ์  วงศ์แสง",
+    member_name: "นางสาวนิภาภรณ์ วงศ์แสง",
     member_money: "2200",
     member_sell: "5602.00",
     member_stock: "1136.32",
@@ -12702,7 +12702,7 @@
   {
     member_id: "1341",
     member_no: "1411",
-    member_name: "นางสุริยันต์  สัฆมณี",
+    member_name: "นางสุริยันต์ สัฆมณี",
     member_money: "3000",
     member_sell: "34328.00",
     member_stock: "1549.53",
@@ -12712,7 +12712,7 @@
   {
     member_id: "1342",
     member_no: "1412",
-    member_name: "นางพิมพ์ลภัทร์  ใสยิ่ง",
+    member_name: "นางพิมพ์ลภัทร์ ใสยิ่ง",
     member_money: "1500",
     member_sell: "19309.00",
     member_stock: "774.77",
@@ -12722,7 +12722,7 @@
   {
     member_id: "1343",
     member_no: "1413",
-    member_name: "-ศูนย์ Refer  -",
+    member_name: "-ศูนย์ Refer -",
     member_money: "2000",
     member_sell: "259.00",
     member_stock: "1033.02",
@@ -12732,7 +12732,7 @@
   {
     member_id: "1344",
     member_no: "1414",
-    member_name: "นายสุธรรม  วินทะไชย",
+    member_name: "นายสุธรรม วินทะไชย",
     member_money: "1000",
     member_sell: "2984.00",
     member_stock: "516.51",
@@ -12742,7 +12742,7 @@
   {
     member_id: "1345",
     member_no: "1415",
-    member_name: "นางสาวสุวันนา  คำบุศย์",
+    member_name: "นางสาวสุวันนา คำบุศย์",
     member_money: "3000",
     member_sell: "2721.00",
     member_stock: "1549.53",
@@ -12752,7 +12752,7 @@
   {
     member_id: "1346",
     member_no: "1416",
-    member_name: "นางดนัย  ฉากจินดา",
+    member_name: "นางดนัย ฉากจินดา",
     member_money: "3000",
     member_sell: "3982.00",
     member_stock: "1549.53",
@@ -12762,7 +12762,7 @@
   {
     member_id: "1347",
     member_no: "1417",
-    member_name: "นางสาวสุภาพร  รัตนัง",
+    member_name: "นางสาวสุภาพร รัตนัง",
     member_money: "2100",
     member_sell: "17368.00",
     member_stock: "1084.67",
@@ -12772,7 +12772,7 @@
   {
     member_id: "1348",
     member_no: "1418",
-    member_name: "นางสาวนัยญาณี  จันทวารีย์",
+    member_name: "นางสาวนัยญาณี จันทวารีย์",
     member_money: "3000",
     member_sell: "22190.00",
     member_stock: "1549.53",
@@ -12782,7 +12782,7 @@
   {
     member_id: "1349",
     member_no: "1419",
-    member_name: "นางสาวกาญจนา  พลละคร",
+    member_name: "นางสาวกาญจนา พลละคร",
     member_money: "2000",
     member_sell: "6764.00",
     member_stock: "1033.02",
@@ -12792,7 +12792,7 @@
   {
     member_id: "1350",
     member_no: "1420",
-    member_name: "นางสาวกาญจนา  นาเมืองรักษ์",
+    member_name: "นางสาวกาญจนา นาเมืองรักษ์",
     member_money: "2000",
     member_sell: "3248.00",
     member_stock: "1033.02",
@@ -12802,7 +12802,7 @@
   {
     member_id: "1351",
     member_no: "1421",
-    member_name: "นางสาวจารุณี  สุวรรณศรี",
+    member_name: "นางสาวจารุณี สุวรรณศรี",
     member_money: "3000",
     member_sell: "8031.00",
     member_stock: "1549.53",
@@ -12812,7 +12812,7 @@
   {
     member_id: "1352",
     member_no: "1422",
-    member_name: "นางเมตตา  เตชะนาม",
+    member_name: "นางเมตตา เตชะนาม",
     member_money: "2000",
     member_sell: "7539.00",
     member_stock: "1033.02",
@@ -12822,7 +12822,7 @@
   {
     member_id: "1353",
     member_no: "1423",
-    member_name: "นางสาวกนกพร  ยอดยศ",
+    member_name: "นางสาวกนกพร ยอดยศ",
     member_money: "2000",
     member_sell: "18228.00",
     member_stock: "1033.02",
@@ -12832,7 +12832,7 @@
   {
     member_id: "1354",
     member_no: "1424",
-    member_name: "นางสาวจินตนาพร  จันทา",
+    member_name: "นางสาวจินตนาพร จันทา",
     member_money: "3000",
     member_sell: "1617.00",
     member_stock: "1549.53",
@@ -12842,7 +12842,7 @@
   {
     member_id: "1355",
     member_no: "1425",
-    member_name: "นายวัฒนา  วงษ์ไชยแย้ม",
+    member_name: "นายวัฒนา วงษ์ไชยแย้ม",
     member_money: "2000",
     member_sell: "10209.00",
     member_stock: "1033.02",
@@ -12852,7 +12852,7 @@
   {
     member_id: "1356",
     member_no: "1426",
-    member_name: "นางสาวภัทราพร  สิงห์ทอง",
+    member_name: "นางสาวภัทราพร สิงห์ทอง",
     member_money: "1000",
     member_sell: "4148.00",
     member_stock: "516.51",
@@ -12862,7 +12862,7 @@
   {
     member_id: "1357",
     member_no: "1427",
-    member_name: "นางวิไลภรณ์  ศิริสอน",
+    member_name: "นางวิไลภรณ์ ศิริสอน",
     member_money: "3000",
     member_sell: "34266.00",
     member_stock: "1549.53",
@@ -12872,7 +12872,7 @@
   {
     member_id: "1358",
     member_no: "1428",
-    member_name: "นายวัชรา  สืบสำราญ",
+    member_name: "นายวัชรา สืบสำราญ",
     member_money: "3000",
     member_sell: "8718.00",
     member_stock: "1549.53",
@@ -12882,7 +12882,7 @@
   {
     member_id: "1360",
     member_no: "1430",
-    member_name: "นางสาวสุธิดา  ลำเหลือง",
+    member_name: "นางสาวสุธิดา ลำเหลือง",
     member_money: "3000",
     member_sell: "8545.00",
     member_stock: "1549.53",
@@ -12892,7 +12892,7 @@
   {
     member_id: "1361",
     member_no: "1431",
-    member_name: "นางอ้อย  อินทร์โท่โล่",
+    member_name: "นางอ้อย อินทร์โท่โล่",
     member_money: "3000",
     member_sell: "16195.00",
     member_stock: "1549.53",
@@ -12902,7 +12902,7 @@
   {
     member_id: "1362",
     member_no: "1432",
-    member_name: "นายเชิด  สุกพวงแก้ว",
+    member_name: "นายเชิด สุกพวงแก้ว",
     member_money: "3000",
     member_sell: "29457.00",
     member_stock: "1549.53",
@@ -12912,7 +12912,7 @@
   {
     member_id: "1363",
     member_no: "1433",
-    member_name: "นางจันทกานต์  กลีบบัว",
+    member_name: "นางจันทกานต์ กลีบบัว",
     member_money: "2000",
     member_sell: "21361.00",
     member_stock: "1033.02",
@@ -12922,7 +12922,7 @@
   {
     member_id: "1364",
     member_no: "1435",
-    member_name: "นางสาวภัทราพร  สุวรรณศรี",
+    member_name: "นางสาวภัทราพร สุวรรณศรี",
     member_money: "2000",
     member_sell: "3167.00",
     member_stock: "1033.02",
@@ -12932,7 +12932,7 @@
   {
     member_id: "1365",
     member_no: "1436",
-    member_name: "นายพัลลภ  แสนหาญ",
+    member_name: "นายพัลลภ แสนหาญ",
     member_money: "3000",
     member_sell: "2749.00",
     member_stock: "1549.53",
@@ -12942,7 +12942,7 @@
   {
     member_id: "1366",
     member_no: "1437",
-    member_name: "นายสุริยา  ประสิทธิ์",
+    member_name: "นายสุริยา ประสิทธิ์",
     member_money: "3000",
     member_sell: "2884.00",
     member_stock: "1549.53",
@@ -12952,7 +12952,7 @@
   {
     member_id: "1367",
     member_no: "1438",
-    member_name: "นางพิกุล  สิงห์บุตรา",
+    member_name: "นางพิกุล สิงห์บุตรา",
     member_money: "2000",
     member_sell: "27555.00",
     member_stock: "1033.02",
@@ -12962,7 +12962,7 @@
   {
     member_id: "1368",
     member_no: "1439",
-    member_name: "นางสาวปริศดา  พลยาง",
+    member_name: "นางสาวปริศดา พลยาง",
     member_money: "2000",
     member_sell: "55673.00",
     member_stock: "1033.02",
@@ -12972,7 +12972,7 @@
   {
     member_id: "1369",
     member_no: "1440",
-    member_name: "นางสาวชลลัดดา  ขุนเพชรวรรณ",
+    member_name: "นางสาวชลลัดดา ขุนเพชรวรรณ",
     member_money: "3000",
     member_sell: "8912.00",
     member_stock: "1549.53",
@@ -12982,7 +12982,7 @@
   {
     member_id: "1370",
     member_no: "1441",
-    member_name: "นางสาวศศิธร  จำปารัตน์",
+    member_name: "นางสาวศศิธร จำปารัตน์",
     member_money: "2000",
     member_sell: "4480.00",
     member_stock: "1033.02",
@@ -12992,7 +12992,7 @@
   {
     member_id: "1371",
     member_no: "1442",
-    member_name: "นางสาวสุวิมล  ข่าขันมะลี",
+    member_name: "นางสาวสุวิมล ข่าขันมะลี",
     member_money: "2000",
     member_sell: "13632.00",
     member_stock: "1033.02",
@@ -13002,7 +13002,7 @@
   {
     member_id: "1372",
     member_no: "1444",
-    member_name: "นางสุภาพร  ชมภูบุตร",
+    member_name: "นางสุภาพร ชมภูบุตร",
     member_money: "500",
     member_sell: "20912.00",
     member_stock: "258.26",
@@ -13012,7 +13012,7 @@
   {
     member_id: "1373",
     member_no: "1445",
-    member_name: "นางสาวนลินา  การะน้อย",
+    member_name: "นางสาวนลินา การะน้อย",
     member_money: "2000",
     member_sell: "2180.00",
     member_stock: "1033.02",
@@ -13022,7 +13022,7 @@
   {
     member_id: "1374",
     member_no: "1446",
-    member_name: "นางสัมพันธ์  ยานู",
+    member_name: "นางสัมพันธ์ ยานู",
     member_money: "3000",
     member_sell: "9843.00",
     member_stock: "1549.53",
@@ -13032,7 +13032,7 @@
   {
     member_id: "1375",
     member_no: "1447",
-    member_name: "นางสาวสายชล  วิเศษสมบัติ",
+    member_name: "นางสาวสายชล วิเศษสมบัติ",
     member_money: "2000",
     member_sell: "13329.00",
     member_stock: "1033.02",
@@ -13042,7 +13042,7 @@
   {
     member_id: "1377",
     member_no: "1449",
-    member_name: "นายภราดร  จันทร์หนองสรวง",
+    member_name: "นายภราดร จันทร์หนองสรวง",
     member_money: "3000",
     member_sell: "17967.00",
     member_stock: "1549.53",
@@ -13052,7 +13052,7 @@
   {
     member_id: "1378",
     member_no: "1450",
-    member_name: "นายวรายุทธ  สุวรรณโท",
+    member_name: "นายวรายุทธ สุวรรณโท",
     member_money: "3000",
     member_sell: "0.00",
     member_stock: "1549.53",
@@ -13062,7 +13062,7 @@
   {
     member_id: "1380",
     member_no: "1452",
-    member_name: "นายพิชชากร  สุขเสถียร",
+    member_name: "นายพิชชากร สุขเสถียร",
     member_money: "3000",
     member_sell: "1765.00",
     member_stock: "1549.53",
@@ -13072,7 +13072,7 @@
   {
     member_id: "1381",
     member_no: "1453",
-    member_name: "นางสาวชริยากรณ์  สนธิสัมพันธ์",
+    member_name: "นางสาวชริยากรณ์ สนธิสัมพันธ์",
     member_money: "3000",
     member_sell: "892.00",
     member_stock: "1549.53",
@@ -13082,7 +13082,7 @@
   {
     member_id: "1382",
     member_no: "1454",
-    member_name: "นางสาวกรชนก  วชิรเมธารัตน์",
+    member_name: "นางสาวกรชนก วชิรเมธารัตน์",
     member_money: "3000",
     member_sell: "8032.00",
     member_stock: "1549.53",
@@ -13092,7 +13092,7 @@
   {
     member_id: "1384",
     member_no: "1458",
-    member_name: "นายภคิน  โตเหมือน",
+    member_name: "นายภคิน โตเหมือน",
     member_money: "3000",
     member_sell: "7041.00",
     member_stock: "1549.53",
@@ -13102,7 +13102,7 @@
   {
     member_id: "1386",
     member_no: "1461",
-    member_name: "นายภูเบศวร์  เตียงเฉียง",
+    member_name: "นายภูเบศวร์ เตียงเฉียง",
     member_money: "3000",
     member_sell: "13945.00",
     member_stock: "1549.53",
@@ -13112,7 +13112,7 @@
   {
     member_id: "1387",
     member_no: "1462",
-    member_name: "นายจิตภัทร  พีรเพ็ญโภคัย",
+    member_name: "นายจิตภัทร พีรเพ็ญโภคัย",
     member_money: "3000",
     member_sell: "123.00",
     member_stock: "1549.53",
@@ -13122,7 +13122,7 @@
   {
     member_id: "1388",
     member_no: "1463",
-    member_name: "นางสาวกุลธิดา  โพธิศรี",
+    member_name: "นางสาวกุลธิดา โพธิศรี",
     member_money: "3000",
     member_sell: "9250.00",
     member_stock: "1549.53",
@@ -13132,7 +13132,7 @@
   {
     member_id: "1389",
     member_no: "1464",
-    member_name: "นางสาวพนัญญา  จอมพรรษา",
+    member_name: "นางสาวพนัญญา จอมพรรษา",
     member_money: "3000",
     member_sell: "0.00",
     member_stock: "1549.53",
@@ -13142,7 +13142,7 @@
   {
     member_id: "1390",
     member_no: "1465",
-    member_name: "นายสุริยกาล  ธนูศิลป์",
+    member_name: "นายสุริยกาล ธนูศิลป์",
     member_money: "3000",
     member_sell: "9011.00",
     member_stock: "1549.53",
@@ -13152,7 +13152,7 @@
   {
     member_id: "1391",
     member_no: "1466",
-    member_name: "นายจักรี  กันต์พิทยา",
+    member_name: "นายจักรี กันต์พิทยา",
     member_money: "3000",
     member_sell: "0.00",
     member_stock: "1549.53",
@@ -13162,7 +13162,7 @@
   {
     member_id: "1392",
     member_no: "1468",
-    member_name: "นางสาวภคธิดา  กลางบุรัมย์",
+    member_name: "นางสาวภคธิดา กลางบุรัมย์",
     member_money: "3000",
     member_sell: "7353.00",
     member_stock: "1549.53",
@@ -13172,7 +13172,7 @@
   {
     member_id: "1393",
     member_no: "1469",
-    member_name: "นางสาวชฎาพร  วงศ์พัฒนธนะ",
+    member_name: "นางสาวชฎาพร วงศ์พัฒนธนะ",
     member_money: "3000",
     member_sell: "5625.00",
     member_stock: "1549.53",
@@ -13182,7 +13182,7 @@
   {
     member_id: "1395",
     member_no: "1471",
-    member_name: "นายวีรภัทร  ศิลาพัฒน์",
+    member_name: "นายวีรภัทร ศิลาพัฒน์",
     member_money: "3000",
     member_sell: "19553.00",
     member_stock: "1549.53",
@@ -13192,7 +13192,7 @@
   {
     member_id: "1396",
     member_no: "1472",
-    member_name: "นายสิขเรศ  อาษารัฐ",
+    member_name: "นายสิขเรศ อาษารัฐ",
     member_money: "500",
     member_sell: "10006.00",
     member_stock: "258.26",
@@ -13202,7 +13202,7 @@
   {
     member_id: "1398",
     member_no: "1474",
-    member_name: "นายฐานิศร  คำสวนจิก",
+    member_name: "นายฐานิศร คำสวนจิก",
     member_money: "3000",
     member_sell: "10353.00",
     member_stock: "1549.53",
@@ -13212,7 +13212,7 @@
   {
     member_id: "1399",
     member_no: "1475",
-    member_name: "นางสาวสวนีย์  นิรันดร์ศิริผล",
+    member_name: "นางสาวสวนีย์ นิรันดร์ศิริผล",
     member_money: "3000",
     member_sell: "4461.00",
     member_stock: "1549.53",
@@ -13222,7 +13222,7 @@
   {
     member_id: "1400",
     member_no: "1476",
-    member_name: "นางสาวสุกานดา  รักษาก้านตง",
+    member_name: "นางสาวสุกานดา รักษาก้านตง",
     member_money: "2000",
     member_sell: "8260.00",
     member_stock: "1033.02",
@@ -13232,7 +13232,7 @@
   {
     member_id: "1401",
     member_no: "1477",
-    member_name: "นางสาวช่อระย้า  สิงห์สนั่น",
+    member_name: "นางสาวช่อระย้า สิงห์สนั่น",
     member_money: "2000",
     member_sell: "11768.00",
     member_stock: "1033.02",
@@ -13242,7 +13242,7 @@
   {
     member_id: "1402",
     member_no: "1478",
-    member_name: "นายชัยชนะ  ราตรีสุข",
+    member_name: "นายชัยชนะ ราตรีสุข",
     member_money: "2000",
     member_sell: "7138.00",
     member_stock: "1033.02",
@@ -13252,7 +13252,7 @@
   {
     member_id: "1403",
     member_no: "1479",
-    member_name: "นางสาวภริตา  สุขวงษ์",
+    member_name: "นางสาวภริตา สุขวงษ์",
     member_money: "1000",
     member_sell: "2680.00",
     member_stock: "516.51",
@@ -13262,7 +13262,7 @@
   {
     member_id: "1404",
     member_no: "1480",
-    member_name: "นางสาวศศิธร  ค่อมคิรินทร์",
+    member_name: "นางสาวศศิธร ค่อมคิรินทร์",
     member_money: "2000",
     member_sell: "8729.00",
     member_stock: "1033.02",
@@ -13272,7 +13272,7 @@
   {
     member_id: "1405",
     member_no: "1481",
-    member_name: "นางสาวจารุณี  กลีบรัง",
+    member_name: "นางสาวจารุณี กลีบรัง",
     member_money: "2000",
     member_sell: "3738.00",
     member_stock: "1033.02",
@@ -13282,7 +13282,7 @@
   {
     member_id: "1406",
     member_no: "1482",
-    member_name: "นางสาวจิรนันท์  เทียมจันทร์",
+    member_name: "นางสาวจิรนันท์ เทียมจันทร์",
     member_money: "2000",
     member_sell: "3392.00",
     member_stock: "1033.02",
@@ -13292,7 +13292,7 @@
   {
     member_id: "1407",
     member_no: "1483",
-    member_name: "นางสาวอลิสา  ภูจีจร",
+    member_name: "นางสาวอลิสา ภูจีจร",
     member_money: "1500",
     member_sell: "2551.00",
     member_stock: "774.77",
@@ -13302,7 +13302,7 @@
   {
     member_id: "1408",
     member_no: "1484",
-    member_name: "นางสาวกันต์สิริ  บัวกลาง",
+    member_name: "นางสาวกันต์สิริ บัวกลาง",
     member_money: "2000",
     member_sell: "23244.00",
     member_stock: "1033.02",
@@ -13312,7 +13312,7 @@
   {
     member_id: "1409",
     member_no: "1485",
-    member_name: "นางสราญจิต  บุตรคำโชติ",
+    member_name: "นางสราญจิต บุตรคำโชติ",
     member_money: "2000",
     member_sell: "6760.00",
     member_stock: "1033.02",
@@ -13322,7 +13322,7 @@
   {
     member_id: "1410",
     member_no: "1486",
-    member_name: "นายดำรงค์ศักดิ์  จันทะไพร",
+    member_name: "นายดำรงค์ศักดิ์ จันทะไพร",
     member_money: "2000",
     member_sell: "2278.00",
     member_stock: "1033.02",
@@ -13332,7 +13332,7 @@
   {
     member_id: "1411",
     member_no: "1487",
-    member_name: "นายจารุเทพ  ปรีชาเดชเจริญ",
+    member_name: "นายจารุเทพ ปรีชาเดชเจริญ",
     member_money: "2000",
     member_sell: "18540.00",
     member_stock: "1033.02",
@@ -13342,7 +13342,7 @@
   {
     member_id: "1412",
     member_no: "1488",
-    member_name: "นายธิติ  สายเชื้อ",
+    member_name: "นายธิติ สายเชื้อ",
     member_money: "2000",
     member_sell: "9573.00",
     member_stock: "1033.02",
@@ -13352,7 +13352,7 @@
   {
     member_id: "1413",
     member_no: "1489",
-    member_name: "นางสาวปริญญาภรณ์  ศรีภักดี",
+    member_name: "นางสาวปริญญาภรณ์ ศรีภักดี",
     member_money: "2000",
     member_sell: "16167.00",
     member_stock: "1033.02",
@@ -13362,7 +13362,7 @@
   {
     member_id: "1414",
     member_no: "1490",
-    member_name: "นางสาวแสงอรุณ  จันทะวงษา",
+    member_name: "นางสาวแสงอรุณ จันทะวงษา",
     member_money: "2000",
     member_sell: "2723.00",
     member_stock: "1033.02",
@@ -13372,7 +13372,7 @@
   {
     member_id: "1415",
     member_no: "1491",
-    member_name: "นางยุพาภรณ์  ดาระวัฒน์",
+    member_name: "นางยุพาภรณ์ ดาระวัฒน์",
     member_money: "1000",
     member_sell: "11361.00",
     member_stock: "516.51",
@@ -13382,7 +13382,7 @@
   {
     member_id: "1416",
     member_no: "1492",
-    member_name: "นางสาวอรนุช  มหาหงส์",
+    member_name: "นางสาวอรนุช มหาหงส์",
     member_money: "2000",
     member_sell: "14128.00",
     member_stock: "1033.02",
@@ -13392,7 +13392,7 @@
   {
     member_id: "1417",
     member_no: "1493",
-    member_name: "นางนนทรีย์  พละหงษ์",
+    member_name: "นางนนทรีย์ พละหงษ์",
     member_money: "1000",
     member_sell: "16061.00",
     member_stock: "516.51",
@@ -13402,7 +13402,7 @@
   {
     member_id: "1418",
     member_no: "1494",
-    member_name: "นายปฏิวัติ  บัวพันธ์",
+    member_name: "นายปฏิวัติ บัวพันธ์",
     member_money: "2000",
     member_sell: "43519.00",
     member_stock: "1033.02",
@@ -13412,7 +13412,7 @@
   {
     member_id: "1419",
     member_no: "1495",
-    member_name: "นายจรูญ  ไข่หิน",
+    member_name: "นายจรูญ ไข่หิน",
     member_money: "1800",
     member_sell: "30482.00",
     member_stock: "929.72",
@@ -13422,7 +13422,7 @@
   {
     member_id: "1420",
     member_no: "1496",
-    member_name: "นางสาวสดใส  แสนนาใต้",
+    member_name: "นางสาวสดใส แสนนาใต้",
     member_money: "1000",
     member_sell: "763.00",
     member_stock: "516.51",
@@ -13432,7 +13432,7 @@
   {
     member_id: "1421",
     member_no: "1497",
-    member_name: "นางเบ็ญจะ  นิยมวรรณ",
+    member_name: "นางเบ็ญจะ นิยมวรรณ",
     member_money: "2000",
     member_sell: "8871.00",
     member_stock: "1033.02",
@@ -13452,7 +13452,7 @@
   {
     member_id: "1423",
     member_no: "1499",
-    member_name: "นายธงชัย  เศษสรรพ์",
+    member_name: "นายธงชัย เศษสรรพ์",
     member_money: "2000",
     member_sell: "22904.00",
     member_stock: "1033.02",
@@ -13462,7 +13462,7 @@
   {
     member_id: "1424",
     member_no: "1500",
-    member_name: "นางอริษา  ชะรอ",
+    member_name: "นางอริษา ชะรอ",
     member_money: "2000",
     member_sell: "1728.00",
     member_stock: "1033.02",
@@ -13472,7 +13472,7 @@
   {
     member_id: "1425",
     member_no: "1501",
-    member_name: "นายภูวนัตถ์  ชมเชี่ยวชาญ",
+    member_name: "นายภูวนัตถ์ ชมเชี่ยวชาญ",
     member_money: "2000",
     member_sell: "4767.00",
     member_stock: "1033.02",
@@ -13482,7 +13482,7 @@
   {
     member_id: "1427",
     member_no: "1503",
-    member_name: "นางสิริมา  สิงห์ดารา",
+    member_name: "นางสิริมา สิงห์ดารา",
     member_money: "2000",
     member_sell: "36385.00",
     member_stock: "1033.02",
@@ -13492,7 +13492,7 @@
   {
     member_id: "1428",
     member_no: "1504",
-    member_name: "นางตา  แก้วขอนแก่น",
+    member_name: "นางตา แก้วขอนแก่น",
     member_money: "2000",
     member_sell: "1832.00",
     member_stock: "1033.02",
@@ -13502,7 +13502,7 @@
   {
     member_id: "1429",
     member_no: "1505",
-    member_name: "นางรุ่งนภา  เฉลยพจน์",
+    member_name: "นางรุ่งนภา เฉลยพจน์",
     member_money: "2000",
     member_sell: "21242.00",
     member_stock: "1033.02",
@@ -13512,7 +13512,7 @@
   {
     member_id: "1430",
     member_no: "1506",
-    member_name: "นางนฤมล  ขวาโนนรัง",
+    member_name: "นางนฤมล ขวาโนนรัง",
     member_money: "2000",
     member_sell: "11617.00",
     member_stock: "1033.02",
@@ -13522,7 +13522,7 @@
   {
     member_id: "1431",
     member_no: "1507",
-    member_name: "นางกรองแก้ว  ลาภโพธิ์ชัย",
+    member_name: "นางกรองแก้ว ลาภโพธิ์ชัย",
     member_money: "2000",
     member_sell: "8452.00",
     member_stock: "1033.02",
@@ -13532,7 +13532,7 @@
   {
     member_id: "1432",
     member_no: "1508",
-    member_name: "นายอุดมพร  แก้วสำราญ",
+    member_name: "นายอุดมพร แก้วสำราญ",
     member_money: "2000",
     member_sell: "876.00",
     member_stock: "1033.02",
@@ -13542,7 +13542,7 @@
   {
     member_id: "1433",
     member_no: "1509",
-    member_name: "นางศิริลักษณ์  ภูมิประเสริฐ",
+    member_name: "นางศิริลักษณ์ ภูมิประเสริฐ",
     member_money: "2000",
     member_sell: "150.00",
     member_stock: "1033.02",
@@ -13552,7 +13552,7 @@
   {
     member_id: "1434",
     member_no: "1510",
-    member_name: "นางไพจิตร  นามรักษ์",
+    member_name: "นางไพจิตร นามรักษ์",
     member_money: "2000",
     member_sell: "7329.00",
     member_stock: "1033.02",
@@ -13562,7 +13562,7 @@
   {
     member_id: "1435",
     member_no: "1511",
-    member_name: "นางศิริรัตน์  โสมาตย์",
+    member_name: "นางศิริรัตน์ โสมาตย์",
     member_money: "2000",
     member_sell: "29390.00",
     member_stock: "1033.02",
@@ -13572,7 +13572,7 @@
   {
     member_id: "1436",
     member_no: "1512",
-    member_name: "นางพรรณิภา  นิยมวัน",
+    member_name: "นางพรรณิภา นิยมวัน",
     member_money: "2000",
     member_sell: "4585.00",
     member_stock: "1033.02",
@@ -13582,7 +13582,7 @@
   {
     member_id: "1437",
     member_no: "1513",
-    member_name: "นางสาวอภิรดี  อัปมรกัง",
+    member_name: "นางสาวอภิรดี อัปมรกัง",
     member_money: "2000",
     member_sell: "15196.00",
     member_stock: "1033.02",
@@ -13592,7 +13592,7 @@
   {
     member_id: "1438",
     member_no: "1514",
-    member_name: "นางภัทราวดี  สาเกตุ",
+    member_name: "นางภัทราวดี สาเกตุ",
     member_money: "2000",
     member_sell: "16075.00",
     member_stock: "1033.02",
@@ -13602,7 +13602,7 @@
   {
     member_id: "1439",
     member_no: "1515",
-    member_name: "นางทศพร  นาเมืองรักษ์",
+    member_name: "นางทศพร นาเมืองรักษ์",
     member_money: "2000",
     member_sell: "22366.00",
     member_stock: "1033.02",
@@ -13612,7 +13612,7 @@
   {
     member_id: "1440",
     member_no: "1516",
-    member_name: "นายวนัส  สุดหล้า",
+    member_name: "นายวนัส สุดหล้า",
     member_money: "2000",
     member_sell: "14757.00",
     member_stock: "1033.02",
@@ -13622,7 +13622,7 @@
   {
     member_id: "1441",
     member_no: "1517",
-    member_name: "นายอภิสิทธ์  วินทะไชย",
+    member_name: "นายอภิสิทธ์ วินทะไชย",
     member_money: "2000",
     member_sell: "24360.00",
     member_stock: "1033.02",
@@ -13632,7 +13632,7 @@
   {
     member_id: "1442",
     member_no: "1518",
-    member_name: "นายราชันต์  น้อยวิบล",
+    member_name: "นายราชันต์ น้อยวิบล",
     member_money: "1000",
     member_sell: "6031.00",
     member_stock: "516.51",
@@ -13642,7 +13642,7 @@
   {
     member_id: "1443",
     member_no: "1519",
-    member_name: "นายสุลักษณ์  สระประทุม",
+    member_name: "นายสุลักษณ์ สระประทุม",
     member_money: "2000",
     member_sell: "78749.00",
     member_stock: "1033.02",
@@ -13652,7 +13652,7 @@
   {
     member_id: "1444",
     member_no: "1520",
-    member_name: "นางสาวสุภาพร  จันโทมุข",
+    member_name: "นางสาวสุภาพร จันโทมุข",
     member_money: "1000",
     member_sell: "35150.00",
     member_stock: "516.51",
@@ -13662,7 +13662,7 @@
   {
     member_id: "1445",
     member_no: "1521",
-    member_name: "นายฐาปกิตต์  สาระคำ",
+    member_name: "นายฐาปกิตต์ สาระคำ",
     member_money: "1000",
     member_sell: "3642.00",
     member_stock: "516.51",
@@ -13672,7 +13672,7 @@
   {
     member_id: "1446",
     member_no: "1522",
-    member_name: "นายไพบูลย์  เพ็ญสุวรรณ",
+    member_name: "นายไพบูลย์ เพ็ญสุวรรณ",
     member_money: "2000",
     member_sell: "124.00",
     member_stock: "1033.02",
@@ -13682,7 +13682,7 @@
   {
     member_id: "1447",
     member_no: "1523",
-    member_name: "นางสาวจินตนา  ภูนาโคก",
+    member_name: "นางสาวจินตนา ภูนาโคก",
     member_money: "2000",
     member_sell: "15994.00",
     member_stock: "1033.02",
@@ -13692,7 +13692,7 @@
   {
     member_id: "1448",
     member_no: "1524",
-    member_name: "นางสาวศิรินันท์  เที่ยงผดุง",
+    member_name: "นางสาวศิรินันท์ เที่ยงผดุง",
     member_money: "2000",
     member_sell: "5771.00",
     member_stock: "1033.02",
@@ -13702,7 +13702,7 @@
   {
     member_id: "1449",
     member_no: "1525",
-    member_name: "นางสาวยลดา  ไชยโสดา",
+    member_name: "นางสาวยลดา ไชยโสดา",
     member_money: "1000",
     member_sell: "5065.00",
     member_stock: "516.51",
@@ -13712,7 +13712,7 @@
   {
     member_id: "1450",
     member_no: "1526",
-    member_name: "นางสาววนิดา  แสนเมือง",
+    member_name: "นางสาววนิดา แสนเมือง",
     member_money: "2000",
     member_sell: "12541.00",
     member_stock: "1033.02",
@@ -13722,7 +13722,7 @@
   {
     member_id: "1451",
     member_no: "1527",
-    member_name: "นางอุษา  เชาว์ฉลาด",
+    member_name: "นางอุษา เชาว์ฉลาด",
     member_money: "2000",
     member_sell: "3690.00",
     member_stock: "1033.02",
@@ -13732,7 +13732,7 @@
   {
     member_id: "1452",
     member_no: "1528",
-    member_name: "ห้องสมุดร.พ.ร้อยเอ็ด  ",
+    member_name: "ห้องสมุดร.พ.ร้อยเอ็ด ",
     member_money: "2000",
     member_sell: "1438.00",
     member_stock: "1033.02",
@@ -13742,7 +13742,7 @@
   {
     member_id: "1453",
     member_no: "1529",
-    member_name: "นายสถิตย์  ศรีชมไชย",
+    member_name: "นายสถิตย์ ศรีชมไชย",
     member_money: "2000",
     member_sell: "9432.00",
     member_stock: "1033.02",
@@ -13752,7 +13752,7 @@
   {
     member_id: "1454",
     member_no: "1530",
-    member_name: "นางนิตนภา  พรมเกตุ",
+    member_name: "นางนิตนภา พรมเกตุ",
     member_money: "1000",
     member_sell: "8237.00",
     member_stock: "516.51",
@@ -13762,7 +13762,7 @@
   {
     member_id: "1455",
     member_no: "1531",
-    member_name: "นางอภิรดี  วรรณสาลา",
+    member_name: "นางอภิรดี วรรณสาลา",
     member_money: "2000",
     member_sell: "55.00",
     member_stock: "1033.02",
@@ -13772,7 +13772,7 @@
   {
     member_id: "1456",
     member_no: "1532",
-    member_name: "นายชำนาญ  พิลาภ",
+    member_name: "นายชำนาญ พิลาภ",
     member_money: "2000",
     member_sell: "1181.00",
     member_stock: "1033.02",
@@ -13782,7 +13782,7 @@
   {
     member_id: "1457",
     member_no: "1533",
-    member_name: "นางนัยนา  สมตัว",
+    member_name: "นางนัยนา สมตัว",
     member_money: "2000",
     member_sell: "23428.00",
     member_stock: "1033.02",
@@ -13792,7 +13792,7 @@
   {
     member_id: "1458",
     member_no: "1534",
-    member_name: "นางละมัย  หงษา",
+    member_name: "นางละมัย หงษา",
     member_money: "2000",
     member_sell: "78005.00",
     member_stock: "1033.02",
@@ -13802,7 +13802,7 @@
   {
     member_id: "1459",
     member_no: "1535",
-    member_name: "หอผู้ป่วยนรีเวชกรรม  ",
+    member_name: "หอผู้ป่วยนรีเวชกรรม ",
     member_money: "2000",
     member_sell: "13149.00",
     member_stock: "1033.02",
@@ -13812,7 +13812,7 @@
   {
     member_id: "1460",
     member_no: "1536",
-    member_name: "นางสาวนฤมล  โยธาจันทร์",
+    member_name: "นางสาวนฤมล โยธาจันทร์",
     member_money: "2000",
     member_sell: "8885.00",
     member_stock: "1033.02",
@@ -13822,7 +13822,7 @@
   {
     member_id: "1461",
     member_no: "1537",
-    member_name: "นายสุพรรณ  ปะติเท",
+    member_name: "นายสุพรรณ ปะติเท",
     member_money: "2000",
     member_sell: "4085.00",
     member_stock: "1033.02",
@@ -13832,7 +13832,7 @@
   {
     member_id: "1462",
     member_no: "1538",
-    member_name: "นางสาวจารุวรรณ  ประเศรษฐา",
+    member_name: "นางสาวจารุวรรณ ประเศรษฐา",
     member_money: "2000",
     member_sell: "21585.00",
     member_stock: "1033.02",
@@ -13842,7 +13842,7 @@
   {
     member_id: "1463",
     member_no: "1539",
-    member_name: "นางสาววรารัตน์  สันทิตย์",
+    member_name: "นางสาววรารัตน์ สันทิตย์",
     member_money: "2000",
     member_sell: "16580.00",
     member_stock: "1033.02",
@@ -13852,7 +13852,7 @@
   {
     member_id: "1464",
     member_no: "1540",
-    member_name: "นางสาวสิริธาดา  สมทรัพย์",
+    member_name: "นางสาวสิริธาดา สมทรัพย์",
     member_money: "2000",
     member_sell: "11007.00",
     member_stock: "1033.02",
@@ -13862,7 +13862,7 @@
   {
     member_id: "1466",
     member_no: "1542",
-    member_name: "นางสาวอรณิชา  หันชะนา",
+    member_name: "นางสาวอรณิชา หันชะนา",
     member_money: "2000",
     member_sell: "5565.00",
     member_stock: "1033.02",
@@ -13872,7 +13872,7 @@
   {
     member_id: "1467",
     member_no: "1543",
-    member_name: "นางสาวญาณะประภัทร์  วรรณภักดี",
+    member_name: "นางสาวญาณะประภัทร์ วรรณภักดี",
     member_money: "2000",
     member_sell: "11626.00",
     member_stock: "1033.02",
@@ -13882,7 +13882,7 @@
   {
     member_id: "1468",
     member_no: "1544",
-    member_name: "นางสาวเนตรณพิศ  กลางสวัสดิ์",
+    member_name: "นางสาวเนตรณพิศ กลางสวัสดิ์",
     member_money: "1500",
     member_sell: "3373.00",
     member_stock: "774.77",
@@ -13892,7 +13892,7 @@
   {
     member_id: "1469",
     member_no: "1545",
-    member_name: "นางสาวอุมภิกา  ซองเหล็กนอก",
+    member_name: "นางสาวอุมภิกา ซองเหล็กนอก",
     member_money: "1000",
     member_sell: "4747.00",
     member_stock: "516.51",
@@ -13902,7 +13902,7 @@
   {
     member_id: "1470",
     member_no: "1546",
-    member_name: "นางสาวสิริยานุช  พระวงศ์",
+    member_name: "นางสาวสิริยานุช พระวงศ์",
     member_money: "500",
     member_sell: "10730.00",
     member_stock: "258.26",
@@ -13912,7 +13912,7 @@
   {
     member_id: "1471",
     member_no: "1547",
-    member_name: "นางสาวกัลยาณี  อาชาสันติสุข",
+    member_name: "นางสาวกัลยาณี อาชาสันติสุข",
     member_money: "2000",
     member_sell: "4432.00",
     member_stock: "1033.02",
@@ -13922,7 +13922,7 @@
   {
     member_id: "1472",
     member_no: "1548",
-    member_name: "นางสาวรุจิรา  จำปาไตร",
+    member_name: "นางสาวรุจิรา จำปาไตร",
     member_money: "2000",
     member_sell: "2367.00",
     member_stock: "1033.02",
@@ -13932,7 +13932,7 @@
   {
     member_id: "1473",
     member_no: "1550",
-    member_name: "นางสาวจิตตรา  คัทจันทร์",
+    member_name: "นางสาวจิตตรา คัทจันทร์",
     member_money: "2000",
     member_sell: "3948.00",
     member_stock: "1033.02",
@@ -13942,7 +13942,7 @@
   {
     member_id: "1474",
     member_no: "1551",
-    member_name: "นางอรุณรัตน์  โกมะรัตน์",
+    member_name: "นางอรุณรัตน์ โกมะรัตน์",
     member_money: "2000",
     member_sell: "5599.00",
     member_stock: "1033.02",
@@ -13952,7 +13952,7 @@
   {
     member_id: "1475",
     member_no: "1552",
-    member_name: "นางสาวกฤษณา  คุณศรีเมฆ",
+    member_name: "นางสาวกฤษณา คุณศรีเมฆ",
     member_money: "2000",
     member_sell: "11373.00",
     member_stock: "1033.02",
@@ -13962,7 +13962,7 @@
   {
     member_id: "1476",
     member_no: "1553",
-    member_name: "นางสาวพุทธิมาศ  อินทร์ฉาย",
+    member_name: "นางสาวพุทธิมาศ อินทร์ฉาย",
     member_money: "2000",
     member_sell: "6781.00",
     member_stock: "1033.02",
@@ -13972,7 +13972,7 @@
   {
     member_id: "1477",
     member_no: "1554",
-    member_name: "นางมณีรัตน์  สุนทรโชติ",
+    member_name: "นางมณีรัตน์ สุนทรโชติ",
     member_money: "500",
     member_sell: "866.00",
     member_stock: "258.26",
@@ -13982,7 +13982,7 @@
   {
     member_id: "1478",
     member_no: "1555",
-    member_name: "นางศิริวรรณ  สุวรรณศรี",
+    member_name: "นางศิริวรรณ สุวรรณศรี",
     member_money: "2000",
     member_sell: "11032.00",
     member_stock: "1033.02",
@@ -13992,7 +13992,7 @@
   {
     member_id: "1479",
     member_no: "1556",
-    member_name: "นางสาวปลัดดา  เพ็ญสุวรรณ",
+    member_name: "นางสาวปลัดดา เพ็ญสุวรรณ",
     member_money: "2000",
     member_sell: "3032.00",
     member_stock: "1033.02",
@@ -14002,7 +14002,7 @@
   {
     member_id: "1480",
     member_no: "1557",
-    member_name: "นางสาวนภัฐมณ  มโนรัตน์",
+    member_name: "นางสาวนภัฐมณ มโนรัตน์",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -14012,7 +14012,7 @@
   {
     member_id: "1481",
     member_no: "1558",
-    member_name: "นายอภิชัย  ทิมเรืองเวช",
+    member_name: "นายอภิชัย ทิมเรืองเวช",
     member_money: "2000",
     member_sell: "15569.00",
     member_stock: "1033.02",
@@ -14022,7 +14022,7 @@
   {
     member_id: "1482",
     member_no: "1559",
-    member_name: "นางสาววิภาวรรณ  ตะธุง",
+    member_name: "นางสาววิภาวรรณ ตะธุง",
     member_money: "2000",
     member_sell: "7868.00",
     member_stock: "1033.02",
@@ -14032,7 +14032,7 @@
   {
     member_id: "1483",
     member_no: "1560",
-    member_name: "นางสาวแอน  สิงห์จานุสงค์",
+    member_name: "นางสาวแอน สิงห์จานุสงค์",
     member_money: "2000",
     member_sell: "5827.00",
     member_stock: "1033.02",
@@ -14042,7 +14042,7 @@
   {
     member_id: "1484",
     member_no: "1561",
-    member_name: "นางสาวชมรส  วารีศรี",
+    member_name: "นางสาวชมรส วารีศรี",
     member_money: "2000",
     member_sell: "4958.00",
     member_stock: "1033.02",
@@ -14052,7 +14052,7 @@
   {
     member_id: "1485",
     member_no: "1562",
-    member_name: "นางสาวหนึ่งฤทัย  ศิริเวช",
+    member_name: "นางสาวหนึ่งฤทัย ศิริเวช",
     member_money: "500",
     member_sell: "10205.00",
     member_stock: "258.26",
@@ -14062,7 +14062,7 @@
   {
     member_id: "1486",
     member_no: "1563",
-    member_name: "นางสาวสุกัญญา  สาชัยยันต์",
+    member_name: "นางสาวสุกัญญา สาชัยยันต์",
     member_money: "2000",
     member_sell: "11183.00",
     member_stock: "1033.02",
@@ -14072,7 +14072,7 @@
   {
     member_id: "1487",
     member_no: "1564",
-    member_name: "นางสาวนภาพร  สุวิอาจ",
+    member_name: "นางสาวนภาพร สุวิอาจ",
     member_money: "2000",
     member_sell: "9292.00",
     member_stock: "1033.02",
@@ -14082,7 +14082,7 @@
   {
     member_id: "1488",
     member_no: "1565",
-    member_name: "นางสาวจรัสศรี  สีลาวุธ",
+    member_name: "นางสาวจรัสศรี สีลาวุธ",
     member_money: "1000",
     member_sell: "4653.00",
     member_stock: "516.51",
@@ -14092,7 +14092,7 @@
   {
     member_id: "1489",
     member_no: "1566",
-    member_name: "นางปาลิณีย์  พิทักษ์จิระชัย",
+    member_name: "นางปาลิณีย์ พิทักษ์จิระชัย",
     member_money: "2000",
     member_sell: "13255.00",
     member_stock: "1033.02",
@@ -14102,7 +14102,7 @@
   {
     member_id: "1490",
     member_no: "1568",
-    member_name: "นายเสถียรพงษ์  ดวงศรีเสน",
+    member_name: "นายเสถียรพงษ์ ดวงศรีเสน",
     member_money: "2000",
     member_sell: "27746.00",
     member_stock: "1033.02",
@@ -14112,7 +14112,7 @@
   {
     member_id: "1491",
     member_no: "1569",
-    member_name: "นางพรทิพย์  สังฆมณี",
+    member_name: "นางพรทิพย์ สังฆมณี",
     member_money: "1000",
     member_sell: "39926.00",
     member_stock: "516.51",
@@ -14122,7 +14122,7 @@
   {
     member_id: "1492",
     member_no: "1570",
-    member_name: "นางสาววัชรี  เทพบำรุง",
+    member_name: "นางสาววัชรี เทพบำรุง",
     member_money: "2000",
     member_sell: "28744.00",
     member_stock: "1033.02",
@@ -14132,7 +14132,7 @@
   {
     member_id: "1493",
     member_no: "1571",
-    member_name: "นางสาวณัฐภรณ์  จอมคำสิงห์",
+    member_name: "นางสาวณัฐภรณ์ จอมคำสิงห์",
     member_money: "2000",
     member_sell: "19974.00",
     member_stock: "1033.02",
@@ -14142,7 +14142,7 @@
   {
     member_id: "1494",
     member_no: "1572",
-    member_name: "นางสาวเบญจวรรณ  อุ่นเจริญ",
+    member_name: "นางสาวเบญจวรรณ อุ่นเจริญ",
     member_money: "2000",
     member_sell: "9382.00",
     member_stock: "1033.02",
@@ -14152,7 +14152,7 @@
   {
     member_id: "1495",
     member_no: "1573",
-    member_name: "นางกฤษณาพร  อัคมูล",
+    member_name: "นางกฤษณาพร อัคมูล",
     member_money: "2000",
     member_sell: "15005.00",
     member_stock: "1033.02",
@@ -14162,7 +14162,7 @@
   {
     member_id: "1496",
     member_no: "1574",
-    member_name: "นางนพรัตน์  วรวงศ์",
+    member_name: "นางนพรัตน์ วรวงศ์",
     member_money: "2000",
     member_sell: "6906.00",
     member_stock: "1033.02",
@@ -14172,7 +14172,7 @@
   {
     member_id: "1497",
     member_no: "1575",
-    member_name: "นางสาวทัศนีย์  สุวรรณศรี",
+    member_name: "นางสาวทัศนีย์ สุวรรณศรี",
     member_money: "2000",
     member_sell: "10190.00",
     member_stock: "1033.02",
@@ -14182,7 +14182,7 @@
   {
     member_id: "1498",
     member_no: "1576",
-    member_name: "นายอดิเรก  ศิริษา",
+    member_name: "นายอดิเรก ศิริษา",
     member_money: "1000",
     member_sell: "339.00",
     member_stock: "516.51",
@@ -14192,7 +14192,7 @@
   {
     member_id: "1499",
     member_no: "1577",
-    member_name: "นางสาวสายสมร  คำยางจ้อง",
+    member_name: "นางสาวสายสมร คำยางจ้อง",
     member_money: "1000",
     member_sell: "11904.00",
     member_stock: "516.51",
@@ -14202,7 +14202,7 @@
   {
     member_id: "1500",
     member_no: "1578",
-    member_name: "นางสาวอมรรัตน์  ปาปะกัง",
+    member_name: "นางสาวอมรรัตน์ ปาปะกัง",
     member_money: "2000",
     member_sell: "12156.00",
     member_stock: "1033.02",
@@ -14212,7 +14212,7 @@
   {
     member_id: "1501",
     member_no: "1579",
-    member_name: "นางสาวจันดา  โขมาวัฒน์",
+    member_name: "นางสาวจันดา โขมาวัฒน์",
     member_money: "2000",
     member_sell: "67087.00",
     member_stock: "1033.02",
@@ -14222,7 +14222,7 @@
   {
     member_id: "1502",
     member_no: "1580",
-    member_name: "นายสมพงษ์  กะการดี",
+    member_name: "นายสมพงษ์ กะการดี",
     member_money: "2000",
     member_sell: "17052.00",
     member_stock: "1033.02",
@@ -14232,7 +14232,7 @@
   {
     member_id: "1503",
     member_no: "1581",
-    member_name: "นางพิมพ์พรรณ  เพิ่มธรรมสิน",
+    member_name: "นางพิมพ์พรรณ เพิ่มธรรมสิน",
     member_money: "2000",
     member_sell: "2291.00",
     member_stock: "1033.02",
@@ -14242,7 +14242,7 @@
   {
     member_id: "1504",
     member_no: "1582",
-    member_name: "กลุ่มงานแพทย์แผนไทย  ",
+    member_name: "กลุ่มงานแพทย์แผนไทย ",
     member_money: "2000",
     member_sell: "130.00",
     member_stock: "1033.02",
@@ -14252,7 +14252,7 @@
   {
     member_id: "1505",
     member_no: "1583",
-    member_name: "นางสาวปิโยรส  โสหนองบัว",
+    member_name: "นางสาวปิโยรส โสหนองบัว",
     member_money: "2000",
     member_sell: "20531.00",
     member_stock: "1033.02",
@@ -14262,7 +14262,7 @@
   {
     member_id: "1506",
     member_no: "1584",
-    member_name: "นางสาวอัครนาฏ  พิริยะวิไล",
+    member_name: "นางสาวอัครนาฏ พิริยะวิไล",
     member_money: "2000",
     member_sell: "292.00",
     member_stock: "1033.02",
@@ -14272,7 +14272,7 @@
   {
     member_id: "1507",
     member_no: "1585",
-    member_name: "นางสาวจุฆามาศ  จำปา",
+    member_name: "นางสาวจุฆามาศ จำปา",
     member_money: "2000",
     member_sell: "14810.00",
     member_stock: "1033.02",
@@ -14282,7 +14282,7 @@
   {
     member_id: "1508",
     member_no: "1586",
-    member_name: "นางสาวปวีณา  หงศาลา",
+    member_name: "นางสาวปวีณา หงศาลา",
     member_money: "1000",
     member_sell: "8184.00",
     member_stock: "516.51",
@@ -14292,7 +14292,7 @@
   {
     member_id: "1509",
     member_no: "1587",
-    member_name: "นางพจี  ชูบรรจง",
+    member_name: "นางพจี ชูบรรจง",
     member_money: "2000",
     member_sell: "4029.00",
     member_stock: "1033.02",
@@ -14302,7 +14302,7 @@
   {
     member_id: "1510",
     member_no: "1588",
-    member_name: "นางสาวธัญณิชา  รักษาราช",
+    member_name: "นางสาวธัญณิชา รักษาราช",
     member_money: "2000",
     member_sell: "2595.00",
     member_stock: "1033.02",
@@ -14312,7 +14312,7 @@
   {
     member_id: "1511",
     member_no: "1589",
-    member_name: "นางสาวอินนุอร  พลเยี่ยม",
+    member_name: "นางสาวอินนุอร พลเยี่ยม",
     member_money: "2000",
     member_sell: "3629.00",
     member_stock: "1033.02",
@@ -14322,7 +14322,7 @@
   {
     member_id: "1512",
     member_no: "1590",
-    member_name: "นางสาวจินตนา  อันทรินทร์",
+    member_name: "นางสาวจินตนา อันทรินทร์",
     member_money: "2000",
     member_sell: "8559.00",
     member_stock: "1033.02",
@@ -14332,7 +14332,7 @@
   {
     member_id: "1513",
     member_no: "1591",
-    member_name: "นางสาวจรรยา  โพธิ์เตมิย์",
+    member_name: "นางสาวจรรยา โพธิ์เตมิย์",
     member_money: "2000",
     member_sell: "4900.00",
     member_stock: "1033.02",
@@ -14342,7 +14342,7 @@
   {
     member_id: "1514",
     member_no: "1592",
-    member_name: "คลินิกมะเร็งOPDชั้น2  ",
+    member_name: "คลินิกมะเร็งOPDชั้น2 ",
     member_money: "2000",
     member_sell: "757.00",
     member_stock: "1033.02",
@@ -14352,7 +14352,7 @@
   {
     member_id: "1515",
     member_no: "1594",
-    member_name: "นางพิศมัย  นิลสุ",
+    member_name: "นางพิศมัย นิลสุ",
     member_money: "2000",
     member_sell: "9817.00",
     member_stock: "1033.02",
@@ -14362,7 +14362,7 @@
   {
     member_id: "1516",
     member_no: "1595",
-    member_name: "นางสาวอิงดาว  เสนาเมือง",
+    member_name: "นางสาวอิงดาว เสนาเมือง",
     member_money: "2000",
     member_sell: "4122.00",
     member_stock: "1033.02",
@@ -14372,7 +14372,7 @@
   {
     member_id: "1517",
     member_no: "1596",
-    member_name: "นางสาวจันจิรา  เพ็งวิภาส",
+    member_name: "นางสาวจันจิรา เพ็งวิภาส",
     member_money: "2000",
     member_sell: "10182.00",
     member_stock: "1033.02",
@@ -14382,7 +14382,7 @@
   {
     member_id: "1518",
     member_no: "1597",
-    member_name: "นางแพรวนภา  ศรีหาเวช",
+    member_name: "นางแพรวนภา ศรีหาเวช",
     member_money: "1500",
     member_sell: "15565.00",
     member_stock: "774.77",
@@ -14392,7 +14392,7 @@
   {
     member_id: "1519",
     member_no: "1598",
-    member_name: "นางสาวจินดารัตน์  ตรวจมรรคา",
+    member_name: "นางสาวจินดารัตน์ ตรวจมรรคา",
     member_money: "2000",
     member_sell: "28270.00",
     member_stock: "1033.02",
@@ -14402,7 +14402,7 @@
   {
     member_id: "1520",
     member_no: "1599",
-    member_name: "นางสาวมะลิวัฒน์  โชติชื่น",
+    member_name: "นางสาวมะลิวัฒน์ โชติชื่น",
     member_money: "2000",
     member_sell: "15540.00",
     member_stock: "1033.02",
@@ -14412,7 +14412,7 @@
   {
     member_id: "1521",
     member_no: "1600",
-    member_name: "นางสาววิไลลักษณ์  วิเชียรลม",
+    member_name: "นางสาววิไลลักษณ์ วิเชียรลม",
     member_money: "2000",
     member_sell: "59325.00",
     member_stock: "1033.02",
@@ -14422,7 +14422,7 @@
   {
     member_id: "1522",
     member_no: "1601",
-    member_name: "นางสาวชนกพร  ตันวัฒนานนท์",
+    member_name: "นางสาวชนกพร ตันวัฒนานนท์",
     member_money: "2000",
     member_sell: "2555.00",
     member_stock: "1033.02",
@@ -14432,7 +14432,7 @@
   {
     member_id: "1523",
     member_no: "1602",
-    member_name: "นางสาวภาสินี  อุดรทักษ์",
+    member_name: "นางสาวภาสินี อุดรทักษ์",
     member_money: "2000",
     member_sell: "3413.00",
     member_stock: "1033.02",
@@ -14442,7 +14442,7 @@
   {
     member_id: "1524",
     member_no: "1603",
-    member_name: "นายกฤตทินันท์  ศรีสุนาครัว",
+    member_name: "นายกฤตทินันท์ ศรีสุนาครัว",
     member_money: "1000",
     member_sell: "9588.00",
     member_stock: "516.51",
@@ -14452,7 +14452,7 @@
   {
     member_id: "1525",
     member_no: "1604",
-    member_name: "นายกฤษกร  ปะวะเสนัง",
+    member_name: "นายกฤษกร ปะวะเสนัง",
     member_money: "2000",
     member_sell: "10663.00",
     member_stock: "1033.02",
@@ -14462,7 +14462,7 @@
   {
     member_id: "1526",
     member_no: "1605",
-    member_name: "นางสาววรรณวิสา  เข็มแก้ว",
+    member_name: "นางสาววรรณวิสา เข็มแก้ว",
     member_money: "2000",
     member_sell: "6293.00",
     member_stock: "1033.02",
@@ -14472,7 +14472,7 @@
   {
     member_id: "1527",
     member_no: "1606",
-    member_name: "นายจิตรณุคม  ตันวาณิชกุล",
+    member_name: "นายจิตรณุคม ตันวาณิชกุล",
     member_money: "2000",
     member_sell: "4086.00",
     member_stock: "1033.02",
@@ -14482,7 +14482,7 @@
   {
     member_id: "1528",
     member_no: "1607",
-    member_name: "นางสาวภวิษย์พร  หนันดี",
+    member_name: "นางสาวภวิษย์พร หนันดี",
     member_money: "1000",
     member_sell: "8969.00",
     member_stock: "516.51",
@@ -14492,7 +14492,7 @@
   {
     member_id: "1529",
     member_no: "1608",
-    member_name: "นางสาวพัชราภรณ์  พละหงษ์",
+    member_name: "นางสาวพัชราภรณ์ พละหงษ์",
     member_money: "2000",
     member_sell: "4590.00",
     member_stock: "1033.02",
@@ -14502,7 +14502,7 @@
   {
     member_id: "1530",
     member_no: "1609",
-    member_name: "นางธิดารัตน์  ขันแข็ง",
+    member_name: "นางธิดารัตน์ ขันแข็ง",
     member_money: "2000",
     member_sell: "15546.00",
     member_stock: "1033.02",
@@ -14512,7 +14512,7 @@
   {
     member_id: "1531",
     member_no: "1610",
-    member_name: "นางสาวจินตรา  นามจุมจัง",
+    member_name: "นางสาวจินตรา นามจุมจัง",
     member_money: "900",
     member_sell: "6692.00",
     member_stock: "464.86",
@@ -14522,7 +14522,7 @@
   {
     member_id: "1532",
     member_no: "1611",
-    member_name: "นางสาวปียาวรรณ  แซ่ลิ้ม",
+    member_name: "นางสาวปียาวรรณ แซ่ลิ้ม",
     member_money: "2000",
     member_sell: "14536.00",
     member_stock: "1033.02",
@@ -14532,7 +14532,7 @@
   {
     member_id: "1533",
     member_no: "1612",
-    member_name: "นายเกริกฤทธิ์  สุขเสถียร",
+    member_name: "นายเกริกฤทธิ์ สุขเสถียร",
     member_money: "2000",
     member_sell: "200.00",
     member_stock: "1033.02",
@@ -14542,7 +14542,7 @@
   {
     member_id: "1534",
     member_no: "1614",
-    member_name: "นางวารุณี  ประทุมเมฆ",
+    member_name: "นางวารุณี ประทุมเมฆ",
     member_money: "500",
     member_sell: "18043.00",
     member_stock: "258.26",
@@ -14552,7 +14552,7 @@
   {
     member_id: "1535",
     member_no: "1615",
-    member_name: "สหกรณ์ออมทรัพย์ ร.พ.  ",
+    member_name: "สหกรณ์ออมทรัพย์ ร.พ. ",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -14562,7 +14562,7 @@
   {
     member_id: "1536",
     member_no: "1616",
-    member_name: "นางสาวสมคิด  อุ่นเจริญ",
+    member_name: "นางสาวสมคิด อุ่นเจริญ",
     member_money: "1000",
     member_sell: "17134.00",
     member_stock: "516.51",
@@ -14572,7 +14572,7 @@
   {
     member_id: "1537",
     member_no: "1617",
-    member_name: "นางสาวนงค์นุช  นนทะคำจันทร์",
+    member_name: "นางสาวนงค์นุช นนทะคำจันทร์",
     member_money: "1000",
     member_sell: "10258.00",
     member_stock: "516.51",
@@ -14582,7 +14582,7 @@
   {
     member_id: "1538",
     member_no: "1618",
-    member_name: "นางตรีทิพย์  ดวงรัตน์มาลี",
+    member_name: "นางตรีทิพย์ ดวงรัตน์มาลี",
     member_money: "500",
     member_sell: "30368.00",
     member_stock: "258.26",
@@ -14592,7 +14592,7 @@
   {
     member_id: "1539",
     member_no: "1619",
-    member_name: "นางสาวนพวรรณ  สิมศรี",
+    member_name: "นางสาวนพวรรณ สิมศรี",
     member_money: "2000",
     member_sell: "6134.00",
     member_stock: "1033.02",
@@ -14602,7 +14602,7 @@
   {
     member_id: "1541",
     member_no: "1622",
-    member_name: "นายสมร  ยอดพรม",
+    member_name: "นายสมร ยอดพรม",
     member_money: "2000",
     member_sell: "25224.00",
     member_stock: "1033.02",
@@ -14612,7 +14612,7 @@
   {
     member_id: "1542",
     member_no: "1623",
-    member_name: "นางสาวขนิษฐา  แสนประดิษฐ์",
+    member_name: "นางสาวขนิษฐา แสนประดิษฐ์",
     member_money: "1000",
     member_sell: "5631.00",
     member_stock: "516.51",
@@ -14622,7 +14622,7 @@
   {
     member_id: "1543",
     member_no: "1625",
-    member_name: "นางสาววาสนา  เทพนาที",
+    member_name: "นางสาววาสนา เทพนาที",
     member_money: "200",
     member_sell: "8054.00",
     member_stock: "103.30",
@@ -14632,7 +14632,7 @@
   {
     member_id: "1544",
     member_no: "1626",
-    member_name: "งานสุขศึกษา  ",
+    member_name: "งานสุขศึกษา ",
     member_money: "2000",
     member_sell: "5341.00",
     member_stock: "1033.02",
@@ -14642,7 +14642,7 @@
   {
     member_id: "1545",
     member_no: "1627",
-    member_name: "นางสาวกัลยาวดี  สัตนาโค",
+    member_name: "นางสาวกัลยาวดี สัตนาโค",
     member_money: "2000",
     member_sell: "23342.00",
     member_stock: "1033.02",
@@ -14652,7 +14652,7 @@
   {
     member_id: "1546",
     member_no: "1628",
-    member_name: "นางสาววิภาวรรณ  พิลาแหวน",
+    member_name: "นางสาววิภาวรรณ พิลาแหวน",
     member_money: "2000",
     member_sell: "11643.00",
     member_stock: "1033.02",
@@ -14662,7 +14662,7 @@
   {
     member_id: "1547",
     member_no: "1630",
-    member_name: "นางสาวจุฑารัตน์  นิลผาย",
+    member_name: "นางสาวจุฑารัตน์ นิลผาย",
     member_money: "2000",
     member_sell: "7559.00",
     member_stock: "1033.02",
@@ -14672,7 +14672,7 @@
   {
     member_id: "1548",
     member_no: "1631",
-    member_name: "นางสาววิพาพร  จันจอหอ",
+    member_name: "นางสาววิพาพร จันจอหอ",
     member_money: "2000",
     member_sell: "11654.00",
     member_stock: "1033.02",
@@ -14682,7 +14682,7 @@
   {
     member_id: "1549",
     member_no: "1632",
-    member_name: "นายเจริญ  นิลสุ",
+    member_name: "นายเจริญ นิลสุ",
     member_money: "2000",
     member_sell: "1805.00",
     member_stock: "1033.02",
@@ -14692,7 +14692,7 @@
   {
     member_id: "1550",
     member_no: "1633",
-    member_name: "นางศิวพร  บุญญาธิพิทักษ์",
+    member_name: "นางศิวพร บุญญาธิพิทักษ์",
     member_money: "2000",
     member_sell: "2187.00",
     member_stock: "1033.02",
@@ -14702,7 +14702,7 @@
   {
     member_id: "1551",
     member_no: "1634",
-    member_name: "มหาวีโร 3  ",
+    member_name: "มหาวีโร 3 ",
     member_money: "2000",
     member_sell: "102.00",
     member_stock: "1033.02",
@@ -14712,7 +14712,7 @@
   {
     member_id: "1552",
     member_no: "1635",
-    member_name: "นายอนุชา  วรนาม",
+    member_name: "นายอนุชา วรนาม",
     member_money: "200",
     member_sell: "9361.00",
     member_stock: "103.30",
@@ -14722,7 +14722,7 @@
   {
     member_id: "1553",
     member_no: "1636",
-    member_name: "นางสาวลลิตา  โสดคำน้อย",
+    member_name: "นางสาวลลิตา โสดคำน้อย",
     member_money: "2000",
     member_sell: "5252.00",
     member_stock: "1033.02",
@@ -14732,7 +14732,7 @@
   {
     member_id: "1554",
     member_no: "1637",
-    member_name: "นางสาวจันจิรา  ราชภักดี",
+    member_name: "นางสาวจันจิรา ราชภักดี",
     member_money: "2000",
     member_sell: "8172.00",
     member_stock: "1033.02",
@@ -14742,7 +14742,7 @@
   {
     member_id: "1555",
     member_no: "1638",
-    member_name: "นายณรงค์  จตุเทน",
+    member_name: "นายณรงค์ จตุเทน",
     member_money: "2000",
     member_sell: "3222.00",
     member_stock: "1033.02",
@@ -14752,7 +14752,7 @@
   {
     member_id: "1556",
     member_no: "1639",
-    member_name: "นางสาวหัทยา  คำสุเรส",
+    member_name: "นางสาวหัทยา คำสุเรส",
     member_money: "2000",
     member_sell: "7755.00",
     member_stock: "1033.02",
@@ -14762,7 +14762,7 @@
   {
     member_id: "1557",
     member_no: "1640",
-    member_name: "นางสาวสุรีรัตน์  พลแสน",
+    member_name: "นางสาวสุรีรัตน์ พลแสน",
     member_money: "2000",
     member_sell: "9133.00",
     member_stock: "1033.02",
@@ -14772,7 +14772,7 @@
   {
     member_id: "1558",
     member_no: "1641",
-    member_name: "นางสาวณัฎฐินันท์  ปลาดลาภ",
+    member_name: "นางสาวณัฎฐินันท์ ปลาดลาภ",
     member_money: "1000",
     member_sell: "10236.00",
     member_stock: "516.51",
@@ -14782,7 +14782,7 @@
   {
     member_id: "1560",
     member_no: "1643",
-    member_name: "นายแสงศร  จุมมนตรี",
+    member_name: "นายแสงศร จุมมนตรี",
     member_money: "1000",
     member_sell: "16281.00",
     member_stock: "516.51",
@@ -14792,7 +14792,7 @@
   {
     member_id: "1561",
     member_no: "1644",
-    member_name: "นางสาวพิศมัย  คำโสกเชือก",
+    member_name: "นางสาวพิศมัย คำโสกเชือก",
     member_money: "2000",
     member_sell: "10460.00",
     member_stock: "1033.02",
@@ -14802,7 +14802,7 @@
   {
     member_id: "1562",
     member_no: "1645",
-    member_name: "นางสาววราวรรณ  รุ่งโชติ",
+    member_name: "นางสาววราวรรณ รุ่งโชติ",
     member_money: "1000",
     member_sell: "13927.00",
     member_stock: "516.51",
@@ -14812,7 +14812,7 @@
   {
     member_id: "1563",
     member_no: "1646",
-    member_name: "นางลำใจ  มูลคำมี",
+    member_name: "นางลำใจ มูลคำมี",
     member_money: "1000",
     member_sell: "3001.00",
     member_stock: "516.51",
@@ -14822,7 +14822,7 @@
   {
     member_id: "1564",
     member_no: "1648",
-    member_name: "งานจ่ายกลาง  ",
+    member_name: "งานจ่ายกลาง ",
     member_money: "2000",
     member_sell: "9205.00",
     member_stock: "1033.02",
@@ -14832,7 +14832,7 @@
   {
     member_id: "1565",
     member_no: "1649",
-    member_name: "นางสาวสุกัญญา  สร้อยอุดม",
+    member_name: "นางสาวสุกัญญา สร้อยอุดม",
     member_money: "500",
     member_sell: "6609.00",
     member_stock: "258.26",
@@ -14842,7 +14842,7 @@
   {
     member_id: "1566",
     member_no: "1650",
-    member_name: "นางสาวภรณ์ทิพา  โยคะวัฒน์",
+    member_name: "นางสาวภรณ์ทิพา โยคะวัฒน์",
     member_money: "1000",
     member_sell: "18376.00",
     member_stock: "516.51",
@@ -14852,7 +14852,7 @@
   {
     member_id: "1567",
     member_no: "1651",
-    member_name: "นางสาวศศิธร  ภูชมชื่น",
+    member_name: "นางสาวศศิธร ภูชมชื่น",
     member_money: "2000",
     member_sell: "14468.00",
     member_stock: "1033.02",
@@ -14862,7 +14862,7 @@
   {
     member_id: "1568",
     member_no: "1652",
-    member_name: "นางสาวศศิชา  ศรีนอก",
+    member_name: "นางสาวศศิชา ศรีนอก",
     member_money: "1000",
     member_sell: "7000.00",
     member_stock: "516.51",
@@ -14872,7 +14872,7 @@
   {
     member_id: "1569",
     member_no: "1653",
-    member_name: "นางสาวธิดารัตน์  หน่อแก้ว",
+    member_name: "นางสาวธิดารัตน์ หน่อแก้ว",
     member_money: "2000",
     member_sell: "3648.00",
     member_stock: "1033.02",
@@ -14882,7 +14882,7 @@
   {
     member_id: "1570",
     member_no: "1654",
-    member_name: "นางสาวสังวาลย์  ยุระไพร",
+    member_name: "นางสาวสังวาลย์ ยุระไพร",
     member_money: "2000",
     member_sell: "2377.00",
     member_stock: "1033.02",
@@ -14892,7 +14892,7 @@
   {
     member_id: "1571",
     member_no: "1655",
-    member_name: "นางสาวนพมาศ  สุวรรณศรี",
+    member_name: "นางสาวนพมาศ สุวรรณศรี",
     member_money: "2000",
     member_sell: "3704.00",
     member_stock: "1033.02",
@@ -14902,7 +14902,7 @@
   {
     member_id: "1572",
     member_no: "1656",
-    member_name: "นายสิทธิเดช  แสนโยธา",
+    member_name: "นายสิทธิเดช แสนโยธา",
     member_money: "2000",
     member_sell: "7523.00",
     member_stock: "1033.02",
@@ -14912,7 +14912,7 @@
   {
     member_id: "1573",
     member_no: "1657",
-    member_name: "นางสาวลดาภรณ์  โคตรสุวรรณ์",
+    member_name: "นางสาวลดาภรณ์ โคตรสุวรรณ์",
     member_money: "2000",
     member_sell: "1482.00",
     member_stock: "1033.02",
@@ -14922,7 +14922,7 @@
   {
     member_id: "1574",
     member_no: "1658",
-    member_name: "นางสาวจุฑาภรณ์  ลาภอาษา",
+    member_name: "นางสาวจุฑาภรณ์ ลาภอาษา",
     member_money: "2000",
     member_sell: "26637.00",
     member_stock: "1033.02",
@@ -14932,7 +14932,7 @@
   {
     member_id: "1575",
     member_no: "1659",
-    member_name: "นางสาวกาญจน์กมล  ชามะรัตน์",
+    member_name: "นางสาวกาญจน์กมล ชามะรัตน์",
     member_money: "2000",
     member_sell: "16307.00",
     member_stock: "1033.02",
@@ -14942,7 +14942,7 @@
   {
     member_id: "1576",
     member_no: "1660",
-    member_name: "นางสาววิภาวี  มาศเกษม",
+    member_name: "นางสาววิภาวี มาศเกษม",
     member_money: "2000",
     member_sell: "13762.00",
     member_stock: "1033.02",
@@ -14952,7 +14952,7 @@
   {
     member_id: "1578",
     member_no: "1662",
-    member_name: "นางสุธาทิพย์  สังฆะมณี",
+    member_name: "นางสุธาทิพย์ สังฆะมณี",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -14962,7 +14962,7 @@
   {
     member_id: "1579",
     member_no: "1663",
-    member_name: "นางสาวแพรวพรรณ  พลเยี่ยม",
+    member_name: "นางสาวแพรวพรรณ พลเยี่ยม",
     member_money: "2000",
     member_sell: "4241.00",
     member_stock: "1033.02",
@@ -14972,7 +14972,7 @@
   {
     member_id: "1580",
     member_no: "1664",
-    member_name: "นางลำพัง  สุ่มมาตย์",
+    member_name: "นางลำพัง สุ่มมาตย์",
     member_money: "1000",
     member_sell: "53634.00",
     member_stock: "516.51",
@@ -14982,7 +14982,7 @@
   {
     member_id: "1581",
     member_no: "1665",
-    member_name: "นางสาวภัทรวดี  ศรีหนองจิก",
+    member_name: "นางสาวภัทรวดี ศรีหนองจิก",
     member_money: "2000",
     member_sell: "4266.00",
     member_stock: "1033.02",
@@ -14992,7 +14992,7 @@
   {
     member_id: "1582",
     member_no: "1666",
-    member_name: "ชมรมกีฬาร.พ.ร้อยเอ็ด  ",
+    member_name: "ชมรมกีฬาร.พ.ร้อยเอ็ด ",
     member_money: "2000",
     member_sell: "18993.00",
     member_stock: "1033.02",
@@ -15002,7 +15002,7 @@
   {
     member_id: "1583",
     member_no: "1667",
-    member_name: "นางกุลวรินทร์  จ่าหล้า",
+    member_name: "นางกุลวรินทร์ จ่าหล้า",
     member_money: "2000",
     member_sell: "85279.00",
     member_stock: "1033.02",
@@ -15012,7 +15012,7 @@
   {
     member_id: "1584",
     member_no: "1668",
-    member_name: "นางศจี  สุวรรณศรี",
+    member_name: "นางศจี สุวรรณศรี",
     member_money: "2000",
     member_sell: "7837.00",
     member_stock: "1033.02",
@@ -15022,7 +15022,7 @@
   {
     member_id: "1585",
     member_no: "1669",
-    member_name: "นางรัดดา  สังฆมณี",
+    member_name: "นางรัดดา สังฆมณี",
     member_money: "1000",
     member_sell: "9627.00",
     member_stock: "516.51",
@@ -15032,7 +15032,7 @@
   {
     member_id: "1586",
     member_no: "1670",
-    member_name: "นางสาวไพรัตน์  วินนุรักษ์",
+    member_name: "นางสาวไพรัตน์ วินนุรักษ์",
     member_money: "1000",
     member_sell: "11278.00",
     member_stock: "516.51",
@@ -15042,7 +15042,7 @@
   {
     member_id: "1587",
     member_no: "1671",
-    member_name: "นางวรรณา  บุญชัย",
+    member_name: "นางวรรณา บุญชัย",
     member_money: "500",
     member_sell: "19108.00",
     member_stock: "258.26",
@@ -15052,7 +15052,7 @@
   {
     member_id: "1588",
     member_no: "1672",
-    member_name: "นางพรรณี  อารีเอื้อ",
+    member_name: "นางพรรณี อารีเอื้อ",
     member_money: "2000",
     member_sell: "7637.00",
     member_stock: "1033.02",
@@ -15062,7 +15062,7 @@
   {
     member_id: "1589",
     member_no: "1673",
-    member_name: "นางสาวจิรนันท์  พิมพาสร้อย",
+    member_name: "นางสาวจิรนันท์ พิมพาสร้อย",
     member_money: "2000",
     member_sell: "3977.00",
     member_stock: "1033.02",
@@ -15072,7 +15072,7 @@
   {
     member_id: "1590",
     member_no: "1674",
-    member_name: "นางจำรัสลักษณ์  เจริญแสน",
+    member_name: "นางจำรัสลักษณ์ เจริญแสน",
     member_money: "2000",
     member_sell: "5800.00",
     member_stock: "1033.02",
@@ -15082,7 +15082,7 @@
   {
     member_id: "1591",
     member_no: "1675",
-    member_name: "นางสาวปาริสรา  เลี่อยไธสง",
+    member_name: "นางสาวปาริสรา เลี่อยไธสง",
     member_money: "2000",
     member_sell: "18420.00",
     member_stock: "1033.02",
@@ -15092,7 +15092,7 @@
   {
     member_id: "1592",
     member_no: "1676",
-    member_name: "นายยุทธชัย  สีลาเกตุ",
+    member_name: "นายยุทธชัย สีลาเกตุ",
     member_money: "2000",
     member_sell: "4980.00",
     member_stock: "1033.02",
@@ -15102,7 +15102,7 @@
   {
     member_id: "1594",
     member_no: "1679",
-    member_name: "นางสาวอัจฉรา  ปัสสำราญ",
+    member_name: "นางสาวอัจฉรา ปัสสำราญ",
     member_money: "2000",
     member_sell: "7520.00",
     member_stock: "1033.02",
@@ -15112,7 +15112,7 @@
   {
     member_id: "1595",
     member_no: "1680",
-    member_name: "นางสาวสุภาพร  เหลาลา",
+    member_name: "นางสาวสุภาพร เหลาลา",
     member_money: "200",
     member_sell: "24543.00",
     member_stock: "103.30",
@@ -15122,7 +15122,7 @@
   {
     member_id: "1596",
     member_no: "1681",
-    member_name: "นายสาคร  ถิ่นการ์",
+    member_name: "นายสาคร ถิ่นการ์",
     member_money: "2000",
     member_sell: "1803.00",
     member_stock: "1033.02",
@@ -15132,7 +15132,7 @@
   {
     member_id: "1597",
     member_no: "1683",
-    member_name: "นายรุ่งโรจน์  สีภูมินทร์",
+    member_name: "นายรุ่งโรจน์ สีภูมินทร์",
     member_money: "1000",
     member_sell: "1184.00",
     member_stock: "516.51",
@@ -15142,7 +15142,7 @@
   {
     member_id: "1598",
     member_no: "1684",
-    member_name: "นายดนัย  ทุมพร",
+    member_name: "นายดนัย ทุมพร",
     member_money: "2000",
     member_sell: "11226.00",
     member_stock: "1033.02",
@@ -15152,7 +15152,7 @@
   {
     member_id: "1599",
     member_no: "1685",
-    member_name: "นางสาวพัชญา  จตุวงษา",
+    member_name: "นางสาวพัชญา จตุวงษา",
     member_money: "500",
     member_sell: "10513.00",
     member_stock: "258.26",
@@ -15162,7 +15162,7 @@
   {
     member_id: "1600",
     member_no: "1686",
-    member_name: "นายธีรเดช  วรวงษ์",
+    member_name: "นายธีรเดช วรวงษ์",
     member_money: "2000",
     member_sell: "3806.00",
     member_stock: "1033.02",
@@ -15172,7 +15172,7 @@
   {
     member_id: "1601",
     member_no: "1687",
-    member_name: "นางสาวรติกร  เครือน้ำคำ",
+    member_name: "นางสาวรติกร เครือน้ำคำ",
     member_money: "2000",
     member_sell: "10719.00",
     member_stock: "1033.02",
@@ -15182,7 +15182,7 @@
   {
     member_id: "1602",
     member_no: "1688",
-    member_name: "นางสาวปราณี  บัวจันทร์",
+    member_name: "นางสาวปราณี บัวจันทร์",
     member_money: "2000",
     member_sell: "28444.00",
     member_stock: "1033.02",
@@ -15192,7 +15192,7 @@
   {
     member_id: "1603",
     member_no: "1689",
-    member_name: "นางสาววริยา  ยะสานติทพย์",
+    member_name: "นางสาววริยา ยะสานติทพย์",
     member_money: "2000",
     member_sell: "5417.00",
     member_stock: "1033.02",
@@ -15202,7 +15202,7 @@
   {
     member_id: "1604",
     member_no: "1690",
-    member_name: "นางสาวพนาวัลย์  พรมสีแก้ว",
+    member_name: "นางสาวพนาวัลย์ พรมสีแก้ว",
     member_money: "1000",
     member_sell: "7443.00",
     member_stock: "516.51",
@@ -15212,7 +15212,7 @@
   {
     member_id: "1605",
     member_no: "1692",
-    member_name: "นางสาวนิภาพร  ทองห้าว",
+    member_name: "นางสาวนิภาพร ทองห้าว",
     member_money: "500",
     member_sell: "18010.00",
     member_stock: "258.26",
@@ -15222,7 +15222,7 @@
   {
     member_id: "1606",
     member_no: "1693",
-    member_name: "นางสุภาพร  สังฆมณี",
+    member_name: "นางสุภาพร สังฆมณี",
     member_money: "1000",
     member_sell: "20386.00",
     member_stock: "516.51",
@@ -15232,7 +15232,7 @@
   {
     member_id: "1607",
     member_no: "1694",
-    member_name: "นายภูริทัตต์  สุทธิประภา",
+    member_name: "นายภูริทัตต์ สุทธิประภา",
     member_money: "2000",
     member_sell: "14919.00",
     member_stock: "1033.02",
@@ -15242,7 +15242,7 @@
   {
     member_id: "1608",
     member_no: "1695",
-    member_name: "นางสาวขวัญจิรา  กันทะโล",
+    member_name: "นางสาวขวัญจิรา กันทะโล",
     member_money: "2000",
     member_sell: "314.00",
     member_stock: "1033.02",
@@ -15252,7 +15252,7 @@
   {
     member_id: "1609",
     member_no: "1696",
-    member_name: "นางกฤษณา  ภายไธสง",
+    member_name: "นางกฤษณา ภายไธสง",
     member_money: "500",
     member_sell: "20012.00",
     member_stock: "258.26",
@@ -15262,7 +15262,7 @@
   {
     member_id: "1610",
     member_no: "1697",
-    member_name: "นางสาวทิพย์สุรีย์  ศรีปัญญา",
+    member_name: "นางสาวทิพย์สุรีย์ ศรีปัญญา",
     member_money: "2000",
     member_sell: "1245.00",
     member_stock: "1033.02",
@@ -15272,7 +15272,7 @@
   {
     member_id: "1611",
     member_no: "1698",
-    member_name: "นางสาวอังคณา  ผดุงกิจ",
+    member_name: "นางสาวอังคณา ผดุงกิจ",
     member_money: "2000",
     member_sell: "10299.00",
     member_stock: "1033.02",
@@ -15282,7 +15282,7 @@
   {
     member_id: "1612",
     member_no: "1699",
-    member_name: "นางสาวจิราพร  ดรกางสี",
+    member_name: "นางสาวจิราพร ดรกางสี",
     member_money: "2000",
     member_sell: "6959.00",
     member_stock: "1033.02",
@@ -15292,7 +15292,7 @@
   {
     member_id: "1613",
     member_no: "1700",
-    member_name: "นางสาวจันทิมาพร  ศิริอรรถ",
+    member_name: "นางสาวจันทิมาพร ศิริอรรถ",
     member_money: "2000",
     member_sell: "18715.00",
     member_stock: "1033.02",
@@ -15302,7 +15302,7 @@
   {
     member_id: "1615",
     member_no: "1702",
-    member_name: "นายธนะมินทร์  ภัคสิริจุฑานันท์",
+    member_name: "นายธนะมินทร์ ภัคสิริจุฑานันท์",
     member_money: "2000",
     member_sell: "6232.00",
     member_stock: "1033.02",
@@ -15312,7 +15312,7 @@
   {
     member_id: "1616",
     member_no: "1703",
-    member_name: "นางสาวมัยพร  คำนนท์",
+    member_name: "นางสาวมัยพร คำนนท์",
     member_money: "2000",
     member_sell: "20334.00",
     member_stock: "1033.02",
@@ -15322,7 +15322,7 @@
   {
     member_id: "1617",
     member_no: "1704",
-    member_name: "นางสาวภิญญาพัชญ์  สกุลสัญชาติไทย",
+    member_name: "นางสาวภิญญาพัชญ์ สกุลสัญชาติไทย",
     member_money: "2000",
     member_sell: "2627.00",
     member_stock: "1033.02",
@@ -15332,7 +15332,7 @@
   {
     member_id: "1618",
     member_no: "1705",
-    member_name: "นางสาวเพ็ญนภา  ใจฉวะ",
+    member_name: "นางสาวเพ็ญนภา ใจฉวะ",
     member_money: "2000",
     member_sell: "10062.00",
     member_stock: "1033.02",
@@ -15342,7 +15342,7 @@
   {
     member_id: "1620",
     member_no: "1707",
-    member_name: "นางสาวฐิตินันท์  ไตรนาคม",
+    member_name: "นางสาวฐิตินันท์ ไตรนาคม",
     member_money: "2000",
     member_sell: "1306.00",
     member_stock: "1033.02",
@@ -15352,7 +15352,7 @@
   {
     member_id: "1621",
     member_no: "1708",
-    member_name: "นางสาวสุดารัตน์  กุลวงค์",
+    member_name: "นางสาวสุดารัตน์ กุลวงค์",
     member_money: "1500",
     member_sell: "6632.00",
     member_stock: "774.77",
@@ -15362,7 +15362,7 @@
   {
     member_id: "1622",
     member_no: "1709",
-    member_name: "นางสาวศุภลักษณ์  ยายิรัมย์",
+    member_name: "นางสาวศุภลักษณ์ ยายิรัมย์",
     member_money: "2000",
     member_sell: "3105.00",
     member_stock: "1033.02",
@@ -15372,7 +15372,7 @@
   {
     member_id: "1623",
     member_no: "1710",
-    member_name: "นางสุภาพร  เงินดี",
+    member_name: "นางสุภาพร เงินดี",
     member_money: "2000",
     member_sell: "797.00",
     member_stock: "1033.02",
@@ -15382,7 +15382,7 @@
   {
     member_id: "1624",
     member_no: "1711",
-    member_name: "นางสาวรวิวรรณ  โมกขรัตน์",
+    member_name: "นางสาวรวิวรรณ โมกขรัตน์",
     member_money: "2000",
     member_sell: "4137.00",
     member_stock: "1033.02",
@@ -15392,7 +15392,7 @@
   {
     member_id: "1625",
     member_no: "1712",
-    member_name: "นางสาวแคทรียา  แมนสถิตย์",
+    member_name: "นางสาวแคทรียา แมนสถิตย์",
     member_money: "2000",
     member_sell: "4004.00",
     member_stock: "1033.02",
@@ -15402,7 +15402,7 @@
   {
     member_id: "1626",
     member_no: "1713",
-    member_name: "นางสาวรวิวรรณ  พลลาภ",
+    member_name: "นางสาวรวิวรรณ พลลาภ",
     member_money: "2000",
     member_sell: "3269.00",
     member_stock: "1033.02",
@@ -15412,7 +15412,7 @@
   {
     member_id: "1627",
     member_no: "1714",
-    member_name: "นางอิสรีย์  พันธะภิบาล",
+    member_name: "นางอิสรีย์ พันธะภิบาล",
     member_money: "2000",
     member_sell: "1522.00",
     member_stock: "1033.02",
@@ -15422,7 +15422,7 @@
   {
     member_id: "1628",
     member_no: "1715",
-    member_name: "นางสาวนิลุมล  เงินหมื่น",
+    member_name: "นางสาวนิลุมล เงินหมื่น",
     member_money: "2000",
     member_sell: "15903.00",
     member_stock: "1033.02",
@@ -15432,7 +15432,7 @@
   {
     member_id: "1629",
     member_no: "1716",
-    member_name: "นางสมควร  สอนโกษา",
+    member_name: "นางสมควร สอนโกษา",
     member_money: "2000",
     member_sell: "25221.00",
     member_stock: "1033.02",
@@ -15442,7 +15442,7 @@
   {
     member_id: "1631",
     member_no: "1718",
-    member_name: "นายพิทักษ์ชัย  วิจารจันทร์",
+    member_name: "นายพิทักษ์ชัย วิจารจันทร์",
     member_money: "2000",
     member_sell: "2988.00",
     member_stock: "1033.02",
@@ -15452,7 +15452,7 @@
   {
     member_id: "1632",
     member_no: "1719",
-    member_name: "นางสมเพ็ชร  ผุดผ่อง",
+    member_name: "นางสมเพ็ชร ผุดผ่อง",
     member_money: "2000",
     member_sell: "7327.00",
     member_stock: "1033.02",
@@ -15462,7 +15462,7 @@
   {
     member_id: "1633",
     member_no: "1720",
-    member_name: "งานเภสัชกรรมปฐมภูมิ  ",
+    member_name: "งานเภสัชกรรมปฐมภูมิ ",
     member_money: "2000",
     member_sell: "518.00",
     member_stock: "1033.02",
@@ -15472,7 +15472,7 @@
   {
     member_id: "1634",
     member_no: "1721",
-    member_name: "นายณรงค์ศักดิ์  บุญโตแสง",
+    member_name: "นายณรงค์ศักดิ์ บุญโตแสง",
     member_money: "1500",
     member_sell: "787.00",
     member_stock: "774.77",
@@ -15482,7 +15482,7 @@
   {
     member_id: "1635",
     member_no: "1722",
-    member_name: "นางพนิดา  ม่วงแมน",
+    member_name: "นางพนิดา ม่วงแมน",
     member_money: "700",
     member_sell: "13330.00",
     member_stock: "361.56",
@@ -15492,7 +15492,7 @@
   {
     member_id: "1636",
     member_no: "1723",
-    member_name: "นางสาวนงรัตน์  จันทิสิทธิ์",
+    member_name: "นางสาวนงรัตน์ จันทิสิทธิ์",
     member_money: "500",
     member_sell: "12305.00",
     member_stock: "258.26",
@@ -15502,7 +15502,7 @@
   {
     member_id: "1637",
     member_no: "1724",
-    member_name: "นางวิไลลักษณ์  สังสมานันท์",
+    member_name: "นางวิไลลักษณ์ สังสมานันท์",
     member_money: "2000",
     member_sell: "10724.00",
     member_stock: "1033.02",
@@ -15512,7 +15512,7 @@
   {
     member_id: "1638",
     member_no: "1725",
-    member_name: "นางสาวอรอนงค์  เสริฐวิชา",
+    member_name: "นางสาวอรอนงค์ เสริฐวิชา",
     member_money: "500",
     member_sell: "22686.00",
     member_stock: "258.26",
@@ -15522,7 +15522,7 @@
   {
     member_id: "1639",
     member_no: "1726",
-    member_name: "นางสาวณัฎฐ์กฤตา  ดำนอก",
+    member_name: "นางสาวณัฎฐ์กฤตา ดำนอก",
     member_money: "2000",
     member_sell: "1718.00",
     member_stock: "1033.02",
@@ -15532,7 +15532,7 @@
   {
     member_id: "1640",
     member_no: "1727",
-    member_name: "นางสาวจิราวรรณ  น้อยหลุบเลา",
+    member_name: "นางสาวจิราวรรณ น้อยหลุบเลา",
     member_money: "2000",
     member_sell: "2009.00",
     member_stock: "1033.02",
@@ -15542,7 +15542,7 @@
   {
     member_id: "1641",
     member_no: "1728",
-    member_name: "นางสาวโสรยา  วินทะไชย",
+    member_name: "นางสาวโสรยา วินทะไชย",
     member_money: "500",
     member_sell: "2400.00",
     member_stock: "258.26",
@@ -15552,7 +15552,7 @@
   {
     member_id: "1642",
     member_no: "1729",
-    member_name: "นางสาวหนึ่งฤทัย  เกษมสุข",
+    member_name: "นางสาวหนึ่งฤทัย เกษมสุข",
     member_money: "500",
     member_sell: "5042.00",
     member_stock: "258.26",
@@ -15562,7 +15562,7 @@
   {
     member_id: "1643",
     member_no: "1730",
-    member_name: "นางสาวเวนิกา  ปาปะกัง",
+    member_name: "นางสาวเวนิกา ปาปะกัง",
     member_money: "2000",
     member_sell: "3769.00",
     member_stock: "1033.02",
@@ -15572,7 +15572,7 @@
   {
     member_id: "1644",
     member_no: "1731",
-    member_name: "นางสาวจิราพร  โพธิชัย",
+    member_name: "นางสาวจิราพร โพธิชัย",
     member_money: "1000",
     member_sell: "12883.00",
     member_stock: "516.51",
@@ -15582,7 +15582,7 @@
   {
     member_id: "1645",
     member_no: "1732",
-    member_name: "นางสาวทัศวรรณ  แพงสีทา",
+    member_name: "นางสาวทัศวรรณ แพงสีทา",
     member_money: "2000",
     member_sell: "33996.00",
     member_stock: "1033.02",
@@ -15592,7 +15592,7 @@
   {
     member_id: "1646",
     member_no: "1733",
-    member_name: "นางสาวนันทิตา  สาระคำ",
+    member_name: "นางสาวนันทิตา สาระคำ",
     member_money: "2000",
     member_sell: "14612.00",
     member_stock: "1033.02",
@@ -15602,7 +15602,7 @@
   {
     member_id: "1647",
     member_no: "1734",
-    member_name: "นายยุทธชัย  บ่อทอง",
+    member_name: "นายยุทธชัย บ่อทอง",
     member_money: "1000",
     member_sell: "4809.00",
     member_stock: "516.51",
@@ -15612,7 +15612,7 @@
   {
     member_id: "1648",
     member_no: "1735",
-    member_name: "นางสาวณัฐกานต์  เรืองสนาม",
+    member_name: "นางสาวณัฐกานต์ เรืองสนาม",
     member_money: "2000",
     member_sell: "7697.00",
     member_stock: "1033.02",
@@ -15622,7 +15622,7 @@
   {
     member_id: "1649",
     member_no: "1736",
-    member_name: "นางสาวธิดารัตน์  พรมมา",
+    member_name: "นางสาวธิดารัตน์ พรมมา",
     member_money: "2000",
     member_sell: "10559.00",
     member_stock: "1033.02",
@@ -15632,7 +15632,7 @@
   {
     member_id: "1650",
     member_no: "1737",
-    member_name: "นางสาวศิริภรณ์  พิมพ์บูลย์",
+    member_name: "นางสาวศิริภรณ์ พิมพ์บูลย์",
     member_money: "2000",
     member_sell: "1986.00",
     member_stock: "1033.02",
@@ -15642,7 +15642,7 @@
   {
     member_id: "1651",
     member_no: "1738",
-    member_name: "นางสาวขวัญฤทัย  คำมณี",
+    member_name: "นางสาวขวัญฤทัย คำมณี",
     member_money: "1000",
     member_sell: "10890.00",
     member_stock: "516.51",
@@ -15652,7 +15652,7 @@
   {
     member_id: "1652",
     member_no: "1739",
-    member_name: "นางสาวบุษกร  แถลงสุข",
+    member_name: "นางสาวบุษกร แถลงสุข",
     member_money: "1000",
     member_sell: "22116.00",
     member_stock: "516.51",
@@ -15662,7 +15662,7 @@
   {
     member_id: "1653",
     member_no: "1740",
-    member_name: "นายรัฐพร  บำรุงผล",
+    member_name: "นายรัฐพร บำรุงผล",
     member_money: "2000",
     member_sell: "32986.00",
     member_stock: "1033.02",
@@ -15672,7 +15672,7 @@
   {
     member_id: "1654",
     member_no: "1741",
-    member_name: "นางสาวสุภลักษณ์  สังฆะมณี",
+    member_name: "นางสาวสุภลักษณ์ สังฆะมณี",
     member_money: "2000",
     member_sell: "19701.00",
     member_stock: "1033.02",
@@ -15682,7 +15682,7 @@
   {
     member_id: "1655",
     member_no: "1742",
-    member_name: "นางอรุณณี  ภาชนะวรรณ",
+    member_name: "นางอรุณณี ภาชนะวรรณ",
     member_money: "2000",
     member_sell: "14692.00",
     member_stock: "1033.02",
@@ -15692,7 +15692,7 @@
   {
     member_id: "1656",
     member_no: "1743",
-    member_name: "นางสาวอรวรรณ  เรืองสนาม",
+    member_name: "นางสาวอรวรรณ เรืองสนาม",
     member_money: "2000",
     member_sell: "1803.00",
     member_stock: "1033.02",
@@ -15702,7 +15702,7 @@
   {
     member_id: "1657",
     member_no: "1744",
-    member_name: "นายกรวิชญ์  ปิ่นละออ",
+    member_name: "นายกรวิชญ์ ปิ่นละออ",
     member_money: "1000",
     member_sell: "2261.00",
     member_stock: "516.51",
@@ -15712,7 +15712,7 @@
   {
     member_id: "1658",
     member_no: "1745",
-    member_name: "นางตวิษา  หารประทุม",
+    member_name: "นางตวิษา หารประทุม",
     member_money: "500",
     member_sell: "6407.00",
     member_stock: "258.26",
@@ -15722,7 +15722,7 @@
   {
     member_id: "1659",
     member_no: "1746",
-    member_name: "นางสาวธิดารัตน์  สิงห์สนั่น",
+    member_name: "นางสาวธิดารัตน์ สิงห์สนั่น",
     member_money: "2000",
     member_sell: "70709.00",
     member_stock: "1033.02",
@@ -15732,7 +15732,7 @@
   {
     member_id: "1660",
     member_no: "1747",
-    member_name: "นางโสภา  ศรีวงษ์ชัย",
+    member_name: "นางโสภา ศรีวงษ์ชัย",
     member_money: "1000",
     member_sell: "5330.00",
     member_stock: "516.51",
@@ -15742,7 +15742,7 @@
   {
     member_id: "1661",
     member_no: "1748",
-    member_name: "นายธนโชติ  จันสีมณี",
+    member_name: "นายธนโชติ จันสีมณี",
     member_money: "1000",
     member_sell: "2139.00",
     member_stock: "516.51",
@@ -15752,7 +15752,7 @@
   {
     member_id: "1662",
     member_no: "1749",
-    member_name: "มหาวีโร 2  ",
+    member_name: "มหาวีโร 2 ",
     member_money: "2000",
     member_sell: "84.00",
     member_stock: "1033.02",
@@ -15762,7 +15762,7 @@
   {
     member_id: "1663",
     member_no: "1750",
-    member_name: "ห้องจ่ายยาผู้ป่วยใน  ",
+    member_name: "ห้องจ่ายยาผู้ป่วยใน ",
     member_money: "2000",
     member_sell: "110.00",
     member_stock: "1033.02",
@@ -15772,7 +15772,7 @@
   {
     member_id: "1664",
     member_no: "1751",
-    member_name: "นางศุภลักษณ์  สอนโกษา",
+    member_name: "นางศุภลักษณ์ สอนโกษา",
     member_money: "2000",
     member_sell: "1590.00",
     member_stock: "1033.02",
@@ -15782,7 +15782,7 @@
   {
     member_id: "1665",
     member_no: "1752",
-    member_name: "นางสาวสมพร  สิงห์อ้น",
+    member_name: "นางสาวสมพร สิงห์อ้น",
     member_money: "500",
     member_sell: "25029.00",
     member_stock: "258.26",
@@ -15792,7 +15792,7 @@
   {
     member_id: "1666",
     member_no: "1753",
-    member_name: "นายไพรัตน์  วรรณุรักษ์",
+    member_name: "นายไพรัตน์ วรรณุรักษ์",
     member_money: "2000",
     member_sell: "6333.00",
     member_stock: "1033.02",
@@ -15802,7 +15802,7 @@
   {
     member_id: "1667",
     member_no: "1754",
-    member_name: "นายจารึก  เขตเจริญ",
+    member_name: "นายจารึก เขตเจริญ",
     member_money: "2000",
     member_sell: "3935.00",
     member_stock: "1033.02",
@@ -15812,7 +15812,7 @@
   {
     member_id: "1668",
     member_no: "1755",
-    member_name: "นายเฉลิมชัย  ฤทธิขันธ์",
+    member_name: "นายเฉลิมชัย ฤทธิขันธ์",
     member_money: "1300",
     member_sell: "6097.00",
     member_stock: "671.46",
@@ -15822,7 +15822,7 @@
   {
     member_id: "1669",
     member_no: "1756",
-    member_name: "นางสาวปาหนัน  สีลาดเลา",
+    member_name: "นางสาวปาหนัน สีลาดเลา",
     member_money: "1000",
     member_sell: "15930.00",
     member_stock: "516.51",
@@ -15832,7 +15832,7 @@
   {
     member_id: "1670",
     member_no: "1757",
-    member_name: "นางสาวพัชราภรณ์  ศรีโสมาตย์",
+    member_name: "นางสาวพัชราภรณ์ ศรีโสมาตย์",
     member_money: "2000",
     member_sell: "11683.00",
     member_stock: "1033.02",
@@ -15842,7 +15842,7 @@
   {
     member_id: "1671",
     member_no: "1758",
-    member_name: "นางสาวทิวาพร  พันธุ์ชรา",
+    member_name: "นางสาวทิวาพร พันธุ์ชรา",
     member_money: "1000",
     member_sell: "7511.00",
     member_stock: "516.51",
@@ -15852,7 +15852,7 @@
   {
     member_id: "1672",
     member_no: "1759",
-    member_name: "นางจิราภร  สุ่มมาตย์",
+    member_name: "นางจิราภร สุ่มมาตย์",
     member_money: "1000",
     member_sell: "15344.00",
     member_stock: "516.51",
@@ -15862,7 +15862,7 @@
   {
     member_id: "1673",
     member_no: "1760",
-    member_name: "นางวิภาวรรณ  จิณารักษ์",
+    member_name: "นางวิภาวรรณ จิณารักษ์",
     member_money: "1000",
     member_sell: "32532.00",
     member_stock: "516.51",
@@ -15872,7 +15872,7 @@
   {
     member_id: "1674",
     member_no: "1761",
-    member_name: "นางสาวเนาวรัตน์  ขันธิราช",
+    member_name: "นางสาวเนาวรัตน์ ขันธิราช",
     member_money: "2000",
     member_sell: "27319.00",
     member_stock: "1033.02",
@@ -15882,7 +15882,7 @@
   {
     member_id: "1675",
     member_no: "1762",
-    member_name: "นายสุนา  บุสพันธ",
+    member_name: "นายสุนา บุสพันธ",
     member_money: "300",
     member_sell: "7969.00",
     member_stock: "154.95",
@@ -15892,7 +15892,7 @@
   {
     member_id: "1676",
     member_no: "1763",
-    member_name: "นางสาวมลิวรรณ  ศิริเวช",
+    member_name: "นางสาวมลิวรรณ ศิริเวช",
     member_money: "2000",
     member_sell: "27201.00",
     member_stock: "1033.02",
@@ -15902,7 +15902,7 @@
   {
     member_id: "1677",
     member_no: "1764",
-    member_name: "นายชวาล  ศรีวิเนตร",
+    member_name: "นายชวาล ศรีวิเนตร",
     member_money: "2000",
     member_sell: "3262.00",
     member_stock: "1033.02",
@@ -15912,7 +15912,7 @@
   {
     member_id: "1678",
     member_no: "1765",
-    member_name: "นายยุทธพงษ์  ชำนาญเอื้อ",
+    member_name: "นายยุทธพงษ์ ชำนาญเอื้อ",
     member_money: "2000",
     member_sell: "7962.00",
     member_stock: "1033.02",
@@ -15922,7 +15922,7 @@
   {
     member_id: "1679",
     member_no: "1766",
-    member_name: "นางสาวสุอัมภา  ด้วงสังข์",
+    member_name: "นางสาวสุอัมภา ด้วงสังข์",
     member_money: "2000",
     member_sell: "38.00",
     member_stock: "1033.02",
@@ -15932,7 +15932,7 @@
   {
     member_id: "1680",
     member_no: "1767",
-    member_name: "นางสาวสุวิชาดา  สุขกมล",
+    member_name: "นางสาวสุวิชาดา สุขกมล",
     member_money: "2000",
     member_sell: "7621.00",
     member_stock: "1033.02",
@@ -15942,7 +15942,7 @@
   {
     member_id: "1681",
     member_no: "1768",
-    member_name: "นางนภา  เที่ยงสุนทร",
+    member_name: "นางนภา เที่ยงสุนทร",
     member_money: "500",
     member_sell: "9833.00",
     member_stock: "258.26",
@@ -15952,7 +15952,7 @@
   {
     member_id: "1682",
     member_no: "1769",
-    member_name: "นางนารีลักษณ์  โปร่งสูงเนิน",
+    member_name: "นางนารีลักษณ์ โปร่งสูงเนิน",
     member_money: "500",
     member_sell: "4524.00",
     member_stock: "258.26",
@@ -15962,7 +15962,7 @@
   {
     member_id: "1683",
     member_no: "1770",
-    member_name: "นางสาวเบญจภรณ์  เทียนธานี",
+    member_name: "นางสาวเบญจภรณ์ เทียนธานี",
     member_money: "2000",
     member_sell: "17479.00",
     member_stock: "1033.02",
@@ -15972,7 +15972,7 @@
   {
     member_id: "1685",
     member_no: "1772",
-    member_name: "นางสาวจุฑารัตน์  นามชารี",
+    member_name: "นางสาวจุฑารัตน์ นามชารี",
     member_money: "1500",
     member_sell: "3774.00",
     member_stock: "774.77",
@@ -15982,7 +15982,7 @@
   {
     member_id: "1686",
     member_no: "1773",
-    member_name: "นางสาวสุจินดา  พายุพัด",
+    member_name: "นางสาวสุจินดา พายุพัด",
     member_money: "2000",
     member_sell: "12003.00",
     member_stock: "1033.02",
@@ -15992,7 +15992,7 @@
   {
     member_id: "1687",
     member_no: "1774",
-    member_name: "นางสาวศศิชล  แน่นอุดร",
+    member_name: "นางสาวศศิชล แน่นอุดร",
     member_money: "2000",
     member_sell: "6632.00",
     member_stock: "1033.02",
@@ -16002,7 +16002,7 @@
   {
     member_id: "1688",
     member_no: "1775",
-    member_name: "อาคารเภสัชกรรม  ",
+    member_name: "อาคารเภสัชกรรม ",
     member_money: "2000",
     member_sell: "488.00",
     member_stock: "1033.02",
@@ -16022,7 +16022,7 @@
   {
     member_id: "1690",
     member_no: "1777",
-    member_name: "นายเกรียงศักดิ์  ยอดปรีชา",
+    member_name: "นายเกรียงศักดิ์ ยอดปรีชา",
     member_money: "1000",
     member_sell: "22901.00",
     member_stock: "516.51",
@@ -16032,7 +16032,7 @@
   {
     member_id: "1691",
     member_no: "1778",
-    member_name: "นางสาวกนกวรรณ  ตรีพล",
+    member_name: "นางสาวกนกวรรณ ตรีพล",
     member_money: "2000",
     member_sell: "21241.00",
     member_stock: "1033.02",
@@ -16042,7 +16042,7 @@
   {
     member_id: "1692",
     member_no: "1779",
-    member_name: "นายธราวุธ  สิงห์ดารา",
+    member_name: "นายธราวุธ สิงห์ดารา",
     member_money: "2000",
     member_sell: "13530.00",
     member_stock: "1033.02",
@@ -16052,7 +16052,7 @@
   {
     member_id: "1693",
     member_no: "1780",
-    member_name: "นางสาววรรณพร  ไชยแสง",
+    member_name: "นางสาววรรณพร ไชยแสง",
     member_money: "1000",
     member_sell: "7135.00",
     member_stock: "516.51",
@@ -16062,7 +16062,7 @@
   {
     member_id: "1694",
     member_no: "1781",
-    member_name: "นายกิตติ  กิจมานะ",
+    member_name: "นายกิตติ กิจมานะ",
     member_money: "1000",
     member_sell: "1890.00",
     member_stock: "516.51",
@@ -16072,7 +16072,7 @@
   {
     member_id: "1695",
     member_no: "1782",
-    member_name: "นางสาวมยุรี  เที่ยงธรรม",
+    member_name: "นางสาวมยุรี เที่ยงธรรม",
     member_money: "1000",
     member_sell: "8038.00",
     member_stock: "516.51",
@@ -16082,7 +16082,7 @@
   {
     member_id: "1696",
     member_no: "1783",
-    member_name: "พิเศษสงฆ์ ชั้น 6  ",
+    member_name: "พิเศษสงฆ์ ชั้น 6 ",
     member_money: "2000",
     member_sell: "295.00",
     member_stock: "1033.02",
@@ -16092,7 +16092,7 @@
   {
     member_id: "1697",
     member_no: "1784",
-    member_name: "หอผู้ป่วยแม่ปลั่ง  ",
+    member_name: "หอผู้ป่วยแม่ปลั่ง ",
     member_money: "2000",
     member_sell: "1702.00",
     member_stock: "1033.02",
@@ -16102,7 +16102,7 @@
   {
     member_id: "1698",
     member_no: "1785",
-    member_name: "นางสาวศิรินภา  ละออ",
+    member_name: "นางสาวศิรินภา ละออ",
     member_money: "1000",
     member_sell: "9249.00",
     member_stock: "516.51",
@@ -16112,7 +16112,7 @@
   {
     member_id: "1699",
     member_no: "1786",
-    member_name: "นางสาวเพ็ญวิสา  สนั่นเอื้อ",
+    member_name: "นางสาวเพ็ญวิสา สนั่นเอื้อ",
     member_money: "2000",
     member_sell: "13159.00",
     member_stock: "1033.02",
@@ -16122,7 +16122,7 @@
   {
     member_id: "1700",
     member_no: "1787",
-    member_name: "นางสาวพรรณธิวา  อันโนนจารย์",
+    member_name: "นางสาวพรรณธิวา อันโนนจารย์",
     member_money: "2000",
     member_sell: "8911.00",
     member_stock: "1033.02",
@@ -16132,7 +16132,7 @@
   {
     member_id: "1701",
     member_no: "1788",
-    member_name: "นางสาวดวงฤทัย  บุญแจ่ม",
+    member_name: "นางสาวดวงฤทัย บุญแจ่ม",
     member_money: "500",
     member_sell: "8658.00",
     member_stock: "258.26",
@@ -16142,7 +16142,7 @@
   {
     member_id: "1702",
     member_no: "1789",
-    member_name: "นายทองพูน  บุญสิทธิ์",
+    member_name: "นายทองพูน บุญสิทธิ์",
     member_money: "1000",
     member_sell: "11308.00",
     member_stock: "516.51",
@@ -16152,7 +16152,7 @@
   {
     member_id: "1703",
     member_no: "1790",
-    member_name: "นายศักดา  พฤกษชาติ",
+    member_name: "นายศักดา พฤกษชาติ",
     member_money: "2000",
     member_sell: "7584.00",
     member_stock: "1033.02",
@@ -16162,7 +16162,7 @@
   {
     member_id: "1704",
     member_no: "1791",
-    member_name: "นางสาวกัลยารัตน์  ธรรมิภักดี",
+    member_name: "นางสาวกัลยารัตน์ ธรรมิภักดี",
     member_money: "1000",
     member_sell: "14215.00",
     member_stock: "516.51",
@@ -16172,7 +16172,7 @@
   {
     member_id: "1705",
     member_no: "1793",
-    member_name: "นางสาวพรพิมล  แวงวรรณ",
+    member_name: "นางสาวพรพิมล แวงวรรณ",
     member_money: "2000",
     member_sell: "18565.00",
     member_stock: "1033.02",
@@ -16182,7 +16182,7 @@
   {
     member_id: "1706",
     member_no: "1794",
-    member_name: "นางสาวสิริพร  ชนะพลสุขสวัสดิ์",
+    member_name: "นางสาวสิริพร ชนะพลสุขสวัสดิ์",
     member_money: "2000",
     member_sell: "15915.00",
     member_stock: "1033.02",
@@ -16192,7 +16192,7 @@
   {
     member_id: "1707",
     member_no: "1795",
-    member_name: "นางสาวสุพัตรา  ขันสุวรรณา",
+    member_name: "นางสาวสุพัตรา ขันสุวรรณา",
     member_money: "2000",
     member_sell: "17310.00",
     member_stock: "1033.02",
@@ -16202,7 +16202,7 @@
   {
     member_id: "1708",
     member_no: "1796",
-    member_name: "นางสาวศรัณย์พร  ศรีมงคล",
+    member_name: "นางสาวศรัณย์พร ศรีมงคล",
     member_money: "2000",
     member_sell: "284.00",
     member_stock: "1033.02",
@@ -16212,7 +16212,7 @@
   {
     member_id: "1709",
     member_no: "1797",
-    member_name: "นายอนุสรณ์  มาตรหลุบเลา",
+    member_name: "นายอนุสรณ์ มาตรหลุบเลา",
     member_money: "2000",
     member_sell: "5067.00",
     member_stock: "1033.02",
@@ -16222,7 +16222,7 @@
   {
     member_id: "1710",
     member_no: "1798",
-    member_name: "นางสาวปรินดา  ลานรอบ",
+    member_name: "นางสาวปรินดา ลานรอบ",
     member_money: "2000",
     member_sell: "17479.00",
     member_stock: "1033.02",
@@ -16232,7 +16232,7 @@
   {
     member_id: "1711",
     member_no: "1799",
-    member_name: "นางสาวพิกุล  ชุนสาย",
+    member_name: "นางสาวพิกุล ชุนสาย",
     member_money: "2000",
     member_sell: "8780.00",
     member_stock: "1033.02",
@@ -16242,7 +16242,7 @@
   {
     member_id: "1712",
     member_no: "1800",
-    member_name: "นางสาวสุรินีย์  ทองกันยา",
+    member_name: "นางสาวสุรินีย์ ทองกันยา",
     member_money: "2000",
     member_sell: "18043.00",
     member_stock: "1033.02",
@@ -16252,7 +16252,7 @@
   {
     member_id: "1713",
     member_no: "1801",
-    member_name: "นางสาวตุลาการ  มณพรมมา",
+    member_name: "นางสาวตุลาการ มณพรมมา",
     member_money: "1000",
     member_sell: "8694.00",
     member_stock: "516.51",
@@ -16262,7 +16262,7 @@
   {
     member_id: "1714",
     member_no: "1802",
-    member_name: "นางสาวศรุตยา  เชิดพานิช",
+    member_name: "นางสาวศรุตยา เชิดพานิช",
     member_money: "2000",
     member_sell: "4642.00",
     member_stock: "1033.02",
@@ -16272,7 +16272,7 @@
   {
     member_id: "1715",
     member_no: "1803",
-    member_name: "นางสาวปริชญา  สุทธิประภา",
+    member_name: "นางสาวปริชญา สุทธิประภา",
     member_money: "2000",
     member_sell: "15627.00",
     member_stock: "1033.02",
@@ -16282,7 +16282,7 @@
   {
     member_id: "1716",
     member_no: "1805",
-    member_name: "นายชำนาญ  สุขสงคราม",
+    member_name: "นายชำนาญ สุขสงคราม",
     member_money: "2000",
     member_sell: "3926.00",
     member_stock: "1033.02",
@@ -16292,7 +16292,7 @@
   {
     member_id: "1717",
     member_no: "1806",
-    member_name: "นายภาสกร  ธรรมอินทร์",
+    member_name: "นายภาสกร ธรรมอินทร์",
     member_money: "2000",
     member_sell: "41795.00",
     member_stock: "1033.02",
@@ -16302,7 +16302,7 @@
   {
     member_id: "1718",
     member_no: "1807",
-    member_name: "นายพิษณุกูล  วงษา",
+    member_name: "นายพิษณุกูล วงษา",
     member_money: "500",
     member_sell: "5255.00",
     member_stock: "258.26",
@@ -16312,7 +16312,7 @@
   {
     member_id: "1719",
     member_no: "1808",
-    member_name: "นางสาวปิยนันท์  อนุศาสตรชน",
+    member_name: "นางสาวปิยนันท์ อนุศาสตรชน",
     member_money: "500",
     member_sell: "4469.00",
     member_stock: "258.26",
@@ -16322,7 +16322,7 @@
   {
     member_id: "1720",
     member_no: "1809",
-    member_name: "นางสาวปิยกาญจน์  เอนกแสน",
+    member_name: "นางสาวปิยกาญจน์ เอนกแสน",
     member_money: "2000",
     member_sell: "17381.00",
     member_stock: "1033.02",
@@ -16332,7 +16332,7 @@
   {
     member_id: "1721",
     member_no: "1810",
-    member_name: "นางสาวกาญจนา  เสนาสุข",
+    member_name: "นางสาวกาญจนา เสนาสุข",
     member_money: "2000",
     member_sell: "4279.00",
     member_stock: "1033.02",
@@ -16342,7 +16342,7 @@
   {
     member_id: "1722",
     member_no: "1811",
-    member_name: "นางสาวเกศกนก  อ่านเขียน",
+    member_name: "นางสาวเกศกนก อ่านเขียน",
     member_money: "2000",
     member_sell: "6416.00",
     member_stock: "1033.02",
@@ -16352,7 +16352,7 @@
   {
     member_id: "1723",
     member_no: "1812",
-    member_name: "นางสาวสุจิตรา  พลเยี่ยม",
+    member_name: "นางสาวสุจิตรา พลเยี่ยม",
     member_money: "2000",
     member_sell: "17414.00",
     member_stock: "1033.02",
@@ -16362,7 +16362,7 @@
   {
     member_id: "1724",
     member_no: "1813",
-    member_name: "ห้องยาผู้ป่วยนอก 1  ",
+    member_name: "ห้องยาผู้ป่วยนอก 1 ",
     member_money: "2000",
     member_sell: "308.00",
     member_stock: "1033.02",
@@ -16372,7 +16372,7 @@
   {
     member_id: "1725",
     member_no: "1814",
-    member_name: "นางสาววราภรณ์  รัตนตรัยวงค์",
+    member_name: "นางสาววราภรณ์ รัตนตรัยวงค์",
     member_money: "2000",
     member_sell: "15318.00",
     member_stock: "1033.02",
@@ -16382,7 +16382,7 @@
   {
     member_id: "1726",
     member_no: "1816",
-    member_name: "นางพรพิรุณ  จำนงกิจ",
+    member_name: "นางพรพิรุณ จำนงกิจ",
     member_money: "2500",
     member_sell: "41499.00",
     member_stock: "1291.28",
@@ -16392,7 +16392,7 @@
   {
     member_id: "1728",
     member_no: "1818",
-    member_name: "นางสาวรุจิรา  อันทะไชย์",
+    member_name: "นางสาวรุจิรา อันทะไชย์",
     member_money: "500",
     member_sell: "20564.00",
     member_stock: "258.26",
@@ -16402,7 +16402,7 @@
   {
     member_id: "1729",
     member_no: "1819",
-    member_name: "นางสาวจุรีวรรณ  อุปแก้ว",
+    member_name: "นางสาวจุรีวรรณ อุปแก้ว",
     member_money: "500",
     member_sell: "7597.00",
     member_stock: "258.26",
@@ -16412,7 +16412,7 @@
   {
     member_id: "1730",
     member_no: "1820",
-    member_name: "นางสาวกนกวรรณ  จันทะราคา",
+    member_name: "นางสาวกนกวรรณ จันทะราคา",
     member_money: "500",
     member_sell: "2796.00",
     member_stock: "258.26",
@@ -16422,7 +16422,7 @@
   {
     member_id: "1731",
     member_no: "1821",
-    member_name: "นายหัสราชัน  บุญวิเศษ",
+    member_name: "นายหัสราชัน บุญวิเศษ",
     member_money: "2000",
     member_sell: "1245.00",
     member_stock: "1033.02",
@@ -16432,7 +16432,7 @@
   {
     member_id: "1732",
     member_no: "1822",
-    member_name: "นางอุไรวรรณ  บรรลุศาสตร์",
+    member_name: "นางอุไรวรรณ บรรลุศาสตร์",
     member_money: "2000",
     member_sell: "7414.00",
     member_stock: "1033.02",
@@ -16442,7 +16442,7 @@
   {
     member_id: "1733",
     member_no: "1823",
-    member_name: "นายประพันธ์ศักดิ์  สนศรี",
+    member_name: "นายประพันธ์ศักดิ์ สนศรี",
     member_money: "500",
     member_sell: "14122.00",
     member_stock: "258.26",
@@ -16452,7 +16452,7 @@
   {
     member_id: "1735",
     member_no: "1826",
-    member_name: "นายศุภกิตต์  วรรณลา",
+    member_name: "นายศุภกิตต์ วรรณลา",
     member_money: "2000",
     member_sell: "19239.00",
     member_stock: "1033.02",
@@ -16462,7 +16462,7 @@
   {
     member_id: "1736",
     member_no: "1827",
-    member_name: "นายนัฐชา  ประกาโส",
+    member_name: "นายนัฐชา ประกาโส",
     member_money: "2000",
     member_sell: "37071.00",
     member_stock: "1033.02",
@@ -16472,7 +16472,7 @@
   {
     member_id: "1737",
     member_no: "1828",
-    member_name: "นายวรานนท์  ไชยไธสง",
+    member_name: "นายวรานนท์ ไชยไธสง",
     member_money: "2000",
     member_sell: "8549.00",
     member_stock: "1033.02",
@@ -16482,7 +16482,7 @@
   {
     member_id: "1738",
     member_no: "1829",
-    member_name: "นายปราโมทย์  พลเยี่ยม",
+    member_name: "นายปราโมทย์ พลเยี่ยม",
     member_money: "2000",
     member_sell: "20362.00",
     member_stock: "1033.02",
@@ -16492,7 +16492,7 @@
   {
     member_id: "1739",
     member_no: "1830",
-    member_name: "นายณัฐฤทธิ์  อาวรณ์",
+    member_name: "นายณัฐฤทธิ์ อาวรณ์",
     member_money: "2000",
     member_sell: "36967.00",
     member_stock: "1033.02",
@@ -16502,7 +16502,7 @@
   {
     member_id: "1740",
     member_no: "1831",
-    member_name: "นางสาวนภัสวรรณ  บุตรทอง",
+    member_name: "นางสาวนภัสวรรณ บุตรทอง",
     member_money: "1000",
     member_sell: "14941.00",
     member_stock: "516.51",
@@ -16512,7 +16512,7 @@
   {
     member_id: "1741",
     member_no: "1832",
-    member_name: "นายพัฒนธกร  หัดรัตน์ชัย",
+    member_name: "นายพัฒนธกร หัดรัตน์ชัย",
     member_money: "2000",
     member_sell: "7061.00",
     member_stock: "1033.02",
@@ -16532,7 +16532,7 @@
   {
     member_id: "1743",
     member_no: "1834",
-    member_name: "นางสาวอารยา  ดวงวงษา",
+    member_name: "นางสาวอารยา ดวงวงษา",
     member_money: "2000",
     member_sell: "8613.00",
     member_stock: "1033.02",
@@ -16542,7 +16542,7 @@
   {
     member_id: "1744",
     member_no: "1835",
-    member_name: "นายสัญญา  สาโรจน์",
+    member_name: "นายสัญญา สาโรจน์",
     member_money: "2000",
     member_sell: "16170.00",
     member_stock: "1033.02",
@@ -16552,7 +16552,7 @@
   {
     member_id: "1745",
     member_no: "1837",
-    member_name: "นางอัฐภิญญา  ธรรมพิทักษ์",
+    member_name: "นางอัฐภิญญา ธรรมพิทักษ์",
     member_money: "2000",
     member_sell: "7195.00",
     member_stock: "1033.02",
@@ -16562,7 +16562,7 @@
   {
     member_id: "1746",
     member_no: "1838",
-    member_name: "นางสาวพัชรินทร์  จันทาพูน",
+    member_name: "นางสาวพัชรินทร์ จันทาพูน",
     member_money: "1000",
     member_sell: "35555.00",
     member_stock: "516.51",
@@ -16572,7 +16572,7 @@
   {
     member_id: "1747",
     member_no: "1839",
-    member_name: "นายธีรศักดิ์  ยอดทองทิพย์",
+    member_name: "นายธีรศักดิ์ ยอดทองทิพย์",
     member_money: "2000",
     member_sell: "19816.00",
     member_stock: "1033.02",
@@ -16582,7 +16582,7 @@
   {
     member_id: "1748",
     member_no: "1840",
-    member_name: "นางสาววิไลลักษณ์  รัตนะวัน",
+    member_name: "นางสาววิไลลักษณ์ รัตนะวัน",
     member_money: "1000",
     member_sell: "21667.00",
     member_stock: "516.51",
@@ -16592,7 +16592,7 @@
   {
     member_id: "1751",
     member_no: "1845",
-    member_name: "นางเรไร  อมรพิกุลทอง",
+    member_name: "นางเรไร อมรพิกุลทอง",
     member_money: "2000",
     member_sell: "1593.00",
     member_stock: "1033.02",
@@ -16602,7 +16602,7 @@
   {
     member_id: "1752",
     member_no: "1846",
-    member_name: "นางสาวอัจฉราพร  เสาะสมบูรณ์",
+    member_name: "นางสาวอัจฉราพร เสาะสมบูรณ์",
     member_money: "2000",
     member_sell: "14563.00",
     member_stock: "1033.02",
@@ -16612,7 +16612,7 @@
   {
     member_id: "1753",
     member_no: "1847",
-    member_name: "นางกวินทรา  ทาบึงการ",
+    member_name: "นางกวินทรา ทาบึงการ",
     member_money: "2000",
     member_sell: "5771.00",
     member_stock: "1033.02",
@@ -16622,7 +16622,7 @@
   {
     member_id: "1754",
     member_no: "1848",
-    member_name: "นางเยาวณีย์  จันโทภาส",
+    member_name: "นางเยาวณีย์ จันโทภาส",
     member_money: "2000",
     member_sell: "8867.00",
     member_stock: "1033.02",
@@ -16632,7 +16632,7 @@
   {
     member_id: "1755",
     member_no: "1849",
-    member_name: "นางจันทร์เพ็ญ  บุญสงค์",
+    member_name: "นางจันทร์เพ็ญ บุญสงค์",
     member_money: "2000",
     member_sell: "45268.00",
     member_stock: "1033.02",
@@ -16642,7 +16642,7 @@
   {
     member_id: "1756",
     member_no: "1850",
-    member_name: "นางสาวสุนิสา  สุนทอง",
+    member_name: "นางสาวสุนิสา สุนทอง",
     member_money: "1000",
     member_sell: "23890.00",
     member_stock: "516.51",
@@ -16652,7 +16652,7 @@
   {
     member_id: "1757",
     member_no: "1851",
-    member_name: "นายวุฒิชัย  จุรีมาศ",
+    member_name: "นายวุฒิชัย จุรีมาศ",
     member_money: "2000",
     member_sell: "802.00",
     member_stock: "1033.02",
@@ -16662,7 +16662,7 @@
   {
     member_id: "1758",
     member_no: "1852",
-    member_name: "นางสาวคุณันญา  ไฝดี",
+    member_name: "นางสาวคุณันญา ไฝดี",
     member_money: "2000",
     member_sell: "28500.00",
     member_stock: "1033.02",
@@ -16672,7 +16672,7 @@
   {
     member_id: "1759",
     member_no: "1853",
-    member_name: "นางสาวดาราตรี  โยประทุม",
+    member_name: "นางสาวดาราตรี โยประทุม",
     member_money: "2000",
     member_sell: "6988.00",
     member_stock: "1033.02",
@@ -16682,7 +16682,7 @@
   {
     member_id: "1760",
     member_no: "1854",
-    member_name: "นางสาวเดือน  ทับลา",
+    member_name: "นางสาวเดือน ทับลา",
     member_money: "2000",
     member_sell: "7746.00",
     member_stock: "1033.02",
@@ -16692,7 +16692,7 @@
   {
     member_id: "1761",
     member_no: "1856",
-    member_name: "นางสาวชุติยา  บัวสิงห์",
+    member_name: "นางสาวชุติยา บัวสิงห์",
     member_money: "2000",
     member_sell: "3429.00",
     member_stock: "1033.02",
@@ -16702,7 +16702,7 @@
   {
     member_id: "1762",
     member_no: "1857",
-    member_name: "นางสาวศิริวรรณ  งามสวี",
+    member_name: "นางสาวศิริวรรณ งามสวี",
     member_money: "1000",
     member_sell: "16177.00",
     member_stock: "516.51",
@@ -16712,7 +16712,7 @@
   {
     member_id: "1763",
     member_no: "1858",
-    member_name: "นางสาวอัลชลี  สุริยะ",
+    member_name: "นางสาวอัลชลี สุริยะ",
     member_money: "2000",
     member_sell: "9132.00",
     member_stock: "1033.02",
@@ -16722,7 +16722,7 @@
   {
     member_id: "1764",
     member_no: "1859",
-    member_name: "นางสาวปรียฎาภรณ์  จันทะคัด",
+    member_name: "นางสาวปรียฎาภรณ์ จันทะคัด",
     member_money: "2000",
     member_sell: "2085.00",
     member_stock: "1033.02",
@@ -16732,7 +16732,7 @@
   {
     member_id: "1765",
     member_no: "1860",
-    member_name: "นางสาวศุภาลัย  ตุริรัมย์",
+    member_name: "นางสาวศุภาลัย ตุริรัมย์",
     member_money: "2000",
     member_sell: "9250.00",
     member_stock: "1033.02",
@@ -16742,7 +16742,7 @@
   {
     member_id: "1766",
     member_no: "1861",
-    member_name: "นางสาวสุดา  หมายใกล้กลาง",
+    member_name: "นางสาวสุดา หมายใกล้กลาง",
     member_money: "1000",
     member_sell: "33006.00",
     member_stock: "516.51",
@@ -16752,7 +16752,7 @@
   {
     member_id: "1767",
     member_no: "1862",
-    member_name: "นางสาวอรทัย  สิทธิเสนา",
+    member_name: "นางสาวอรทัย สิทธิเสนา",
     member_money: "1000",
     member_sell: "32154.00",
     member_stock: "516.51",
@@ -16762,7 +16762,7 @@
   {
     member_id: "1768",
     member_no: "1863",
-    member_name: "นายรุ่งลักษณ์  สุภาพสุนทร",
+    member_name: "นายรุ่งลักษณ์ สุภาพสุนทร",
     member_money: "2000",
     member_sell: "40.00",
     member_stock: "1033.02",
@@ -16772,7 +16772,7 @@
   {
     member_id: "1769",
     member_no: "1864",
-    member_name: "นางนุชจรีย์  สุภาพสุนทร",
+    member_name: "นางนุชจรีย์ สุภาพสุนทร",
     member_money: "2000",
     member_sell: "2619.00",
     member_stock: "1033.02",
@@ -16782,7 +16782,7 @@
   {
     member_id: "1770",
     member_no: "1865",
-    member_name: "นางสาวอุไร  เพ็งวิภาศ",
+    member_name: "นางสาวอุไร เพ็งวิภาศ",
     member_money: "2000",
     member_sell: "13246.00",
     member_stock: "1033.02",
@@ -16792,7 +16792,7 @@
   {
     member_id: "1771",
     member_no: "1866",
-    member_name: "นางอุบลวรรณ  ยิ่งรัตนสุข",
+    member_name: "นางอุบลวรรณ ยิ่งรัตนสุข",
     member_money: "2000",
     member_sell: "5511.00",
     member_stock: "1033.02",
@@ -16802,7 +16802,7 @@
   {
     member_id: "1772",
     member_no: "1867",
-    member_name: "นางสาวจงรักษ์  รัตนโภคาสถิต",
+    member_name: "นางสาวจงรักษ์ รัตนโภคาสถิต",
     member_money: "2000",
     member_sell: "5584.00",
     member_stock: "1033.02",
@@ -16812,7 +16812,7 @@
   {
     member_id: "1773",
     member_no: "1868",
-    member_name: "นางสาวจณิสตา  เพชรด่านเหนือ",
+    member_name: "นางสาวจณิสตา เพชรด่านเหนือ",
     member_money: "500",
     member_sell: "34345.00",
     member_stock: "258.26",
@@ -16822,7 +16822,7 @@
   {
     member_id: "1774",
     member_no: "1869",
-    member_name: "นายเฉลิมเกียรติ  ยานะสาร",
+    member_name: "นายเฉลิมเกียรติ ยานะสาร",
     member_money: "2000",
     member_sell: "15384.00",
     member_stock: "1033.02",
@@ -16832,7 +16832,7 @@
   {
     member_id: "1775",
     member_no: "1870",
-    member_name: "นางสาวสุภิดา  สุริโย",
+    member_name: "นางสาวสุภิดา สุริโย",
     member_money: "2000",
     member_sell: "8541.00",
     member_stock: "1033.02",
@@ -16842,7 +16842,7 @@
   {
     member_id: "1776",
     member_no: "1871",
-    member_name: "นางมณีรัตน์  ธนสีลังกูร",
+    member_name: "นางมณีรัตน์ ธนสีลังกูร",
     member_money: "2000",
     member_sell: "4552.00",
     member_stock: "1033.02",
@@ -16852,7 +16852,7 @@
   {
     member_id: "1777",
     member_no: "1872",
-    member_name: "นางสาววิภัสรา  วงศ์อามาตย์",
+    member_name: "นางสาววิภัสรา วงศ์อามาตย์",
     member_money: "2000",
     member_sell: "15975.00",
     member_stock: "1033.02",
@@ -16862,7 +16862,7 @@
   {
     member_id: "1778",
     member_no: "1873",
-    member_name: "นางยุภาภรณ์  ชารีวัลย์",
+    member_name: "นางยุภาภรณ์ ชารีวัลย์",
     member_money: "1000",
     member_sell: "16370.00",
     member_stock: "516.51",
@@ -16872,7 +16872,7 @@
   {
     member_id: "1779",
     member_no: "1874",
-    member_name: "นางสาวศศิวิมล  นามรุ่งฤทธิ์",
+    member_name: "นางสาวศศิวิมล นามรุ่งฤทธิ์",
     member_money: "2000",
     member_sell: "14191.00",
     member_stock: "1033.02",
@@ -16882,7 +16882,7 @@
   {
     member_id: "1780",
     member_no: "1875",
-    member_name: "นายณัฐพล  จันทะคาม",
+    member_name: "นายณัฐพล จันทะคาม",
     member_money: "2000",
     member_sell: "12821.00",
     member_stock: "1033.02",
@@ -16892,7 +16892,7 @@
   {
     member_id: "1781",
     member_no: "1876",
-    member_name: "นางสาวจีราภรณ์  พัฒนศิริมงคล",
+    member_name: "นางสาวจีราภรณ์ พัฒนศิริมงคล",
     member_money: "2000",
     member_sell: "7098.00",
     member_stock: "1033.02",
@@ -16902,7 +16902,7 @@
   {
     member_id: "1782",
     member_no: "1877",
-    member_name: "นางสาวขนิษฐา  อุทาภักดี",
+    member_name: "นางสาวขนิษฐา อุทาภักดี",
     member_money: "2000",
     member_sell: "8649.00",
     member_stock: "1033.02",
@@ -16912,7 +16912,7 @@
   {
     member_id: "1783",
     member_no: "1878",
-    member_name: "นางสาวดลยา  อ่อนประทุม",
+    member_name: "นางสาวดลยา อ่อนประทุม",
     member_money: "1000",
     member_sell: "4614.00",
     member_stock: "516.51",
@@ -16922,7 +16922,7 @@
   {
     member_id: "1784",
     member_no: "1879",
-    member_name: "นางสาวสุพัตรา  ชำรำ",
+    member_name: "นางสาวสุพัตรา ชำรำ",
     member_money: "2000",
     member_sell: "13105.00",
     member_stock: "1033.02",
@@ -16932,7 +16932,7 @@
   {
     member_id: "1785",
     member_no: "1880",
-    member_name: "นางสาวสุภาพร  แก้วใส",
+    member_name: "นางสาวสุภาพร แก้วใส",
     member_money: "2000",
     member_sell: "998.00",
     member_stock: "1033.02",
@@ -16942,7 +16942,7 @@
   {
     member_id: "1786",
     member_no: "1881",
-    member_name: "นางสาวศิลินี  ศิริโยธา",
+    member_name: "นางสาวศิลินี ศิริโยธา",
     member_money: "2000",
     member_sell: "689.00",
     member_stock: "1033.02",
@@ -16952,7 +16952,7 @@
   {
     member_id: "1787",
     member_no: "1882",
-    member_name: "นางสาวดวงจันทร์  เหนือโท",
+    member_name: "นางสาวดวงจันทร์ เหนือโท",
     member_money: "2000",
     member_sell: "1220.00",
     member_stock: "1033.02",
@@ -16962,7 +16962,7 @@
   {
     member_id: "1788",
     member_no: "1883",
-    member_name: "นางสาวสารภี  สังฆะมณี",
+    member_name: "นางสาวสารภี สังฆะมณี",
     member_money: "2000",
     member_sell: "20839.00",
     member_stock: "1033.02",
@@ -16972,7 +16972,7 @@
   {
     member_id: "1789",
     member_no: "1884",
-    member_name: "นางสาวจินตนา  เบญจขันธ์",
+    member_name: "นางสาวจินตนา เบญจขันธ์",
     member_money: "500",
     member_sell: "19003.00",
     member_stock: "258.26",
@@ -16982,7 +16982,7 @@
   {
     member_id: "1790",
     member_no: "1885",
-    member_name: "นางสาวอลิสา  สีส่อง",
+    member_name: "นางสาวอลิสา สีส่อง",
     member_money: "2000",
     member_sell: "7049.00",
     member_stock: "1033.02",
@@ -16992,7 +16992,7 @@
   {
     member_id: "1791",
     member_no: "1886",
-    member_name: "นายเอกพงษ์  ปริมา",
+    member_name: "นายเอกพงษ์ ปริมา",
     member_money: "2000",
     member_sell: "104.00",
     member_stock: "1033.02",
@@ -17002,7 +17002,7 @@
   {
     member_id: "1792",
     member_no: "1887",
-    member_name: "นางเทียมจิตต์  กัญยวงศ์หา",
+    member_name: "นางเทียมจิตต์ กัญยวงศ์หา",
     member_money: "2000",
     member_sell: "19727.00",
     member_stock: "1033.02",
@@ -17012,7 +17012,7 @@
   {
     member_id: "1793",
     member_no: "1888",
-    member_name: "นางสาวชนัทดา  ยาวศิริ",
+    member_name: "นางสาวชนัทดา ยาวศิริ",
     member_money: "1000",
     member_sell: "15015.00",
     member_stock: "516.51",
@@ -17022,7 +17022,7 @@
   {
     member_id: "1794",
     member_no: "1889",
-    member_name: "นางสาวพิชญ์ชาพัชร์  กลางประพันธ์",
+    member_name: "นางสาวพิชญ์ชาพัชร์ กลางประพันธ์",
     member_money: "1000",
     member_sell: "11102.00",
     member_stock: "516.51",
@@ -17032,7 +17032,7 @@
   {
     member_id: "1795",
     member_no: "1890",
-    member_name: "นางจิตรางคนางค์  ฤทธาพรหม",
+    member_name: "นางจิตรางคนางค์ ฤทธาพรหม",
     member_money: "1000",
     member_sell: "12273.00",
     member_stock: "516.51",
@@ -17042,7 +17042,7 @@
   {
     member_id: "1796",
     member_no: "1891",
-    member_name: "นางสาวคัสมร  พันธ์ทะท้าว",
+    member_name: "นางสาวคัสมร พันธ์ทะท้าว",
     member_money: "2000",
     member_sell: "9889.00",
     member_stock: "1033.02",
@@ -17052,7 +17052,7 @@
   {
     member_id: "1797",
     member_no: "1892",
-    member_name: "นางสาวสมฤดี  สีหคุณังกุล",
+    member_name: "นางสาวสมฤดี สีหคุณังกุล",
     member_money: "2000",
     member_sell: "7853.00",
     member_stock: "1033.02",
@@ -17062,7 +17062,7 @@
   {
     member_id: "1798",
     member_no: "1893",
-    member_name: "นางสาวปรียาภัทร  ปักกุนนัน",
+    member_name: "นางสาวปรียาภัทร ปักกุนนัน",
     member_money: "2000",
     member_sell: "10267.00",
     member_stock: "1033.02",
@@ -17072,7 +17072,7 @@
   {
     member_id: "1799",
     member_no: "1894",
-    member_name: "นางสาวรัตนาภรณ์  นามชารี",
+    member_name: "นางสาวรัตนาภรณ์ นามชารี",
     member_money: "2000",
     member_sell: "4986.00",
     member_stock: "1033.02",
@@ -17082,7 +17082,7 @@
   {
     member_id: "1800",
     member_no: "1895",
-    member_name: "นางวลัยพร  มิเถาวัลย์",
+    member_name: "นางวลัยพร มิเถาวัลย์",
     member_money: "2000",
     member_sell: "11235.00",
     member_stock: "1033.02",
@@ -17092,7 +17092,7 @@
   {
     member_id: "1801",
     member_no: "1896",
-    member_name: "นางวรลักษณ์  จตุเทน",
+    member_name: "นางวรลักษณ์ จตุเทน",
     member_money: "2000",
     member_sell: "15939.00",
     member_stock: "1033.02",
@@ -17102,7 +17102,7 @@
   {
     member_id: "1802",
     member_no: "1897",
-    member_name: "นางสาวณัฐวดี  ไชยเวช",
+    member_name: "นางสาวณัฐวดี ไชยเวช",
     member_money: "1000",
     member_sell: "5589.00",
     member_stock: "516.51",
@@ -17112,7 +17112,7 @@
   {
     member_id: "1803",
     member_no: "1898",
-    member_name: "นางสาวสุปราณี  สุวรรณศรี",
+    member_name: "นางสาวสุปราณี สุวรรณศรี",
     member_money: "2000",
     member_sell: "9973.00",
     member_stock: "1033.02",
@@ -17122,7 +17122,7 @@
   {
     member_id: "1804",
     member_no: "1899",
-    member_name: "นายชวิน  มูลมณี",
+    member_name: "นายชวิน มูลมณี",
     member_money: "2000",
     member_sell: "730.00",
     member_stock: "1033.02",
@@ -17132,7 +17132,7 @@
   {
     member_id: "1805",
     member_no: "1900",
-    member_name: "นายชัชวาลย์  พินิจศิริสกุล",
+    member_name: "นายชัชวาลย์ พินิจศิริสกุล",
     member_money: "2000",
     member_sell: "135.00",
     member_stock: "1033.02",
@@ -17142,7 +17142,7 @@
   {
     member_id: "1806",
     member_no: "1901",
-    member_name: "นายชยุต  พงศ์ศรีประชา",
+    member_name: "นายชยุต พงศ์ศรีประชา",
     member_money: "2000",
     member_sell: "47196.00",
     member_stock: "1033.02",
@@ -17152,7 +17152,7 @@
   {
     member_id: "1807",
     member_no: "1903",
-    member_name: "นายณัฐนันท์  วิชัยภูมิ",
+    member_name: "นายณัฐนันท์ วิชัยภูมิ",
     member_money: "2000",
     member_sell: "12611.00",
     member_stock: "1033.02",
@@ -17162,7 +17162,7 @@
   {
     member_id: "1808",
     member_no: "1904",
-    member_name: "นางสาวชัญญาพัทธ์  ใจหาญ",
+    member_name: "นางสาวชัญญาพัทธ์ ใจหาญ",
     member_money: "2000",
     member_sell: "11775.00",
     member_stock: "1033.02",
@@ -17172,7 +17172,7 @@
   {
     member_id: "1810",
     member_no: "1906",
-    member_name: "นางสาวอินธุอร  เทพบุรี",
+    member_name: "นางสาวอินธุอร เทพบุรี",
     member_money: "2000",
     member_sell: "16586.00",
     member_stock: "1033.02",
@@ -17182,7 +17182,7 @@
   {
     member_id: "1811",
     member_no: "1907",
-    member_name: "นางเบญจพร  แสวงผล",
+    member_name: "นางเบญจพร แสวงผล",
     member_money: "2000",
     member_sell: "10850.00",
     member_stock: "1033.02",
@@ -17192,7 +17192,7 @@
   {
     member_id: "1812",
     member_no: "1908",
-    member_name: "นางกิ่งดาว  โสดาวัน",
+    member_name: "นางกิ่งดาว โสดาวัน",
     member_money: "2000",
     member_sell: "4136.00",
     member_stock: "1033.02",
@@ -17202,7 +17202,7 @@
   {
     member_id: "1813",
     member_no: "1909",
-    member_name: "นางอ้อยทิพย์  วรรญาติ",
+    member_name: "นางอ้อยทิพย์ วรรญาติ",
     member_money: "2000",
     member_sell: "16251.00",
     member_stock: "1033.02",
@@ -17212,7 +17212,7 @@
   {
     member_id: "1814",
     member_no: "1910",
-    member_name: "นายเอกชัย  ฤทธิวัฒนเดช",
+    member_name: "นายเอกชัย ฤทธิวัฒนเดช",
     member_money: "2000",
     member_sell: "1305.00",
     member_stock: "1033.02",
@@ -17222,7 +17222,7 @@
   {
     member_id: "1815",
     member_no: "1911",
-    member_name: "นายสันติ  ทิพยโสต",
+    member_name: "นายสันติ ทิพยโสต",
     member_money: "2000",
     member_sell: "9871.00",
     member_stock: "1033.02",
@@ -17232,7 +17232,7 @@
   {
     member_id: "1816",
     member_no: "1912",
-    member_name: "นายไพรศาล  ศิลาเกตุ",
+    member_name: "นายไพรศาล ศิลาเกตุ",
     member_money: "2000",
     member_sell: "2115.00",
     member_stock: "1033.02",
@@ -17242,7 +17242,7 @@
   {
     member_id: "1817",
     member_no: "1913",
-    member_name: "นายไชยยันต์  ปาสานำ",
+    member_name: "นายไชยยันต์ ปาสานำ",
     member_money: "2000",
     member_sell: "1583.00",
     member_stock: "1033.02",
@@ -17252,7 +17252,7 @@
   {
     member_id: "1818",
     member_no: "1915",
-    member_name: "นางสาวศศิธร  จันทรมหา",
+    member_name: "นางสาวศศิธร จันทรมหา",
     member_money: "2000",
     member_sell: "2526.00",
     member_stock: "1033.02",
@@ -17262,7 +17262,7 @@
   {
     member_id: "1819",
     member_no: "1916",
-    member_name: "นางสาวภัทรจารี  สิทธิศาสตร์",
+    member_name: "นางสาวภัทรจารี สิทธิศาสตร์",
     member_money: "2000",
     member_sell: "2628.00",
     member_stock: "1033.02",
@@ -17272,7 +17272,7 @@
   {
     member_id: "1820",
     member_no: "1917",
-    member_name: "นางสาววิไลวรรณ  ลั่นแอ",
+    member_name: "นางสาววิไลวรรณ ลั่นแอ",
     member_money: "2000",
     member_sell: "12252.00",
     member_stock: "1033.02",
@@ -17282,7 +17282,7 @@
   {
     member_id: "1821",
     member_no: "1918",
-    member_name: "นางสาวสุขสรรค์  พันธไชย",
+    member_name: "นางสาวสุขสรรค์ พันธไชย",
     member_money: "2000",
     member_sell: "20262.00",
     member_stock: "1033.02",
@@ -17292,7 +17292,7 @@
   {
     member_id: "1822",
     member_no: "1919",
-    member_name: "นางสาวชาลิสา  อริญมิตร",
+    member_name: "นางสาวชาลิสา อริญมิตร",
     member_money: "1000",
     member_sell: "2534.00",
     member_stock: "516.51",
@@ -17302,7 +17302,7 @@
   {
     member_id: "1823",
     member_no: "1920",
-    member_name: "นางเพ็ญประภา  สระแก้ว",
+    member_name: "นางเพ็ญประภา สระแก้ว",
     member_money: "2000",
     member_sell: "44651.00",
     member_stock: "1033.02",
@@ -17312,7 +17312,7 @@
   {
     member_id: "1824",
     member_no: "1921",
-    member_name: "นางสาวศุจินันท์  ศักดิ์สกุลวัฒนา",
+    member_name: "นางสาวศุจินันท์ ศักดิ์สกุลวัฒนา",
     member_money: "2000",
     member_sell: "29002.00",
     member_stock: "1033.02",
@@ -17322,7 +17322,7 @@
   {
     member_id: "1825",
     member_no: "1922",
-    member_name: "นางสาวปรียาวีร์  สัตยธีรานนท์",
+    member_name: "นางสาวปรียาวีร์ สัตยธีรานนท์",
     member_money: "2000",
     member_sell: "4713.00",
     member_stock: "1033.02",
@@ -17332,7 +17332,7 @@
   {
     member_id: "1826",
     member_no: "1923",
-    member_name: "นางสาวนพสรณ์  หัตถศิลป์",
+    member_name: "นางสาวนพสรณ์ หัตถศิลป์",
     member_money: "2000",
     member_sell: "19120.00",
     member_stock: "1033.02",
@@ -17342,7 +17342,7 @@
   {
     member_id: "1827",
     member_no: "1924",
-    member_name: "นางศิริวรรณ  หมุนอุดม",
+    member_name: "นางศิริวรรณ หมุนอุดม",
     member_money: "1000",
     member_sell: "9068.00",
     member_stock: "516.51",
@@ -17352,7 +17352,7 @@
   {
     member_id: "1828",
     member_no: "1925",
-    member_name: "นางสาวสุวภัทร  บุญเจริญ",
+    member_name: "นางสาวสุวภัทร บุญเจริญ",
     member_money: "2000",
     member_sell: "928.00",
     member_stock: "1033.02",
@@ -17362,7 +17362,7 @@
   {
     member_id: "1829",
     member_no: "1926",
-    member_name: "นางสาวอภิชญา  สังวร",
+    member_name: "นางสาวอภิชญา สังวร",
     member_money: "2000",
     member_sell: "8290.00",
     member_stock: "1033.02",
@@ -17372,7 +17372,7 @@
   {
     member_id: "1830",
     member_no: "1927",
-    member_name: "นายภัทรพล  ศรีหารัตน์",
+    member_name: "นายภัทรพล ศรีหารัตน์",
     member_money: "2000",
     member_sell: "12536.00",
     member_stock: "1033.02",
@@ -17382,7 +17382,7 @@
   {
     member_id: "1831",
     member_no: "1928",
-    member_name: "นางสาวพิชญา  องค์พิมล",
+    member_name: "นางสาวพิชญา องค์พิมล",
     member_money: "2000",
     member_sell: "498.00",
     member_stock: "1033.02",
@@ -17392,7 +17392,7 @@
   {
     member_id: "1832",
     member_no: "1929",
-    member_name: "นางสาวเกศดา  เกษามา",
+    member_name: "นางสาวเกศดา เกษามา",
     member_money: "1000",
     member_sell: "9243.00",
     member_stock: "516.51",
@@ -17402,7 +17402,7 @@
   {
     member_id: "1833",
     member_no: "1930",
-    member_name: "นางสาวศิริรัตน์  บุตรเพ็ง",
+    member_name: "นางสาวศิริรัตน์ บุตรเพ็ง",
     member_money: "2000",
     member_sell: "8675.00",
     member_stock: "1033.02",
@@ -17412,7 +17412,7 @@
   {
     member_id: "1834",
     member_no: "1931",
-    member_name: "นางอภิญญา  อรรคบุตร",
+    member_name: "นางอภิญญา อรรคบุตร",
     member_money: "2000",
     member_sell: "10046.00",
     member_stock: "1033.02",
@@ -17422,7 +17422,7 @@
   {
     member_id: "1835",
     member_no: "1932",
-    member_name: "นางสาวปาริฉัตร  สุริสาร",
+    member_name: "นางสาวปาริฉัตร สุริสาร",
     member_money: "2000",
     member_sell: "13852.00",
     member_stock: "1033.02",
@@ -17432,7 +17432,7 @@
   {
     member_id: "1836",
     member_no: "1933",
-    member_name: "นายคำรณ  สีภูมินทร์",
+    member_name: "นายคำรณ สีภูมินทร์",
     member_money: "2000",
     member_sell: "4815.00",
     member_stock: "1033.02",
@@ -17442,7 +17442,7 @@
   {
     member_id: "1837",
     member_no: "1934",
-    member_name: "นายวิชาร์ด  หารประทุม",
+    member_name: "นายวิชาร์ด หารประทุม",
     member_money: "2000",
     member_sell: "7947.00",
     member_stock: "1033.02",
@@ -17452,7 +17452,7 @@
   {
     member_id: "1838",
     member_no: "1935",
-    member_name: "นางสาวพัชรีพร  คชสีช์",
+    member_name: "นางสาวพัชรีพร คชสีช์",
     member_money: "2000",
     member_sell: "7389.00",
     member_stock: "1033.02",
@@ -17462,7 +17462,7 @@
   {
     member_id: "1839",
     member_no: "1936",
-    member_name: "นายพิทักษ์  ตะราษี",
+    member_name: "นายพิทักษ์ ตะราษี",
     member_money: "2000",
     member_sell: "2682.00",
     member_stock: "1033.02",
@@ -17472,7 +17472,7 @@
   {
     member_id: "1840",
     member_no: "1937",
-    member_name: "นายปัญญา  เอี่ยมชูเพชร",
+    member_name: "นายปัญญา เอี่ยมชูเพชร",
     member_money: "2000",
     member_sell: "7119.00",
     member_stock: "1033.02",
@@ -17482,7 +17482,7 @@
   {
     member_id: "1841",
     member_no: "1938",
-    member_name: "นางสาวสุขกันยา  เดชรักษา",
+    member_name: "นางสาวสุขกันยา เดชรักษา",
     member_money: "2000",
     member_sell: "23642.00",
     member_stock: "1033.02",
@@ -17492,7 +17492,7 @@
   {
     member_id: "1842",
     member_no: "1939",
-    member_name: "นางอารีย์  สิมลี",
+    member_name: "นางอารีย์ สิมลี",
     member_money: "500",
     member_sell: "10546.00",
     member_stock: "258.26",
@@ -17502,7 +17502,7 @@
   {
     member_id: "1843",
     member_no: "1941",
-    member_name: "นางสาวอัจฉรา  เสนาเสถียร",
+    member_name: "นางสาวอัจฉรา เสนาเสถียร",
     member_money: "2000",
     member_sell: "22690.00",
     member_stock: "1033.02",
@@ -17512,7 +17512,7 @@
   {
     member_id: "1844",
     member_no: "1942",
-    member_name: "นางสาวกัญญ์ณัชชา  บุตรมารศรี",
+    member_name: "นางสาวกัญญ์ณัชชา บุตรมารศรี",
     member_money: "300",
     member_sell: "8554.00",
     member_stock: "154.95",
@@ -17522,7 +17522,7 @@
   {
     member_id: "1845",
     member_no: "1943",
-    member_name: "นายอนุวัฒน์  โมกขะรัตน์",
+    member_name: "นายอนุวัฒน์ โมกขะรัตน์",
     member_money: "1000",
     member_sell: "4867.00",
     member_stock: "516.51",
@@ -17532,7 +17532,7 @@
   {
     member_id: "1847",
     member_no: "1945",
-    member_name: "นางสาวพรหมพร  บุญญะวัติพงศ์",
+    member_name: "นางสาวพรหมพร บุญญะวัติพงศ์",
     member_money: "2000",
     member_sell: "9087.00",
     member_stock: "1033.02",
@@ -17542,7 +17542,7 @@
   {
     member_id: "1848",
     member_no: "1946",
-    member_name: "นางสาวกุลลัดดา  จันทะมิตร",
+    member_name: "นางสาวกุลลัดดา จันทะมิตร",
     member_money: "1500",
     member_sell: "28588.00",
     member_stock: "774.77",
@@ -17552,7 +17552,7 @@
   {
     member_id: "1849",
     member_no: "1947",
-    member_name: "นางสาวสุภารัตน์  สีมามาตร์",
+    member_name: "นางสาวสุภารัตน์ สีมามาตร์",
     member_money: "2000",
     member_sell: "13551.00",
     member_stock: "1033.02",
@@ -17562,7 +17562,7 @@
   {
     member_id: "1850",
     member_no: "1948",
-    member_name: "นางสาววัฒนา  สว่างแก้ว",
+    member_name: "นางสาววัฒนา สว่างแก้ว",
     member_money: "2000",
     member_sell: "3351.00",
     member_stock: "1033.02",
@@ -17572,7 +17572,7 @@
   {
     member_id: "1851",
     member_no: "1949",
-    member_name: "นางสาวสิทธิพร  อ้วนหินกอง",
+    member_name: "นางสาวสิทธิพร อ้วนหินกอง",
     member_money: "1000",
     member_sell: "3782.00",
     member_stock: "516.51",
@@ -17582,7 +17582,7 @@
   {
     member_id: "1852",
     member_no: "1950",
-    member_name: "นางสาวรินธิรา  ศรีสารคาม",
+    member_name: "นางสาวรินธิรา ศรีสารคาม",
     member_money: "1000",
     member_sell: "3548.00",
     member_stock: "516.51",
@@ -17592,7 +17592,7 @@
   {
     member_id: "1853",
     member_no: "1951",
-    member_name: "นางสมบูรณ์  ตุ้นกระโทก",
+    member_name: "นางสมบูรณ์ ตุ้นกระโทก",
     member_money: "2000",
     member_sell: "8938.00",
     member_stock: "1033.02",
@@ -17602,7 +17602,7 @@
   {
     member_id: "1854",
     member_no: "1952",
-    member_name: "นายพีระศักดิ์  โพธิกะ",
+    member_name: "นายพีระศักดิ์ โพธิกะ",
     member_money: "2000",
     member_sell: "11465.00",
     member_stock: "1033.02",
@@ -17622,7 +17622,7 @@
   {
     member_id: "1856",
     member_no: "1954",
-    member_name: "นายสุพัฒน์พงษ์  ผลาเลิศ",
+    member_name: "นายสุพัฒน์พงษ์ ผลาเลิศ",
     member_money: "2000",
     member_sell: "1458.00",
     member_stock: "1033.02",
@@ -17632,7 +17632,7 @@
   {
     member_id: "1857",
     member_no: "1955",
-    member_name: "นายศิริวัฒน์  เหลือศิริ",
+    member_name: "นายศิริวัฒน์ เหลือศิริ",
     member_money: "2000",
     member_sell: "6071.00",
     member_stock: "1033.02",
@@ -17642,7 +17642,7 @@
   {
     member_id: "1858",
     member_no: "1956",
-    member_name: "นางสาวสรัญญา  ศักขินาดี",
+    member_name: "นางสาวสรัญญา ศักขินาดี",
     member_money: "2000",
     member_sell: "33462.00",
     member_stock: "1033.02",
@@ -17652,7 +17652,7 @@
   {
     member_id: "1859",
     member_no: "1957",
-    member_name: "นางสาวกนกอร  น้อยบุดดี",
+    member_name: "นางสาวกนกอร น้อยบุดดี",
     member_money: "2000",
     member_sell: "15517.00",
     member_stock: "1033.02",
@@ -17662,7 +17662,7 @@
   {
     member_id: "1860",
     member_no: "1958",
-    member_name: "นายสุรพงษ์  เพ็งวิภาส",
+    member_name: "นายสุรพงษ์ เพ็งวิภาส",
     member_money: "2000",
     member_sell: "9040.00",
     member_stock: "1033.02",
@@ -17672,7 +17672,7 @@
   {
     member_id: "1861",
     member_no: "1959",
-    member_name: "นางสาววาสนา  จารัตน์",
+    member_name: "นางสาววาสนา จารัตน์",
     member_money: "2000",
     member_sell: "450.00",
     member_stock: "1033.02",
@@ -17682,7 +17682,7 @@
   {
     member_id: "1862",
     member_no: "1960",
-    member_name: "นางสาวสมฤดี  งอมสระคู",
+    member_name: "นางสาวสมฤดี งอมสระคู",
     member_money: "2000",
     member_sell: "6948.00",
     member_stock: "1033.02",
@@ -17692,7 +17692,7 @@
   {
     member_id: "1863",
     member_no: "1962",
-    member_name: "นางวาสนา  ขุมหิรัญ",
+    member_name: "นางวาสนา ขุมหิรัญ",
     member_money: "2000",
     member_sell: "16872.00",
     member_stock: "1033.02",
@@ -17702,7 +17702,7 @@
   {
     member_id: "1864",
     member_no: "1963",
-    member_name: "นางสาวรจนา  ปัตลา",
+    member_name: "นางสาวรจนา ปัตลา",
     member_money: "2000",
     member_sell: "31514.00",
     member_stock: "1033.02",
@@ -17712,7 +17712,7 @@
   {
     member_id: "1865",
     member_no: "1964",
-    member_name: "นางสุกัญญา  พรมโสภา",
+    member_name: "นางสุกัญญา พรมโสภา",
     member_money: "1000",
     member_sell: "20504.00",
     member_stock: "516.51",
@@ -17722,7 +17722,7 @@
   {
     member_id: "1866",
     member_no: "1965",
-    member_name: "นางสาวเสาวภา  มัชฌิโม",
+    member_name: "นางสาวเสาวภา มัชฌิโม",
     member_money: "2000",
     member_sell: "18987.00",
     member_stock: "1033.02",
@@ -17732,7 +17732,7 @@
   {
     member_id: "1867",
     member_no: "1966",
-    member_name: "นางสาวนันทกา  มหันต์สุคนธ์",
+    member_name: "นางสาวนันทกา มหันต์สุคนธ์",
     member_money: "2000",
     member_sell: "6188.00",
     member_stock: "1033.02",
@@ -17742,7 +17742,7 @@
   {
     member_id: "1868",
     member_no: "1967",
-    member_name: "นางสาวผไทมาส  มูลมั่งมี",
+    member_name: "นางสาวผไทมาส มูลมั่งมี",
     member_money: "2000",
     member_sell: "7820.00",
     member_stock: "1033.02",
@@ -17752,7 +17752,7 @@
   {
     member_id: "1869",
     member_no: "1968",
-    member_name: "นางสาวอภิญญา  จุลหงส์",
+    member_name: "นางสาวอภิญญา จุลหงส์",
     member_money: "2000",
     member_sell: "18689.00",
     member_stock: "1033.02",
@@ -17762,7 +17762,7 @@
   {
     member_id: "1870",
     member_no: "1969",
-    member_name: "นางสาวเมริน  ฤทธาพรม",
+    member_name: "นางสาวเมริน ฤทธาพรม",
     member_money: "2000",
     member_sell: "1747.00",
     member_stock: "1033.02",
@@ -17772,7 +17772,7 @@
   {
     member_id: "1871",
     member_no: "1970",
-    member_name: "นางกัญญา  ศรีเคลือบ",
+    member_name: "นางกัญญา ศรีเคลือบ",
     member_money: "2000",
     member_sell: "27710.00",
     member_stock: "1033.02",
@@ -17782,7 +17782,7 @@
   {
     member_id: "1872",
     member_no: "1971",
-    member_name: "นายพิพัฒพงษ์  บุญยิ่ง",
+    member_name: "นายพิพัฒพงษ์ บุญยิ่ง",
     member_money: "2000",
     member_sell: "29072.00",
     member_stock: "1033.02",
@@ -17792,7 +17792,7 @@
   {
     member_id: "1873",
     member_no: "1972",
-    member_name: "นายอติทัชย์  กระสินธุ์หอม",
+    member_name: "นายอติทัชย์ กระสินธุ์หอม",
     member_money: "2000",
     member_sell: "11660.00",
     member_stock: "1033.02",
@@ -17802,7 +17802,7 @@
   {
     member_id: "1874",
     member_no: "1973",
-    member_name: "นางสาวปุณณภา  ทิพย์โสต",
+    member_name: "นางสาวปุณณภา ทิพย์โสต",
     member_money: "2000",
     member_sell: "5364.00",
     member_stock: "1033.02",
@@ -17812,7 +17812,7 @@
   {
     member_id: "1875",
     member_no: "1974",
-    member_name: "นายวัชรพัฐ  อุนาสิทธิ์",
+    member_name: "นายวัชรพัฐ อุนาสิทธิ์",
     member_money: "1000",
     member_sell: "1336.00",
     member_stock: "516.51",
@@ -17822,7 +17822,7 @@
   {
     member_id: "1876",
     member_no: "1975",
-    member_name: "นางสาวจิรัญญา  พันธุ์ปลาโด",
+    member_name: "นางสาวจิรัญญา พันธุ์ปลาโด",
     member_money: "2000",
     member_sell: "14376.00",
     member_stock: "1033.02",
@@ -17832,7 +17832,7 @@
   {
     member_id: "1877",
     member_no: "1976",
-    member_name: "นางสาววรารัตน์  ฝางแก้ว",
+    member_name: "นางสาววรารัตน์ ฝางแก้ว",
     member_money: "1000",
     member_sell: "16971.00",
     member_stock: "516.51",
@@ -17842,7 +17842,7 @@
   {
     member_id: "1878",
     member_no: "1977",
-    member_name: "นางสาวปวีณา  เพิ่มวิเศษ",
+    member_name: "นางสาวปวีณา เพิ่มวิเศษ",
     member_money: "1000",
     member_sell: "27704.00",
     member_stock: "516.51",
@@ -17852,7 +17852,7 @@
   {
     member_id: "1879",
     member_no: "1978",
-    member_name: "นางสาวธัญญมาศ  แสนดาว",
+    member_name: "นางสาวธัญญมาศ แสนดาว",
     member_money: "1000",
     member_sell: "14346.00",
     member_stock: "516.51",
@@ -17862,7 +17862,7 @@
   {
     member_id: "1880",
     member_no: "1979",
-    member_name: "นายปัสธร  หวานอารมย์",
+    member_name: "นายปัสธร หวานอารมย์",
     member_money: "500",
     member_sell: "3153.00",
     member_stock: "258.26",
@@ -17872,7 +17872,7 @@
   {
     member_id: "1881",
     member_no: "1980",
-    member_name: "นางณัฐกฤตา  จันทรประทักษ์",
+    member_name: "นางณัฐกฤตา จันทรประทักษ์",
     member_money: "1000",
     member_sell: "17022.00",
     member_stock: "516.51",
@@ -17882,7 +17882,7 @@
   {
     member_id: "1882",
     member_no: "1981",
-    member_name: "นางสาวธมนวรรณ  จรรยาวงศ์",
+    member_name: "นางสาวธมนวรรณ จรรยาวงศ์",
     member_money: "2000",
     member_sell: "4250.00",
     member_stock: "1033.02",
@@ -17892,7 +17892,7 @@
   {
     member_id: "1883",
     member_no: "1983",
-    member_name: "นางสาวนิโลบน  ธนะบุญ",
+    member_name: "นางสาวนิโลบน ธนะบุญ",
     member_money: "2000",
     member_sell: "13356.00",
     member_stock: "1033.02",
@@ -17902,7 +17902,7 @@
   {
     member_id: "1884",
     member_no: "1984",
-    member_name: "นางสาวจามรี  ดีมาก",
+    member_name: "นางสาวจามรี ดีมาก",
     member_money: "300",
     member_sell: "14828.00",
     member_stock: "154.95",
@@ -17912,7 +17912,7 @@
   {
     member_id: "1885",
     member_no: "1986",
-    member_name: "นางสุภาพร  มิตะมะ",
+    member_name: "นางสุภาพร มิตะมะ",
     member_money: "500",
     member_sell: "9734.00",
     member_stock: "258.26",
@@ -17922,7 +17922,7 @@
   {
     member_id: "1886",
     member_no: "1988",
-    member_name: "นายวิสัน  จัททร์โม้",
+    member_name: "นายวิสัน จัททร์โม้",
     member_money: "1000",
     member_sell: "54173.00",
     member_stock: "516.51",
@@ -17932,7 +17932,7 @@
   {
     member_id: "1887",
     member_no: "1989",
-    member_name: "นางสาวณัฐพร  กาญจนะแก้ว",
+    member_name: "นางสาวณัฐพร กาญจนะแก้ว",
     member_money: "500",
     member_sell: "6002.00",
     member_stock: "258.26",
@@ -17942,7 +17942,7 @@
   {
     member_id: "1888",
     member_no: "1990",
-    member_name: "นางสาวอริสรา  มนตรีปฐม",
+    member_name: "นางสาวอริสรา มนตรีปฐม",
     member_money: "500",
     member_sell: "1772.00",
     member_stock: "258.26",
@@ -17952,7 +17952,7 @@
   {
     member_id: "1889",
     member_no: "1991",
-    member_name: "นางสาวพรรณี  ทำนาเมือง",
+    member_name: "นางสาวพรรณี ทำนาเมือง",
     member_money: "500",
     member_sell: "4730.00",
     member_stock: "258.26",
@@ -17962,7 +17962,7 @@
   {
     member_id: "1890",
     member_no: "1992",
-    member_name: "นางสาวบุญทิวา  พรมโสภา",
+    member_name: "นางสาวบุญทิวา พรมโสภา",
     member_money: "500",
     member_sell: "3189.00",
     member_stock: "258.26",
@@ -17972,7 +17972,7 @@
   {
     member_id: "1891",
     member_no: "1993",
-    member_name: "นางสาวขนิษฐา  ทมเจริญ",
+    member_name: "นางสาวขนิษฐา ทมเจริญ",
     member_money: "1000",
     member_sell: "5977.00",
     member_stock: "516.51",
@@ -17982,7 +17982,7 @@
   {
     member_id: "1892",
     member_no: "1994",
-    member_name: "นางคัทรียา  ชิณโย",
+    member_name: "นางคัทรียา ชิณโย",
     member_money: "1000",
     member_sell: "1869.00",
     member_stock: "516.51",
@@ -17992,7 +17992,7 @@
   {
     member_id: "1893",
     member_no: "1995",
-    member_name: "นางสาวบุษบา  งามงอน",
+    member_name: "นางสาวบุษบา งามงอน",
     member_money: "500",
     member_sell: "7110.00",
     member_stock: "258.26",
@@ -18002,7 +18002,7 @@
   {
     member_id: "1894",
     member_no: "1996",
-    member_name: "นางสาวพัตรา  สิงคุณา",
+    member_name: "นางสาวพัตรา สิงคุณา",
     member_money: "1000",
     member_sell: "8558.00",
     member_stock: "516.51",
@@ -18012,7 +18012,7 @@
   {
     member_id: "1895",
     member_no: "1997",
-    member_name: "นางสาวณัฐนิช  โคตรพิมพ์",
+    member_name: "นางสาวณัฐนิช โคตรพิมพ์",
     member_money: "2000",
     member_sell: "10991.00",
     member_stock: "1033.02",
@@ -18022,7 +18022,7 @@
   {
     member_id: "1896",
     member_no: "1998",
-    member_name: "นางสาวจามินทร์  มูลมะราช",
+    member_name: "นางสาวจามินทร์ มูลมะราช",
     member_money: "2000",
     member_sell: "3221.00",
     member_stock: "1033.02",
@@ -18032,7 +18032,7 @@
   {
     member_id: "1897",
     member_no: "1999",
-    member_name: "นางสาวฐิฎิวรดา  วาระพิลา",
+    member_name: "นางสาวฐิฎิวรดา วาระพิลา",
     member_money: "1000",
     member_sell: "13097.00",
     member_stock: "516.51",
@@ -18042,7 +18042,7 @@
   {
     member_id: "1898",
     member_no: "2000",
-    member_name: "นายทองทวี  สัตนาโค",
+    member_name: "นายทองทวี สัตนาโค",
     member_money: "2000",
     member_sell: "2360.00",
     member_stock: "1033.02",
@@ -18052,7 +18052,7 @@
   {
     member_id: "1899",
     member_no: "2001",
-    member_name: "นางสาวอรอนงค์  ธงชัย",
+    member_name: "นางสาวอรอนงค์ ธงชัย",
     member_money: "2000",
     member_sell: "5732.00",
     member_stock: "1033.02",
@@ -18062,7 +18062,7 @@
   {
     member_id: "1900",
     member_no: "2002",
-    member_name: "นางสาวศรินญา  ศรีภูวงษ์",
+    member_name: "นางสาวศรินญา ศรีภูวงษ์",
     member_money: "1000",
     member_sell: "4085.00",
     member_stock: "516.51",
@@ -18072,7 +18072,7 @@
   {
     member_id: "1901",
     member_no: "2003",
-    member_name: "นางสาวอนุธิดา  เพ็งก้านตรง",
+    member_name: "นางสาวอนุธิดา เพ็งก้านตรง",
     member_money: "500",
     member_sell: "8955.00",
     member_stock: "258.26",
@@ -18082,7 +18082,7 @@
   {
     member_id: "1902",
     member_no: "2005",
-    member_name: "นางสาววันเพ็ญ  ชิณเพ็ง",
+    member_name: "นางสาววันเพ็ญ ชิณเพ็ง",
     member_money: "2000",
     member_sell: "14020.00",
     member_stock: "1033.02",
@@ -18092,7 +18092,7 @@
   {
     member_id: "1903",
     member_no: "2006",
-    member_name: "นางประมัย  วงศ์ขุมเงิน",
+    member_name: "นางประมัย วงศ์ขุมเงิน",
     member_money: "1000",
     member_sell: "21156.00",
     member_stock: "516.51",
@@ -18102,7 +18102,7 @@
   {
     member_id: "1904",
     member_no: "2007",
-    member_name: "นางสาวชัชชญา  จันสงวน",
+    member_name: "นางสาวชัชชญา จันสงวน",
     member_money: "2000",
     member_sell: "12990.00",
     member_stock: "1033.02",
@@ -18112,7 +18112,7 @@
   {
     member_id: "1905",
     member_no: "2008",
-    member_name: "นายประเทือง  รัตนพนธ์",
+    member_name: "นายประเทือง รัตนพนธ์",
     member_money: "1000",
     member_sell: "3348.00",
     member_stock: "516.51",
@@ -18122,7 +18122,7 @@
   {
     member_id: "1907",
     member_no: "2010",
-    member_name: "นางสาวน้ำมนต์  ศิริพรอดุลศิลป์",
+    member_name: "นางสาวน้ำมนต์ ศิริพรอดุลศิลป์",
     member_money: "2000",
     member_sell: "11371.00",
     member_stock: "1033.02",
@@ -18132,7 +18132,7 @@
   {
     member_id: "1908",
     member_no: "2011",
-    member_name: "นางสาวนิธิมา  ขันชัยภูมิ",
+    member_name: "นางสาวนิธิมา ขันชัยภูมิ",
     member_money: "2000",
     member_sell: "8088.00",
     member_stock: "1033.02",
@@ -18142,7 +18142,7 @@
   {
     member_id: "1909",
     member_no: "2012",
-    member_name: "นางกนกวรรณ  ศิริเวช",
+    member_name: "นางกนกวรรณ ศิริเวช",
     member_money: "1000",
     member_sell: "18829.00",
     member_stock: "516.51",
@@ -18152,7 +18152,7 @@
   {
     member_id: "1910",
     member_no: "2013",
-    member_name: "นางสาวกนกพร  จรอนันท์",
+    member_name: "นางสาวกนกพร จรอนันท์",
     member_money: "2000",
     member_sell: "6260.00",
     member_stock: "1033.02",
@@ -18162,7 +18162,7 @@
   {
     member_id: "1911",
     member_no: "2014",
-    member_name: "นายภัทรชัย  ซือ",
+    member_name: "นายภัทรชัย ซือ",
     member_money: "2000",
     member_sell: "14086.00",
     member_stock: "1033.02",
@@ -18172,7 +18172,7 @@
   {
     member_id: "1912",
     member_no: "2015",
-    member_name: "นางสาวพรยุพา  ถนัดค้า",
+    member_name: "นางสาวพรยุพา ถนัดค้า",
     member_money: "2000",
     member_sell: "7390.00",
     member_stock: "1033.02",
@@ -18182,7 +18182,7 @@
   {
     member_id: "1913",
     member_no: "2016",
-    member_name: "นางสาวนิธิธาวดี  กวีมูล",
+    member_name: "นางสาวนิธิธาวดี กวีมูล",
     member_money: "2000",
     member_sell: "9663.00",
     member_stock: "1033.02",
@@ -18192,7 +18192,7 @@
   {
     member_id: "1914",
     member_no: "2017",
-    member_name: "นายจิรพัฒน์  เรืองสุวรรณ",
+    member_name: "นายจิรพัฒน์ เรืองสุวรรณ",
     member_money: "2000",
     member_sell: "4636.00",
     member_stock: "1033.02",
@@ -18202,7 +18202,7 @@
   {
     member_id: "1915",
     member_no: "2018",
-    member_name: "นางสาวอรณิชา  มณีรัตน์",
+    member_name: "นางสาวอรณิชา มณีรัตน์",
     member_money: "2000",
     member_sell: "13467.00",
     member_stock: "1033.02",
@@ -18212,7 +18212,7 @@
   {
     member_id: "1916",
     member_no: "2019",
-    member_name: "นางสาวบัวพันธ์  โพธิสลิต",
+    member_name: "นางสาวบัวพันธ์ โพธิสลิต",
     member_money: "2000",
     member_sell: "11349.00",
     member_stock: "1033.02",
@@ -18222,7 +18222,7 @@
   {
     member_id: "1917",
     member_no: "2020",
-    member_name: "นางสาวกรรณิกา  กลายกลาง",
+    member_name: "นางสาวกรรณิกา กลายกลาง",
     member_money: "1000",
     member_sell: "21668.00",
     member_stock: "516.51",
@@ -18232,7 +18232,7 @@
   {
     member_id: "1918",
     member_no: "2021",
-    member_name: "นางสาวรุ่งนภา  พิศักดิ์",
+    member_name: "นางสาวรุ่งนภา พิศักดิ์",
     member_money: "500",
     member_sell: "11638.00",
     member_stock: "258.26",
@@ -18242,7 +18242,7 @@
   {
     member_id: "1919",
     member_no: "2022",
-    member_name: "นางสาวรักษณันท์ภร  ธราภูมิพิพัฒน์",
+    member_name: "นางสาวรักษณันท์ภร ธราภูมิพิพัฒน์",
     member_money: "2000",
     member_sell: "6295.00",
     member_stock: "1033.02",
@@ -18252,7 +18252,7 @@
   {
     member_id: "1920",
     member_no: "2023",
-    member_name: "นายนาถการ  โสเต",
+    member_name: "นายนาถการ โสเต",
     member_money: "500",
     member_sell: "42187.00",
     member_stock: "258.26",
@@ -18262,7 +18262,7 @@
   {
     member_id: "1921",
     member_no: "2024",
-    member_name: "นายนิมิต  สุดเฉลียว",
+    member_name: "นายนิมิต สุดเฉลียว",
     member_money: "2000",
     member_sell: "13187.00",
     member_stock: "1033.02",
@@ -18272,7 +18272,7 @@
   {
     member_id: "1922",
     member_no: "2025",
-    member_name: "นางสาวมณีรัตน์  แสงมุข",
+    member_name: "นางสาวมณีรัตน์ แสงมุข",
     member_money: "2000",
     member_sell: "5474.00",
     member_stock: "1033.02",
@@ -18282,7 +18282,7 @@
   {
     member_id: "1923",
     member_no: "2026",
-    member_name: "นางศุลีพร  อุดมชลา",
+    member_name: "นางศุลีพร อุดมชลา",
     member_money: "1000",
     member_sell: "18242.00",
     member_stock: "516.51",
@@ -18292,7 +18292,7 @@
   {
     member_id: "1924",
     member_no: "2027",
-    member_name: "นางสาวจิราพร  ชัยน้อย",
+    member_name: "นางสาวจิราพร ชัยน้อย",
     member_money: "500",
     member_sell: "1500.00",
     member_stock: "258.26",
@@ -18302,7 +18302,7 @@
   {
     member_id: "1926",
     member_no: "2029",
-    member_name: "นายไสว  สอนโกษา",
+    member_name: "นายไสว สอนโกษา",
     member_money: "1000",
     member_sell: "17602.00",
     member_stock: "516.51",
@@ -18312,7 +18312,7 @@
   {
     member_id: "1927",
     member_no: "2031",
-    member_name: "นางสาวมุกดา  แสนยะบุตร",
+    member_name: "นางสาวมุกดา แสนยะบุตร",
     member_money: "2000",
     member_sell: "4565.00",
     member_stock: "1033.02",
@@ -18322,7 +18322,7 @@
   {
     member_id: "1928",
     member_no: "2032",
-    member_name: "นางสาวสุนันท์  หล่อปิยานนท์",
+    member_name: "นางสาวสุนันท์ หล่อปิยานนท์",
     member_money: "2000",
     member_sell: "8766.00",
     member_stock: "1033.02",
@@ -18332,7 +18332,7 @@
   {
     member_id: "1929",
     member_no: "2033",
-    member_name: "นางสาวสุนันท์  สายเครือบุญ",
+    member_name: "นางสาวสุนันท์ สายเครือบุญ",
     member_money: "1000",
     member_sell: "17403.00",
     member_stock: "516.51",
@@ -18342,7 +18342,7 @@
   {
     member_id: "1930",
     member_no: "2034",
-    member_name: "นายบุญเลี้ยง  รัตนพันธ์",
+    member_name: "นายบุญเลี้ยง รัตนพันธ์",
     member_money: "1000",
     member_sell: "785.00",
     member_stock: "516.51",
@@ -18352,7 +18352,7 @@
   {
     member_id: "1931",
     member_no: "2035",
-    member_name: "นางสาวหทัยรัตน์  ภามาศ",
+    member_name: "นางสาวหทัยรัตน์ ภามาศ",
     member_money: "2000",
     member_sell: "4214.00",
     member_stock: "1033.02",
@@ -18372,7 +18372,7 @@
   {
     member_id: "1933",
     member_no: "2037",
-    member_name: "นางสุภาพร  ดีพลงาม",
+    member_name: "นางสุภาพร ดีพลงาม",
     member_money: "500",
     member_sell: "0.00",
     member_stock: "258.26",
@@ -18382,7 +18382,7 @@
   {
     member_id: "1934",
     member_no: "2038",
-    member_name: "นางสาวจันจิรา  เพ็งก้านตง",
+    member_name: "นางสาวจันจิรา เพ็งก้านตง",
     member_money: "2000",
     member_sell: "13619.00",
     member_stock: "1033.02",
@@ -18402,7 +18402,7 @@
   {
     member_id: "1936",
     member_no: "2041",
-    member_name: "นางสาวจิราภรณ์  จอมคำสิงห์",
+    member_name: "นางสาวจิราภรณ์ จอมคำสิงห์",
     member_money: "500",
     member_sell: "58768.00",
     member_stock: "258.26",
@@ -18412,7 +18412,7 @@
   {
     member_id: "1937",
     member_no: "2043",
-    member_name: "นางสาวขัตติยวรรณ  ล่องกลาง",
+    member_name: "นางสาวขัตติยวรรณ ล่องกลาง",
     member_money: "2000",
     member_sell: "18107.00",
     member_stock: "1033.02",
@@ -18422,7 +18422,7 @@
   {
     member_id: "1938",
     member_no: "2044",
-    member_name: "นางสัพพัญญ  เทียบศรี",
+    member_name: "นางสัพพัญญ เทียบศรี",
     member_money: "500",
     member_sell: "10669.00",
     member_stock: "258.26",
@@ -18432,7 +18432,7 @@
   {
     member_id: "1939",
     member_no: "2045",
-    member_name: "นางสาวอาภาศิริ  ทองโคตร",
+    member_name: "นางสาวอาภาศิริ ทองโคตร",
     member_money: "2000",
     member_sell: "4060.00",
     member_stock: "1033.02",
@@ -18442,7 +18442,7 @@
   {
     member_id: "1940",
     member_no: "2046",
-    member_name: "นางสาวปภัสสรา  ผลินยศ",
+    member_name: "นางสาวปภัสสรา ผลินยศ",
     member_money: "500",
     member_sell: "3155.00",
     member_stock: "258.26",
@@ -18452,7 +18452,7 @@
   {
     member_id: "1941",
     member_no: "2047",
-    member_name: "นายสมภพ  หาญอาษา",
+    member_name: "นายสมภพ หาญอาษา",
     member_money: "2000",
     member_sell: "122.00",
     member_stock: "1033.02",
@@ -18462,7 +18462,7 @@
   {
     member_id: "1942",
     member_no: "2048",
-    member_name: "นางสาวนาถนลิน  ผาริโน",
+    member_name: "นางสาวนาถนลิน ผาริโน",
     member_money: "500",
     member_sell: "35843.00",
     member_stock: "258.26",
@@ -18472,7 +18472,7 @@
   {
     member_id: "1943",
     member_no: "2049",
-    member_name: "นางนิตยา  จ้อยนุแสง",
+    member_name: "นางนิตยา จ้อยนุแสง",
     member_money: "500",
     member_sell: "21050.00",
     member_stock: "258.26",
@@ -18482,7 +18482,7 @@
   {
     member_id: "1944",
     member_no: "2050",
-    member_name: "นางกาญจนรัตน์  บีน",
+    member_name: "นางกาญจนรัตน์ บีน",
     member_money: "2000",
     member_sell: "44922.00",
     member_stock: "1033.02",
@@ -18492,7 +18492,7 @@
   {
     member_id: "1945",
     member_no: "2051",
-    member_name: "นางสาววรัญญา  คำสวนจิก",
+    member_name: "นางสาววรัญญา คำสวนจิก",
     member_money: "2000",
     member_sell: "8210.00",
     member_stock: "1033.02",
@@ -18502,7 +18502,7 @@
   {
     member_id: "1946",
     member_no: "2052",
-    member_name: "นางสาวไอลดา  สมพินิจ",
+    member_name: "นางสาวไอลดา สมพินิจ",
     member_money: "1000",
     member_sell: "4606.00",
     member_stock: "516.51",
@@ -18512,7 +18512,7 @@
   {
     member_id: "1948",
     member_no: "2054",
-    member_name: "นายกฤษณ์  วาพิชสาร",
+    member_name: "นายกฤษณ์ วาพิชสาร",
     member_money: "2000",
     member_sell: "1032.00",
     member_stock: "1033.02",
@@ -18522,7 +18522,7 @@
   {
     member_id: "1949",
     member_no: "2056",
-    member_name: "นางสาวภควดี  เรืองสา",
+    member_name: "นางสาวภควดี เรืองสา",
     member_money: "2000",
     member_sell: "12779.00",
     member_stock: "1033.02",
@@ -18532,7 +18532,7 @@
   {
     member_id: "1950",
     member_no: "2057",
-    member_name: "นางสาวกรวิภา  ปัดสำราญ",
+    member_name: "นางสาวกรวิภา ปัดสำราญ",
     member_money: "2000",
     member_sell: "10589.00",
     member_stock: "1033.02",
@@ -18542,7 +18542,7 @@
   {
     member_id: "1951",
     member_no: "2058",
-    member_name: "นางสาวลลิตา  โยธานันท์",
+    member_name: "นางสาวลลิตา โยธานันท์",
     member_money: "2000",
     member_sell: "10869.00",
     member_stock: "1033.02",
@@ -18552,7 +18552,7 @@
   {
     member_id: "1952",
     member_no: "2059",
-    member_name: "นางสาวเจนจิรา  สุมาลัย",
+    member_name: "นางสาวเจนจิรา สุมาลัย",
     member_money: "1000",
     member_sell: "17311.00",
     member_stock: "516.51",
@@ -18562,7 +18562,7 @@
   {
     member_id: "1953",
     member_no: "2060",
-    member_name: "นางสาวสุธาสินี  แผ่นทอง",
+    member_name: "นางสาวสุธาสินี แผ่นทอง",
     member_money: "1000",
     member_sell: "17390.00",
     member_stock: "516.51",
@@ -18572,7 +18572,7 @@
   {
     member_id: "1954",
     member_no: "2061",
-    member_name: "นางสาววราภรณ์  โสกชาตรี",
+    member_name: "นางสาววราภรณ์ โสกชาตรี",
     member_money: "1000",
     member_sell: "10322.00",
     member_stock: "516.51",
@@ -18582,7 +18582,7 @@
   {
     member_id: "1955",
     member_no: "2062",
-    member_name: "นางสาวเจนวดี  จันทรักษ์",
+    member_name: "นางสาวเจนวดี จันทรักษ์",
     member_money: "2000",
     member_sell: "7889.00",
     member_stock: "1033.02",
@@ -18592,7 +18592,7 @@
   {
     member_id: "1956",
     member_no: "2063",
-    member_name: "หน่วยงานชมรม  บอลเลย์บอลหญิง",
+    member_name: "หน่วยงานชมรม บอลเลย์บอลหญิง",
     member_money: "2000",
     member_sell: "62.00",
     member_stock: "1033.02",
@@ -18602,7 +18602,7 @@
   {
     member_id: "1957",
     member_no: "2064",
-    member_name: "หน่วยงานชมรม  บอลเลย์บอลชาย",
+    member_name: "หน่วยงานชมรม บอลเลย์บอลชาย",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -18612,7 +18612,7 @@
   {
     member_id: "1958",
     member_no: "2065",
-    member_name: "หน่วยงานชมรม  บาสเกตบอลหญิง",
+    member_name: "หน่วยงานชมรม บาสเกตบอลหญิง",
     member_money: "2000",
     member_sell: "74.00",
     member_stock: "1033.02",
@@ -18622,7 +18622,7 @@
   {
     member_id: "1959",
     member_no: "2066",
-    member_name: "หน่วยงานชมรม  บาสเกตบอลชาย",
+    member_name: "หน่วยงานชมรม บาสเกตบอลชาย",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -18632,7 +18632,7 @@
   {
     member_id: "1960",
     member_no: "2067",
-    member_name: "หน่วยงานชมรม  กีฬาฟุตบอล",
+    member_name: "หน่วยงานชมรม กีฬาฟุตบอล",
     member_money: "2000",
     member_sell: "100.00",
     member_stock: "1033.02",
@@ -18642,7 +18642,7 @@
   {
     member_id: "1961",
     member_no: "2068",
-    member_name: "นางสาวช่อทิพย์  ภาคมฤค",
+    member_name: "นางสาวช่อทิพย์ ภาคมฤค",
     member_money: "1000",
     member_sell: "11571.00",
     member_stock: "516.51",
@@ -18652,7 +18652,7 @@
   {
     member_id: "1962",
     member_no: "2069",
-    member_name: "นายสุรชัย  อนุพันธ์",
+    member_name: "นายสุรชัย อนุพันธ์",
     member_money: "1000",
     member_sell: "9363.00",
     member_stock: "516.51",
@@ -18662,7 +18662,7 @@
   {
     member_id: "1963",
     member_no: "2070",
-    member_name: "นางสาวชนิกา  ชาระ",
+    member_name: "นางสาวชนิกา ชาระ",
     member_money: "1000",
     member_sell: "1278.00",
     member_stock: "516.51",
@@ -18672,7 +18672,7 @@
   {
     member_id: "1964",
     member_no: "2071",
-    member_name: "นางสาวปัทมาวดี  โพธิจักร์",
+    member_name: "นางสาวปัทมาวดี โพธิจักร์",
     member_money: "1000",
     member_sell: "4597.00",
     member_stock: "516.51",
@@ -18682,7 +18682,7 @@
   {
     member_id: "1965",
     member_no: "2072",
-    member_name: "นางสาววทัญญา  วันทานี",
+    member_name: "นางสาววทัญญา วันทานี",
     member_money: "2000",
     member_sell: "4182.00",
     member_stock: "1033.02",
@@ -18692,7 +18692,7 @@
   {
     member_id: "1966",
     member_no: "2073",
-    member_name: "นางสาวศจี  ศรีเที่ยง",
+    member_name: "นางสาวศจี ศรีเที่ยง",
     member_money: "2000",
     member_sell: "1459.00",
     member_stock: "1033.02",
@@ -18702,7 +18702,7 @@
   {
     member_id: "1967",
     member_no: "2074",
-    member_name: "นางสาวอรณี  ภาระยาท",
+    member_name: "นางสาวอรณี ภาระยาท",
     member_money: "2000",
     member_sell: "5320.00",
     member_stock: "1033.02",
@@ -18712,7 +18712,7 @@
   {
     member_id: "1968",
     member_no: "2075",
-    member_name: "นางสาวอุทุมพร  สมมงคล",
+    member_name: "นางสาวอุทุมพร สมมงคล",
     member_money: "2000",
     member_sell: "5919.00",
     member_stock: "1033.02",
@@ -18722,7 +18722,7 @@
   {
     member_id: "1969",
     member_no: "2076",
-    member_name: "นางจรูญรัตน์  สัตนาโค",
+    member_name: "นางจรูญรัตน์ สัตนาโค",
     member_money: "500",
     member_sell: "1297.00",
     member_stock: "258.26",
@@ -18732,7 +18732,7 @@
   {
     member_id: "1970",
     member_no: "2077",
-    member_name: "นางลำดวน  ปุริโต",
+    member_name: "นางลำดวน ปุริโต",
     member_money: "1000",
     member_sell: "9474.00",
     member_stock: "516.51",
@@ -18742,7 +18742,7 @@
   {
     member_id: "1971",
     member_no: "2078",
-    member_name: "นางสุภา  จอมคำสิงห์",
+    member_name: "นางสุภา จอมคำสิงห์",
     member_money: "500",
     member_sell: "27044.00",
     member_stock: "258.26",
@@ -18752,7 +18752,7 @@
   {
     member_id: "1972",
     member_no: "2079",
-    member_name: "นางสาววราภรณ์  เกตุสวนจิก",
+    member_name: "นางสาววราภรณ์ เกตุสวนจิก",
     member_money: "2000",
     member_sell: "840.00",
     member_stock: "1033.02",
@@ -18762,7 +18762,7 @@
   {
     member_id: "1973",
     member_no: "2080",
-    member_name: "นางสาวภาวินีย์  อัสดง",
+    member_name: "นางสาวภาวินีย์ อัสดง",
     member_money: "2000",
     member_sell: "6808.00",
     member_stock: "1033.02",
@@ -18772,7 +18772,7 @@
   {
     member_id: "1974",
     member_no: "2081",
-    member_name: "นายบุญฤทธิ์  กุระอิ่ม",
+    member_name: "นายบุญฤทธิ์ กุระอิ่ม",
     member_money: "1000",
     member_sell: "3065.00",
     member_stock: "516.51",
@@ -18782,7 +18782,7 @@
   {
     member_id: "1975",
     member_no: "2083",
-    member_name: "นางสาวสายรุ้ง  ยอดสมใจ",
+    member_name: "นางสาวสายรุ้ง ยอดสมใจ",
     member_money: "500",
     member_sell: "23101.00",
     member_stock: "258.26",
@@ -18792,7 +18792,7 @@
   {
     member_id: "1976",
     member_no: "2084",
-    member_name: "นางสาวณัฐธิดา  สารบรรณ์",
+    member_name: "นางสาวณัฐธิดา สารบรรณ์",
     member_money: "500",
     member_sell: "19055.00",
     member_stock: "258.26",
@@ -18802,7 +18802,7 @@
   {
     member_id: "1977",
     member_no: "2085",
-    member_name: "นางสาวศุพรรณี  ตั้งภักดี",
+    member_name: "นางสาวศุพรรณี ตั้งภักดี",
     member_money: "2000",
     member_sell: "11271.00",
     member_stock: "1033.02",
@@ -18812,7 +18812,7 @@
   {
     member_id: "1978",
     member_no: "2086",
-    member_name: "นางสาวธัญญรัตน์  บู่สุข",
+    member_name: "นางสาวธัญญรัตน์ บู่สุข",
     member_money: "500",
     member_sell: "3252.00",
     member_stock: "258.26",
@@ -18822,7 +18822,7 @@
   {
     member_id: "1979",
     member_no: "2087",
-    member_name: "นางสาวจิตราภรณ์  ศรีสมบัติ",
+    member_name: "นางสาวจิตราภรณ์ ศรีสมบัติ",
     member_money: "1000",
     member_sell: "9850.00",
     member_stock: "516.51",
@@ -18832,7 +18832,7 @@
   {
     member_id: "1980",
     member_no: "2088",
-    member_name: "นางสาวพัชรพร  โคตรศรี",
+    member_name: "นางสาวพัชรพร โคตรศรี",
     member_money: "500",
     member_sell: "11510.00",
     member_stock: "258.26",
@@ -18842,7 +18842,7 @@
   {
     member_id: "1982",
     member_no: "2090",
-    member_name: "นายชลวิทย์  หลาวทอง",
+    member_name: "นายชลวิทย์ หลาวทอง",
     member_money: "3000",
     member_sell: "518.00",
     member_stock: "1549.53",
@@ -18852,7 +18852,7 @@
   {
     member_id: "1983",
     member_no: "2091",
-    member_name: "นายเชาว์วัฒน์  ชูเจริญตรากูล",
+    member_name: "นายเชาว์วัฒน์ ชูเจริญตรากูล",
     member_money: "2000",
     member_sell: "8753.00",
     member_stock: "1033.02",
@@ -18862,7 +18862,7 @@
   {
     member_id: "1984",
     member_no: "2092",
-    member_name: "นางสาวพัชนี  ขาวผ่อง",
+    member_name: "นางสาวพัชนี ขาวผ่อง",
     member_money: "2000",
     member_sell: "10106.00",
     member_stock: "1033.02",
@@ -18872,7 +18872,7 @@
   {
     member_id: "1985",
     member_no: "2093",
-    member_name: "นางสาวนริศรา  สุดประโคน",
+    member_name: "นางสาวนริศรา สุดประโคน",
     member_money: "2000",
     member_sell: "15540.00",
     member_stock: "1033.02",
@@ -18882,7 +18882,7 @@
   {
     member_id: "1986",
     member_no: "2094",
-    member_name: "นายบารมี  ศรีทอง",
+    member_name: "นายบารมี ศรีทอง",
     member_money: "2000",
     member_sell: "11766.00",
     member_stock: "1033.02",
@@ -18892,7 +18892,7 @@
   {
     member_id: "1987",
     member_no: "2095",
-    member_name: "นางสาวฐิตินันท์  ไชยสินธุ์",
+    member_name: "นางสาวฐิตินันท์ ไชยสินธุ์",
     member_money: "2000",
     member_sell: "11710.00",
     member_stock: "1033.02",
@@ -18902,7 +18902,7 @@
   {
     member_id: "1988",
     member_no: "2096",
-    member_name: "นางสาวสินากานต์  วรสิงห์",
+    member_name: "นางสาวสินากานต์ วรสิงห์",
     member_money: "2000",
     member_sell: "28995.00",
     member_stock: "1033.02",
@@ -18912,7 +18912,7 @@
   {
     member_id: "1989",
     member_no: "2097",
-    member_name: "นางสาวเพชรลดา  ธรรมวิเศษ",
+    member_name: "นางสาวเพชรลดา ธรรมวิเศษ",
     member_money: "500",
     member_sell: "7716.00",
     member_stock: "258.26",
@@ -18922,7 +18922,7 @@
   {
     member_id: "1990",
     member_no: "2098",
-    member_name: "นางอภิรดี  นิ้มเจริญ",
+    member_name: "นางอภิรดี นิ้มเจริญ",
     member_money: "1000",
     member_sell: "5096.00",
     member_stock: "516.51",
@@ -18932,7 +18932,7 @@
   {
     member_id: "1991",
     member_no: "2099",
-    member_name: "นางสาวนฤมล  อ้อมทองหลาง",
+    member_name: "นางสาวนฤมล อ้อมทองหลาง",
     member_money: "2000",
     member_sell: "8677.00",
     member_stock: "1033.02",
@@ -18942,7 +18942,7 @@
   {
     member_id: "1992",
     member_no: "2101",
-    member_name: "นายธีระยุทธ  แน่นอุดร",
+    member_name: "นายธีระยุทธ แน่นอุดร",
     member_money: "1000",
     member_sell: "9360.00",
     member_stock: "516.51",
@@ -18952,7 +18952,7 @@
   {
     member_id: "1993",
     member_no: "2102",
-    member_name: "นางสาวศมณพร  หลักคำ",
+    member_name: "นางสาวศมณพร หลักคำ",
     member_money: "2000",
     member_sell: "3863.00",
     member_stock: "1033.02",
@@ -18962,7 +18962,7 @@
   {
     member_id: "1994",
     member_no: "2103",
-    member_name: "นางสาวนริษศรา  สุวรรณโต",
+    member_name: "นางสาวนริษศรา สุวรรณโต",
     member_money: "2000",
     member_sell: "7786.00",
     member_stock: "1033.02",
@@ -18972,7 +18972,7 @@
   {
     member_id: "1995",
     member_no: "2104",
-    member_name: "นางสาวทับทิม  บูราณ",
+    member_name: "นางสาวทับทิม บูราณ",
     member_money: "2000",
     member_sell: "5427.00",
     member_stock: "1033.02",
@@ -18982,7 +18982,7 @@
   {
     member_id: "1996",
     member_no: "2105",
-    member_name: "ศูนย์อุปกรณ์  เครื่องมือแพทย์",
+    member_name: "ศูนย์อุปกรณ์ เครื่องมือแพทย์",
     member_money: "2000",
     member_sell: "55.00",
     member_stock: "1033.02",
@@ -18992,7 +18992,7 @@
   {
     member_id: "1997",
     member_no: "2107",
-    member_name: "นางสาวอาภัสรา  ภูผิวเหลือง",
+    member_name: "นางสาวอาภัสรา ภูผิวเหลือง",
     member_money: "600",
     member_sell: "13884.00",
     member_stock: "309.91",
@@ -19002,7 +19002,7 @@
   {
     member_id: "1998",
     member_no: "2108",
-    member_name: "นายสุระชัย  วิชพล",
+    member_name: "นายสุระชัย วิชพล",
     member_money: "2000",
     member_sell: "2500.00",
     member_stock: "1033.02",
@@ -19012,7 +19012,7 @@
   {
     member_id: "1999",
     member_no: "2109",
-    member_name: "นางบังอร  ชำนาญ",
+    member_name: "นางบังอร ชำนาญ",
     member_money: "1000",
     member_sell: "5944.00",
     member_stock: "516.51",
@@ -19022,7 +19022,7 @@
   {
     member_id: "2000",
     member_no: "2110",
-    member_name: "นายวัชรินทร์  แสนทวีสุข",
+    member_name: "นายวัชรินทร์ แสนทวีสุข",
     member_money: "2000",
     member_sell: "2257.00",
     member_stock: "1033.02",
@@ -19032,7 +19032,7 @@
   {
     member_id: "2001",
     member_no: "2111",
-    member_name: "นางกัลยาณี  ฉ่ำมณี",
+    member_name: "นางกัลยาณี ฉ่ำมณี",
     member_money: "2000",
     member_sell: "4308.00",
     member_stock: "1033.02",
@@ -19042,7 +19042,7 @@
   {
     member_id: "2002",
     member_no: "2112",
-    member_name: "นางสาวภัคควดี  ข่าขันมะลี",
+    member_name: "นางสาวภัคควดี ข่าขันมะลี",
     member_money: "200",
     member_sell: "19999.00",
     member_stock: "103.30",
@@ -19052,7 +19052,7 @@
   {
     member_id: "2003",
     member_no: "2113",
-    member_name: "นางสาวณัฐชิตา  วินทะไชย",
+    member_name: "นางสาวณัฐชิตา วินทะไชย",
     member_money: "2000",
     member_sell: "1292.00",
     member_stock: "1033.02",
@@ -19062,7 +19062,7 @@
   {
     member_id: "2004",
     member_no: "2114",
-    member_name: "นางสาวสุภาวรรณ  แย้มโกสุมภ์",
+    member_name: "นางสาวสุภาวรรณ แย้มโกสุมภ์",
     member_money: "500",
     member_sell: "22463.00",
     member_stock: "258.26",
@@ -19072,7 +19072,7 @@
   {
     member_id: "2005",
     member_no: "2115",
-    member_name: "นายนราธร  จำนงกิจ",
+    member_name: "นายนราธร จำนงกิจ",
     member_money: "2000",
     member_sell: "2173.00",
     member_stock: "1033.02",
@@ -19082,7 +19082,7 @@
   {
     member_id: "2006",
     member_no: "2116",
-    member_name: "นางสาวสุลัดดา  สารพล",
+    member_name: "นางสาวสุลัดดา สารพล",
     member_money: "1000",
     member_sell: "1403.00",
     member_stock: "516.51",
@@ -19092,7 +19092,7 @@
   {
     member_id: "2007",
     member_no: "2120",
-    member_name: "นางสาวรินประภา  เชิงสะอาด",
+    member_name: "นางสาวรินประภา เชิงสะอาด",
     member_money: "1000",
     member_sell: "8387.00",
     member_stock: "516.51",
@@ -19102,7 +19102,7 @@
   {
     member_id: "2008",
     member_no: "2121",
-    member_name: "นายนรินทร์  เชิงสะอาด",
+    member_name: "นายนรินทร์ เชิงสะอาด",
     member_money: "2000",
     member_sell: "5610.00",
     member_stock: "1033.02",
@@ -19112,7 +19112,7 @@
   {
     member_id: "2010",
     member_no: "2123",
-    member_name: "นางสาววงวาด  วินทะไชย",
+    member_name: "นางสาววงวาด วินทะไชย",
     member_money: "500",
     member_sell: "57228.00",
     member_stock: "258.26",
@@ -19122,7 +19122,7 @@
   {
     member_id: "2011",
     member_no: "2124",
-    member_name: "นายดำรงค์  สิริวิชัย อิ่มวิเศษ",
+    member_name: "นายดำรงค์ สิริวิชัย อิ่มวิเศษ",
     member_money: "3000",
     member_sell: "40.00",
     member_stock: "1549.53",
@@ -19132,7 +19132,7 @@
   {
     member_id: "2012",
     member_no: "2125",
-    member_name: "นายวันชัย  คงเกษม",
+    member_name: "นายวันชัย คงเกษม",
     member_money: "3000",
     member_sell: "34.00",
     member_stock: "1549.53",
@@ -19142,7 +19142,7 @@
   {
     member_id: "2013",
     member_no: "2126",
-    member_name: "นางสาวรุจิรา  ศรีแดงงาม",
+    member_name: "นางสาวรุจิรา ศรีแดงงาม",
     member_money: "2000",
     member_sell: "5454.00",
     member_stock: "1033.02",
@@ -19152,7 +19152,7 @@
   {
     member_id: "2014",
     member_no: "2127",
-    member_name: "นางสาวลัดดาวัลย์  วินทะไชย",
+    member_name: "นางสาวลัดดาวัลย์ วินทะไชย",
     member_money: "2000",
     member_sell: "6779.00",
     member_stock: "1033.02",
@@ -19162,7 +19162,7 @@
   {
     member_id: "2015",
     member_no: "2128",
-    member_name: "นางสาวทิพย์วิมล  อยู่ทรัพย์",
+    member_name: "นางสาวทิพย์วิมล อยู่ทรัพย์",
     member_money: "2000",
     member_sell: "1591.00",
     member_stock: "1033.02",
@@ -19172,7 +19172,7 @@
   {
     member_id: "2016",
     member_no: "2129",
-    member_name: "นางสาวทาริกา  ดวงติ๊บ",
+    member_name: "นางสาวทาริกา ดวงติ๊บ",
     member_money: "2000",
     member_sell: "5351.00",
     member_stock: "1033.02",
@@ -19182,7 +19182,7 @@
   {
     member_id: "2017",
     member_no: "2130",
-    member_name: "นางสาวอิศราพร  เชื้อเพชร",
+    member_name: "นางสาวอิศราพร เชื้อเพชร",
     member_money: "2000",
     member_sell: "5375.00",
     member_stock: "1033.02",
@@ -19192,7 +19192,7 @@
   {
     member_id: "2018",
     member_no: "2131",
-    member_name: "นางสาวภาวิณี  กิตติศรีวิชิตชัย",
+    member_name: "นางสาวภาวิณี กิตติศรีวิชิตชัย",
     member_money: "2000",
     member_sell: "8540.00",
     member_stock: "1033.02",
@@ -19212,7 +19212,7 @@
   {
     member_id: "2020",
     member_no: "2133",
-    member_name: "นางสาวสุจิตรา  เนตะคำ",
+    member_name: "นางสาวสุจิตรา เนตะคำ",
     member_money: "2000",
     member_sell: "12992.00",
     member_stock: "1033.02",
@@ -19222,7 +19222,7 @@
   {
     member_id: "2021",
     member_no: "2134",
-    member_name: "นางสาวจรรยา  วิชัยผิน",
+    member_name: "นางสาวจรรยา วิชัยผิน",
     member_money: "2000",
     member_sell: "3582.00",
     member_stock: "1033.02",
@@ -19232,7 +19232,7 @@
   {
     member_id: "2022",
     member_no: "2135",
-    member_name: "นางสาวศิรินญา  ปัดสี",
+    member_name: "นางสาวศิรินญา ปัดสี",
     member_money: "2000",
     member_sell: "7949.00",
     member_stock: "1033.02",
@@ -19242,7 +19242,7 @@
   {
     member_id: "2023",
     member_no: "2136",
-    member_name: "นางสาวเจนจิรา     จันทร์พุฒ",
+    member_name: "นางสาวเจนจิรา   จันทร์พุฒ",
     member_money: "2000",
     member_sell: "2844.00",
     member_stock: "1033.02",
@@ -19252,7 +19252,7 @@
   {
     member_id: "2024",
     member_no: "2137",
-    member_name: "นางสาวพรนภัส  บุญทอง",
+    member_name: "นางสาวพรนภัส บุญทอง",
     member_money: "2000",
     member_sell: "2703.00",
     member_stock: "1033.02",
@@ -19262,7 +19262,7 @@
   {
     member_id: "2025",
     member_no: "2138",
-    member_name: "นางสาวเพชรรัตน์  เทือกตาทอง",
+    member_name: "นางสาวเพชรรัตน์ เทือกตาทอง",
     member_money: "2000",
     member_sell: "4832.00",
     member_stock: "1033.02",
@@ -19272,7 +19272,7 @@
   {
     member_id: "2026",
     member_no: "2139",
-    member_name: "นายวันชัย  อัตถากร",
+    member_name: "นายวันชัย อัตถากร",
     member_money: "2000",
     member_sell: "260.00",
     member_stock: "1033.02",
@@ -19282,7 +19282,7 @@
   {
     member_id: "2027",
     member_no: "2140",
-    member_name: "นางพันธกานต์  ศุภเศรษฐ์สิริ",
+    member_name: "นางพันธกานต์ ศุภเศรษฐ์สิริ",
     member_money: "2000",
     member_sell: "161.00",
     member_stock: "1033.02",
@@ -19292,7 +19292,7 @@
   {
     member_id: "2028",
     member_no: "2141",
-    member_name: "นางสาววรรณรัตน์  อัตถากร",
+    member_name: "นางสาววรรณรัตน์ อัตถากร",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -19302,7 +19302,7 @@
   {
     member_id: "2029",
     member_no: "2143",
-    member_name: "นายอรรถรส  โคตรคำ",
+    member_name: "นายอรรถรส โคตรคำ",
     member_money: "2000",
     member_sell: "3582.00",
     member_stock: "1033.02",
@@ -19312,7 +19312,7 @@
   {
     member_id: "2030",
     member_no: "2144",
-    member_name: "นางสาวฐิติกาญจน์  โหรเวช",
+    member_name: "นางสาวฐิติกาญจน์ โหรเวช",
     member_money: "2000",
     member_sell: "968.00",
     member_stock: "1033.02",
@@ -19332,7 +19332,7 @@
   {
     member_id: "2032",
     member_no: "2146",
-    member_name: "นางอรุณรัตน์  ศรีสว่าง",
+    member_name: "นางอรุณรัตน์ ศรีสว่าง",
     member_money: "2000",
     member_sell: "6424.00",
     member_stock: "1033.02",
@@ -19342,7 +19342,7 @@
   {
     member_id: "2033",
     member_no: "2147",
-    member_name: "นางสาวจิราภา  บริสุทธิ์",
+    member_name: "นางสาวจิราภา บริสุทธิ์",
     member_money: "2000",
     member_sell: "8061.00",
     member_stock: "1033.02",
@@ -19352,7 +19352,7 @@
   {
     member_id: "2034",
     member_no: "2148",
-    member_name: "นางวันทิตย์  กิจพฤกษ์",
+    member_name: "นางวันทิตย์ กิจพฤกษ์",
     member_money: "1000",
     member_sell: "2842.00",
     member_stock: "516.51",
@@ -19362,7 +19362,7 @@
   {
     member_id: "2035",
     member_no: "2149",
-    member_name: "นางสาวธัญญารัตน์  แก้วสาคู",
+    member_name: "นางสาวธัญญารัตน์ แก้วสาคู",
     member_money: "1000",
     member_sell: "12730.00",
     member_stock: "516.51",
@@ -19372,7 +19372,7 @@
   {
     member_id: "2036",
     member_no: "2150",
-    member_name: "นางสาววาสนา  คำหาญพล",
+    member_name: "นางสาววาสนา คำหาญพล",
     member_money: "2000",
     member_sell: "28479.00",
     member_stock: "1033.02",
@@ -19382,7 +19382,7 @@
   {
     member_id: "2037",
     member_no: "2151",
-    member_name: "นางสาวพิชชาพร  กิติศรีวรพันธุ์",
+    member_name: "นางสาวพิชชาพร กิติศรีวรพันธุ์",
     member_money: "2000",
     member_sell: "1147.00",
     member_stock: "1033.02",
@@ -19392,7 +19392,7 @@
   {
     member_id: "2038",
     member_no: "2152",
-    member_name: "นางสาววริยานันท์  ทองใบ",
+    member_name: "นางสาววริยานันท์ ทองใบ",
     member_money: "2000",
     member_sell: "1697.00",
     member_stock: "1033.02",
@@ -19402,7 +19402,7 @@
   {
     member_id: "2039",
     member_no: "2153",
-    member_name: "นางสาวจัณญานิพัชญ์  นวลละออ",
+    member_name: "นางสาวจัณญานิพัชญ์ นวลละออ",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -19412,7 +19412,7 @@
   {
     member_id: "2040",
     member_no: "2154",
-    member_name: "นางสาวจีรวรรณ  เสาเรียง",
+    member_name: "นางสาวจีรวรรณ เสาเรียง",
     member_money: "2000",
     member_sell: "328.00",
     member_stock: "1033.02",
@@ -19422,7 +19422,7 @@
   {
     member_id: "2041",
     member_no: "2155",
-    member_name: "นายอภิสิทธิ์  บุตรราช",
+    member_name: "นายอภิสิทธิ์ บุตรราช",
     member_money: "2000",
     member_sell: "3540.00",
     member_stock: "1033.02",
@@ -19442,7 +19442,7 @@
   {
     member_id: "2043",
     member_no: "2157",
-    member_name: "นายชนายุ  คำพลงาม",
+    member_name: "นายชนายุ คำพลงาม",
     member_money: "2000",
     member_sell: "4438.00",
     member_stock: "1033.02",
@@ -19452,7 +19452,7 @@
   {
     member_id: "2044",
     member_no: "2158",
-    member_name: "นางสาวสาวิณี  ศรีคล้าย",
+    member_name: "นางสาวสาวิณี ศรีคล้าย",
     member_money: "2000",
     member_sell: "2521.00",
     member_stock: "1033.02",
@@ -19462,7 +19462,7 @@
   {
     member_id: "2045",
     member_no: "2159",
-    member_name: "นางสาวพิชญาดา  ดารุนิกร",
+    member_name: "นางสาวพิชญาดา ดารุนิกร",
     member_money: "2000",
     member_sell: "134.00",
     member_stock: "1033.02",
@@ -19472,7 +19472,7 @@
   {
     member_id: "2046",
     member_no: "2160",
-    member_name: "นางสาวรัตติยา  คามจังหาร",
+    member_name: "นางสาวรัตติยา คามจังหาร",
     member_money: "2000",
     member_sell: "5816.00",
     member_stock: "1033.02",
@@ -19482,7 +19482,7 @@
   {
     member_id: "2047",
     member_no: "2161",
-    member_name: "นางสาวกาญจนา  พุทธบุรี",
+    member_name: "นางสาวกาญจนา พุทธบุรี",
     member_money: "1000",
     member_sell: "321.00",
     member_stock: "516.51",
@@ -19492,7 +19492,7 @@
   {
     member_id: "2048",
     member_no: "2162",
-    member_name: "นางสาวอัจฉรา  มุงคุณ",
+    member_name: "นางสาวอัจฉรา มุงคุณ",
     member_money: "2000",
     member_sell: "5566.00",
     member_stock: "1033.02",
@@ -19512,7 +19512,7 @@
   {
     member_id: "2050",
     member_no: "2164",
-    member_name: "นางสาวสุรีพร  พลูฉนวน",
+    member_name: "นางสาวสุรีพร พลูฉนวน",
     member_money: "2000",
     member_sell: "19123.00",
     member_stock: "1033.02",
@@ -19522,7 +19522,7 @@
   {
     member_id: "2051",
     member_no: "2165",
-    member_name: "นายภวินท์ภัทร  เบญจพงศาพันธุ์",
+    member_name: "นายภวินท์ภัทร เบญจพงศาพันธุ์",
     member_money: "1800",
     member_sell: "14977.00",
     member_stock: "929.72",
@@ -19532,7 +19532,7 @@
   {
     member_id: "2052",
     member_no: "2166",
-    member_name: "นายเผ่าพงษ์  เผ่าสำราญ",
+    member_name: "นายเผ่าพงษ์ เผ่าสำราญ",
     member_money: "2000",
     member_sell: "9062.00",
     member_stock: "1033.02",
@@ -19542,7 +19542,7 @@
   {
     member_id: "2053",
     member_no: "2167",
-    member_name: "นางสาวทิพย์สุดา  บุญวิเศษ",
+    member_name: "นางสาวทิพย์สุดา บุญวิเศษ",
     member_money: "1000",
     member_sell: "7097.00",
     member_stock: "516.51",
@@ -19552,7 +19552,7 @@
   {
     member_id: "2054",
     member_no: "2168",
-    member_name: "นายชัยวุฒิ  สิทธิเสนา",
+    member_name: "นายชัยวุฒิ สิทธิเสนา",
     member_money: "2000",
     member_sell: "802.00",
     member_stock: "1033.02",
@@ -19562,7 +19562,7 @@
   {
     member_id: "2055",
     member_no: "2169",
-    member_name: "นางสาวสิริวิมล  อารีเอื้อ",
+    member_name: "นางสาวสิริวิมล อารีเอื้อ",
     member_money: "1000",
     member_sell: "7627.00",
     member_stock: "516.51",
@@ -19572,7 +19572,7 @@
   {
     member_id: "2056",
     member_no: "2170",
-    member_name: "นางสาวปวีนันท์  สารคามมงคล",
+    member_name: "นางสาวปวีนันท์ สารคามมงคล",
     member_money: "2000",
     member_sell: "10216.00",
     member_stock: "1033.02",
@@ -19582,7 +19582,7 @@
   {
     member_id: "2057",
     member_no: "2171",
-    member_name: "นางสาวอริศรา  เมืองแวง",
+    member_name: "นางสาวอริศรา เมืองแวง",
     member_money: "2000",
     member_sell: "1517.00",
     member_stock: "1033.02",
@@ -19592,7 +19592,7 @@
   {
     member_id: "2058",
     member_no: "2173",
-    member_name: "นายธีระพัฒน์  ทาบึงการ",
+    member_name: "นายธีระพัฒน์ ทาบึงการ",
     member_money: "2000",
     member_sell: "7825.00",
     member_stock: "1033.02",
@@ -19602,7 +19602,7 @@
   {
     member_id: "2059",
     member_no: "2174",
-    member_name: "นางวรรณพร  คตภูธร",
+    member_name: "นางวรรณพร คตภูธร",
     member_money: "2000",
     member_sell: "7548.00",
     member_stock: "1033.02",
@@ -19612,7 +19612,7 @@
   {
     member_id: "2060",
     member_no: "2175",
-    member_name: "นางสาวศิรินาถ  เหิรเมฆ",
+    member_name: "นางสาวศิรินาถ เหิรเมฆ",
     member_money: "2000",
     member_sell: "202.00",
     member_stock: "1033.02",
@@ -19622,7 +19622,7 @@
   {
     member_id: "2061",
     member_no: "2176",
-    member_name: "นายระวินทร์   โนนหนองคู",
+    member_name: "นายระวินทร์  โนนหนองคู",
     member_money: "2000",
     member_sell: "7199.00",
     member_stock: "1033.02",
@@ -19642,7 +19642,7 @@
   {
     member_id: "2063",
     member_no: "2178",
-    member_name: "นางสาวขวัญหทัย  ปังศรี",
+    member_name: "นางสาวขวัญหทัย ปังศรี",
     member_money: "2000",
     member_sell: "67.00",
     member_stock: "1033.02",
@@ -19652,7 +19652,7 @@
   {
     member_id: "2064",
     member_no: "2179",
-    member_name: "นางสาวสำรวม  ฤทธาพรม",
+    member_name: "นางสาวสำรวม ฤทธาพรม",
     member_money: "2000",
     member_sell: "8354.00",
     member_stock: "1033.02",
@@ -19662,7 +19662,7 @@
   {
     member_id: "2065",
     member_no: "2180",
-    member_name: "นางสาวกมลรัตน์  ตาลอลัน",
+    member_name: "นางสาวกมลรัตน์ ตาลอลัน",
     member_money: "2000",
     member_sell: "11138.00",
     member_stock: "1033.02",
@@ -19672,7 +19672,7 @@
   {
     member_id: "2066",
     member_no: "2181",
-    member_name: "นางมะลิษา  สกุลแก้ว",
+    member_name: "นางมะลิษา สกุลแก้ว",
     member_money: "2000",
     member_sell: "1087.00",
     member_stock: "1033.02",
@@ -19682,7 +19682,7 @@
   {
     member_id: "2067",
     member_no: "2182",
-    member_name: "นายอัจฉริยะ  บุญวิเศษ",
+    member_name: "นายอัจฉริยะ บุญวิเศษ",
     member_money: "2000",
     member_sell: "2161.00",
     member_stock: "1033.02",
@@ -19692,7 +19692,7 @@
   {
     member_id: "2068",
     member_no: "2183",
-    member_name: "นางสาวจิราภรณ์  ประมงุข",
+    member_name: "นางสาวจิราภรณ์ ประมงุข",
     member_money: "2000",
     member_sell: "7530.00",
     member_stock: "1033.02",
@@ -19712,7 +19712,7 @@
   {
     member_id: "2070",
     member_no: "2185",
-    member_name: "นางสาวนิภาพร  ปาประไพร",
+    member_name: "นางสาวนิภาพร ปาประไพร",
     member_money: "2000",
     member_sell: "1874.00",
     member_stock: "1033.02",
@@ -19722,7 +19722,7 @@
   {
     member_id: "2071",
     member_no: "2186",
-    member_name: "นางสาวพิริยากร  เกตุสวนจิก",
+    member_name: "นางสาวพิริยากร เกตุสวนจิก",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -19732,7 +19732,7 @@
   {
     member_id: "2072",
     member_no: "2187",
-    member_name: "นางสาวพิกุล  โสวฤทธิ์",
+    member_name: "นางสาวพิกุล โสวฤทธิ์",
     member_money: "2000",
     member_sell: "6321.00",
     member_stock: "1033.02",
@@ -19752,7 +19752,7 @@
   {
     member_id: "2074",
     member_no: "2189",
-    member_name: "นางสาวรัตยากร  พุ่มเปี่ยม",
+    member_name: "นางสาวรัตยากร พุ่มเปี่ยม",
     member_money: "2000",
     member_sell: "10100.00",
     member_stock: "1033.02",
@@ -19762,7 +19762,7 @@
   {
     member_id: "2075",
     member_no: "2190",
-    member_name: "นางสาวทัศนีย์  จันทรคัด",
+    member_name: "นางสาวทัศนีย์ จันทรคัด",
     member_money: "2000",
     member_sell: "2642.00",
     member_stock: "1033.02",
@@ -19772,7 +19772,7 @@
   {
     member_id: "2076",
     member_no: "2191",
-    member_name: "นางสาวทุมมาวดี  แก้วใสย",
+    member_name: "นางสาวทุมมาวดี แก้วใสย",
     member_money: "2000",
     member_sell: "201.00",
     member_stock: "1033.02",
@@ -19782,7 +19782,7 @@
   {
     member_id: "2077",
     member_no: "2192",
-    member_name: "นางอัจฉริยา  พลรัตน์",
+    member_name: "นางอัจฉริยา พลรัตน์",
     member_money: "2000",
     member_sell: "216.00",
     member_stock: "1033.02",
@@ -19802,7 +19802,7 @@
   {
     member_id: "2079",
     member_no: "2194",
-    member_name: "นางสาวนัฐพร  แสงดารา",
+    member_name: "นางสาวนัฐพร แสงดารา",
     member_money: "2000",
     member_sell: "5348.00",
     member_stock: "1033.02",
@@ -19812,7 +19812,7 @@
   {
     member_id: "2080",
     member_no: "2195",
-    member_name: "นางสาวชมพูนุช  นากลาง",
+    member_name: "นางสาวชมพูนุช นากลาง",
     member_money: "1000",
     member_sell: "5708.00",
     member_stock: "516.51",
@@ -19822,7 +19822,7 @@
   {
     member_id: "2081",
     member_no: "2196",
-    member_name: "นางสาวภิรมย์รัตน์  ลาน้ำคำ",
+    member_name: "นางสาวภิรมย์รัตน์ ลาน้ำคำ",
     member_money: "2000",
     member_sell: "7926.00",
     member_stock: "1033.02",
@@ -19852,7 +19852,7 @@
   {
     member_id: "2084",
     member_no: "2199",
-    member_name: "สิบเอกอภินันท์  หงส์ลอย",
+    member_name: "สิบเอกอภินันท์ หงส์ลอย",
     member_money: "2000",
     member_sell: "3882.00",
     member_stock: "1033.02",
@@ -19862,7 +19862,7 @@
   {
     member_id: "2085",
     member_no: "2200",
-    member_name: "นางสาวอินทิรา  คำเบ้าเมือง",
+    member_name: "นางสาวอินทิรา คำเบ้าเมือง",
     member_money: "2000",
     member_sell: "7548.00",
     member_stock: "1033.02",
@@ -19872,7 +19872,7 @@
   {
     member_id: "2086",
     member_no: "2202",
-    member_name: "นายณรงเดช  สาระโกด",
+    member_name: "นายณรงเดช สาระโกด",
     member_money: "2000",
     member_sell: "5041.00",
     member_stock: "1033.02",
@@ -19882,7 +19882,7 @@
   {
     member_id: "2087",
     member_no: "2203",
-    member_name: "นางสาววรกานต์  จักรแก้ว",
+    member_name: "นางสาววรกานต์ จักรแก้ว",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -19902,7 +19902,7 @@
   {
     member_id: "2089",
     member_no: "2205",
-    member_name: "นางสาวพัชรยาร์  วิชัย",
+    member_name: "นางสาวพัชรยาร์ วิชัย",
     member_money: "500",
     member_sell: "2343.00",
     member_stock: "258.26",
@@ -19912,7 +19912,7 @@
   {
     member_id: "2090",
     member_no: "2206",
-    member_name: "นางสาวสมฤดี  ขันติรัตน์",
+    member_name: "นางสาวสมฤดี ขันติรัตน์",
     member_money: "500",
     member_sell: "3262.00",
     member_stock: "258.26",
@@ -19922,7 +19922,7 @@
   {
     member_id: "2091",
     member_no: "2207",
-    member_name: "นางสาวสุทธิชา  กรึกกลาง",
+    member_name: "นางสาวสุทธิชา กรึกกลาง",
     member_money: "500",
     member_sell: "785.00",
     member_stock: "258.26",
@@ -19932,7 +19932,7 @@
   {
     member_id: "2092",
     member_no: "2208",
-    member_name: "นายอนุพงศ์  โพธิใต้",
+    member_name: "นายอนุพงศ์ โพธิใต้",
     member_money: "2000",
     member_sell: "31136.00",
     member_stock: "1033.02",
@@ -19942,7 +19942,7 @@
   {
     member_id: "2093",
     member_no: "2211",
-    member_name: "นายบัญชา  จันทาวงษ์",
+    member_name: "นายบัญชา จันทาวงษ์",
     member_money: "2000",
     member_sell: "13413.00",
     member_stock: "1033.02",
@@ -19972,7 +19972,7 @@
   {
     member_id: "2096",
     member_no: "2214",
-    member_name: "นางนันธิยา  ไทยเจริญ",
+    member_name: "นางนันธิยา ไทยเจริญ",
     member_money: "2000",
     member_sell: "40.00",
     member_stock: "1033.02",
@@ -19982,7 +19982,7 @@
   {
     member_id: "2097",
     member_no: "2215",
-    member_name: "นางสาวสุพัตรา  เพียรชนะ",
+    member_name: "นางสาวสุพัตรา เพียรชนะ",
     member_money: "2000",
     member_sell: "2626.00",
     member_stock: "1033.02",
@@ -19992,7 +19992,7 @@
   {
     member_id: "2099",
     member_no: "2217",
-    member_name: "นายอนิรุตณ์  ขาวศรี",
+    member_name: "นายอนิรุตณ์ ขาวศรี",
     member_money: "2000",
     member_sell: "3645.00",
     member_stock: "1033.02",
@@ -20002,7 +20002,7 @@
   {
     member_id: "2100",
     member_no: "2218",
-    member_name: "นายวัชระ  ชิณมาตย์",
+    member_name: "นายวัชระ ชิณมาตย์",
     member_money: "2000",
     member_sell: "9303.00",
     member_stock: "1033.02",
@@ -20012,7 +20012,7 @@
   {
     member_id: "2101",
     member_no: "2219",
-    member_name: "นางพรพิมล  รัตนเพชร",
+    member_name: "นางพรพิมล รัตนเพชร",
     member_money: "500",
     member_sell: "2358.00",
     member_stock: "258.26",
@@ -20022,7 +20022,7 @@
   {
     member_id: "2102",
     member_no: "2220",
-    member_name: "นายสนิท  วิชพล",
+    member_name: "นายสนิท วิชพล",
     member_money: "2000",
     member_sell: "59383.00",
     member_stock: "1033.02",
@@ -20032,7 +20032,7 @@
   {
     member_id: "2103",
     member_no: "2221",
-    member_name: "นางสาวรุจิรา   ใจลาด",
+    member_name: "นางสาวรุจิรา  ใจลาด",
     member_money: "2000",
     member_sell: "5689.00",
     member_stock: "1033.02",
@@ -20042,7 +20042,7 @@
   {
     member_id: "2104",
     member_no: "2222",
-    member_name: "นางนวลจันทร์  สมสวาท",
+    member_name: "นางนวลจันทร์ สมสวาท",
     member_money: "2000",
     member_sell: "0.00",
     member_stock: "1033.02",
@@ -20052,7 +20052,7 @@
   {
     member_id: "2105",
     member_no: "2223",
-    member_name: "นางสาวเพชรรัตน์  ศิริเพชร",
+    member_name: "นางสาวเพชรรัตน์ ศิริเพชร",
     member_money: "2000",
     member_sell: "10793.00",
     member_stock: "1033.02",
@@ -20062,7 +20062,7 @@
   {
     member_id: "2106",
     member_no: "2224",
-    member_name: "นางสายฝน  ราศีกุล",
+    member_name: "นางสายฝน ราศีกุล",
     member_money: "2000",
     member_sell: "14315.00",
     member_stock: "1033.02",
@@ -20072,7 +20072,7 @@
   {
     member_id: "2107",
     member_no: "2225",
-    member_name: "นางสาวสุรัญญา  พุกพิลา",
+    member_name: "นางสาวสุรัญญา พุกพิลา",
     member_money: "2000",
     member_sell: "11735.00",
     member_stock: "1033.02",
@@ -20082,7 +20082,7 @@
   {
     member_id: "2108",
     member_no: "2226",
-    member_name: "นางหทัยกาญจน์  บุพสิงห์",
+    member_name: "นางหทัยกาญจน์ บุพสิงห์",
     member_money: "2000",
     member_sell: "14752.00",
     member_stock: "1033.02",
@@ -20092,7 +20092,7 @@
   {
     member_id: "2109",
     member_no: "2227",
-    member_name: "นางสาวอรอนงค์  ทวยจันทร์",
+    member_name: "นางสาวอรอนงค์ ทวยจันทร์",
     member_money: "2000",
     member_sell: "6004.00",
     member_stock: "1033.02",
@@ -20102,7 +20102,7 @@
   {
     member_id: "2110",
     member_no: "2228",
-    member_name: "นางสาวนิมลรัตน์  เผ่าพงษ์ไพบูลย์",
+    member_name: "นางสาวนิมลรัตน์ เผ่าพงษ์ไพบูลย์",
     member_money: "2000",
     member_sell: "58.00",
     member_stock: "1033.02",
@@ -20112,7 +20112,7 @@
   {
     member_id: "2111",
     member_no: "2229",
-    member_name: "นายสหัชเดช  ตั้งอิสรภาพ",
+    member_name: "นายสหัชเดช ตั้งอิสรภาพ",
     member_money: "2000",
     member_sell: "2191.00",
     member_stock: "1033.02",
@@ -20122,7 +20122,7 @@
   {
     member_id: "2112",
     member_no: "2230",
-    member_name: "นางสาวณัฐพร  โสภาพล",
+    member_name: "นางสาวณัฐพร โสภาพล",
     member_money: "2000",
     member_sell: "1952.00",
     member_stock: "1033.02",
@@ -20132,7 +20132,7 @@
   {
     member_id: "2113",
     member_no: "2231",
-    member_name: "นางสาวลลิตา  นามชารี",
+    member_name: "นางสาวลลิตา นามชารี",
     member_money: "500",
     member_sell: "9198.00",
     member_stock: "258.26",
@@ -20142,7 +20142,7 @@
   {
     member_id: "2114",
     member_no: "2232",
-    member_name: "นางสาวเพ็ญนภา  กันตพานิชการ",
+    member_name: "นางสาวเพ็ญนภา กันตพานิชการ",
     member_money: "2000",
     member_sell: "10466.00",
     member_stock: "1033.02",
@@ -20152,7 +20152,7 @@
   {
     member_id: "2115",
     member_no: "2233",
-    member_name: "นางสาวอรุณรัตน์  เอ็นคะวัน",
+    member_name: "นางสาวอรุณรัตน์ เอ็นคะวัน",
     member_money: "2000",
     member_sell: "8409.00",
     member_stock: "1033.02",
@@ -20162,7 +20162,7 @@
   {
     member_id: "2116",
     member_no: "2234",
-    member_name: "นางสาวสุชยา  จันทร์คูนอก",
+    member_name: "นางสาวสุชยา จันทร์คูนอก",
     member_money: "2000",
     member_sell: "10006.00",
     member_stock: "1033.02",
@@ -20172,7 +20172,7 @@
   {
     member_id: "2117",
     member_no: "2235",
-    member_name: "นางสาวนัทริญา  บรรณาลัย",
+    member_name: "นางสาวนัทริญา บรรณาลัย",
     member_money: "1000",
     member_sell: "6086.00",
     member_stock: "516.51",
@@ -20192,7 +20192,7 @@
   {
     member_id: "2119",
     member_no: "2237",
-    member_name: "นางสาวพวงผกา  บุญภิละ",
+    member_name: "นางสาวพวงผกา บุญภิละ",
     member_money: "500",
     member_sell: "6671.00",
     member_stock: "258.26",
@@ -20202,7 +20202,7 @@
   {
     member_id: "2120",
     member_no: "2238",
-    member_name: "นางสาวพรธิดา  แสนสวนจิตร",
+    member_name: "นางสาวพรธิดา แสนสวนจิตร",
     member_money: "500",
     member_sell: "10895.00",
     member_stock: "258.26",
@@ -20212,7 +20212,7 @@
   {
     member_id: "2121",
     member_no: "2239",
-    member_name: "นางสาวนิศานารถ  พิมพ์พันธุ์",
+    member_name: "นางสาวนิศานารถ พิมพ์พันธุ์",
     member_money: "2000",
     member_sell: "345.00",
     member_stock: "1033.02",
@@ -20222,7 +20222,7 @@
   {
     member_id: "2122",
     member_no: "2240",
-    member_name: "นางสาวบุษาบรรณ   ผลนันท์",
+    member_name: "นางสาวบุษาบรรณ  ผลนันท์",
     member_money: "2000",
     member_sell: "44873.00",
     member_stock: "1033.02",
@@ -20252,7 +20252,7 @@
   {
     member_id: "2126",
     member_no: "2244",
-    member_name: "นางสาวศศิธร   อิศรานุวัฒน์",
+    member_name: "นางสาวศศิธร  อิศรานุวัฒน์",
     member_money: "2000",
     member_sell: "7033.00",
     member_stock: "1033.02",
@@ -20272,7 +20272,7 @@
   {
     member_id: "2128",
     member_no: "2246",
-    member_name: "นางสาววนิดา  ทิพกันยา",
+    member_name: "นางสาววนิดา ทิพกันยา",
     member_money: "2000",
     member_sell: "13297.00",
     member_stock: "1033.02",
@@ -20282,7 +20282,7 @@
   {
     member_id: "2129",
     member_no: "2247",
-    member_name: "นางจันทร์ฉาย  โพดาพล",
+    member_name: "นางจันทร์ฉาย โพดาพล",
     member_money: "2000",
     member_sell: "13390.00",
     member_stock: "1033.02",
@@ -20292,7 +20292,7 @@
   {
     member_id: "2130",
     member_no: "2248",
-    member_name: "นางสาวกัลยาลักษณ์  วังชะนา",
+    member_name: "นางสาวกัลยาลักษณ์ วังชะนา",
     member_money: "2000",
     member_sell: "13835.00",
     member_stock: "1033.02",
@@ -20302,7 +20302,7 @@
   {
     member_id: "2131",
     member_no: "2249",
-    member_name: "นางสาวดำรงลักษณ์  ป้องเขตต์",
+    member_name: "นางสาวดำรงลักษณ์ ป้องเขตต์",
     member_money: "2000",
     member_sell: "903.00",
     member_stock: "1033.02",
@@ -20312,7 +20312,7 @@
   {
     member_id: "2132",
     member_no: "2250",
-    member_name: "นางสาวจิราวรรณ  ผดุงเวียง",
+    member_name: "นางสาวจิราวรรณ ผดุงเวียง",
     member_money: "1300",
     member_sell: "12852.00",
     member_stock: "671.46",
@@ -20322,7 +20322,7 @@
   {
     member_id: "2133",
     member_no: "2251",
-    member_name: "นางสาวกัลยาณี  กลยณี",
+    member_name: "นางสาวกัลยาณี กลยณี",
     member_money: "1000",
     member_sell: "8209.00",
     member_stock: "516.51",
@@ -20332,7 +20332,7 @@
   {
     member_id: "2134",
     member_no: "2252",
-    member_name: "นางสาวลลิดา  กัญญาวุธ",
+    member_name: "นางสาวลลิดา กัญญาวุธ",
     member_money: "2000",
     member_sell: "9261.00",
     member_stock: "1033.02",
@@ -20342,7 +20342,7 @@
   {
     member_id: "2135",
     member_no: "2253",
-    member_name: "นางสาวศภัสรา  แสนคาร",
+    member_name: "นางสาวศภัสรา แสนคาร",
     member_money: "2000",
     member_sell: "3373.00",
     member_stock: "1033.02",
@@ -20352,7 +20352,7 @@
   {
     member_id: "2136",
     member_no: "2254",
-    member_name: "นางสาวอรดี  โพธิ์ศรี",
+    member_name: "นางสาวอรดี โพธิ์ศรี",
     member_money: "2000",
     member_sell: "3005.00",
     member_stock: "1033.02",
@@ -20362,7 +20362,7 @@
   {
     member_id: "2137",
     member_no: "2255",
-    member_name: "นางสาวกนกวรรณ  ทิพย์มณี",
+    member_name: "นางสาวกนกวรรณ ทิพย์มณี",
     member_money: "2000",
     member_sell: "32506.00",
     member_stock: "1033.02",
@@ -20382,7 +20382,7 @@
   {
     member_id: "2139",
     member_no: "2257",
-    member_name: "นายศิลวัต   คูนชัยนนท์",
+    member_name: "นายศิลวัต  คูนชัยนนท์",
     member_money: "2000",
     member_sell: "12595.00",
     member_stock: "1033.02",
@@ -20392,7 +20392,7 @@
   {
     member_id: "2140",
     member_no: "2259",
-    member_name: "นางศิวาพร  นิ่มนวลวัฒนา",
+    member_name: "นางศิวาพร นิ่มนวลวัฒนา",
     member_money: "2000",
     member_sell: "3107.00",
     member_stock: "1033.02",
@@ -20402,7 +20402,7 @@
   {
     member_id: "2141",
     member_no: "2260",
-    member_name: "นางสาวบัวผัน  วินทะไชย",
+    member_name: "นางสาวบัวผัน วินทะไชย",
     member_money: "500",
     member_sell: "12984.00",
     member_stock: "258.26",
@@ -20412,7 +20412,7 @@
   {
     member_id: "2142",
     member_no: "2261",
-    member_name: "นางสาวโสภา  กุนันท์",
+    member_name: "นางสาวโสภา กุนันท์",
     member_money: "1000",
     member_sell: "7052.00",
     member_stock: "516.51",
@@ -20432,7 +20432,7 @@
   {
     member_id: "2144",
     member_no: "2263",
-    member_name: "นางสาวสุพัฒตรา  คุ้มกุดขมิ้น",
+    member_name: "นางสาวสุพัฒตรา คุ้มกุดขมิ้น",
     member_money: "2000",
     member_sell: "6354.00",
     member_stock: "1033.02",
@@ -20442,7 +20442,7 @@
   {
     member_id: "2145",
     member_no: "2264",
-    member_name: "นางเพลินพิศ  ธีระวิชชากูร",
+    member_name: "นางเพลินพิศ ธีระวิชชากูร",
     member_money: "2000",
     member_sell: "15743.00",
     member_stock: "1033.02",
@@ -20462,7 +20462,7 @@
   {
     member_id: "2147",
     member_no: "2266",
-    member_name: "นางสีสุวัน  ไชยะเดด",
+    member_name: "นางสีสุวัน ไชยะเดด",
     member_money: "2000",
     member_sell: "15671.00",
     member_stock: "1033.02",
@@ -20472,7 +20472,7 @@
   {
     member_id: "2148",
     member_no: "2267",
-    member_name: "นางสาวศิริพันธ์  มูลมณี",
+    member_name: "นางสาวศิริพันธ์ มูลมณี",
     member_money: "2000",
     member_sell: "794.00",
     member_stock: "1033.02",
@@ -20502,7 +20502,7 @@
   {
     member_id: "2151",
     member_no: "2270",
-    member_name: "นางสาวนันท์นภัส  อัฐรัตน์",
+    member_name: "นางสาวนันท์นภัส อัฐรัตน์",
     member_money: "2000",
     member_sell: "5538.00",
     member_stock: "1033.02",
@@ -20512,7 +20512,7 @@
   {
     member_id: "2152",
     member_no: "2271",
-    member_name: "นางสาววริศรา  กลั่นความดี",
+    member_name: "นางสาววริศรา กลั่นความดี",
     member_money: "2000",
     member_sell: "3658.00",
     member_stock: "1033.02",
@@ -20522,7 +20522,7 @@
   {
     member_id: "2153",
     member_no: "2272",
-    member_name: "นายสมบัติ  จันทะดวง",
+    member_name: "นายสมบัติ จันทะดวง",
     member_money: "2000",
     member_sell: "361.00",
     member_stock: "1033.02",
@@ -20532,7 +20532,7 @@
   {
     member_id: "2154",
     member_no: "2273",
-    member_name: "นางสาวอาภาภรณ์  สดมพฤกษ์",
+    member_name: "นางสาวอาภาภรณ์ สดมพฤกษ์",
     member_money: "2000",
     member_sell: "3456.00",
     member_stock: "1033.02",
@@ -20552,7 +20552,7 @@
   {
     member_id: "2156",
     member_no: "2275",
-    member_name: "นายภีรพันธ์  แน่นอุดร",
+    member_name: "นายภีรพันธ์ แน่นอุดร",
     member_money: "2000",
     member_sell: "12092.00",
     member_stock: "1033.02",
@@ -20562,7 +20562,7 @@
   {
     member_id: "2157",
     member_no: "2276",
-    member_name: "นางสาวพนิดา  อัครกุลประเสริฐ",
+    member_name: "นางสาวพนิดา อัครกุลประเสริฐ",
     member_money: "1500",
     member_sell: "7350.00",
     member_stock: "774.77",
@@ -20572,7 +20572,7 @@
   {
     member_id: "2158",
     member_no: "2277",
-    member_name: "นางสาวพิชยะธิดา  นาเมือง",
+    member_name: "นางสาวพิชยะธิดา นาเมือง",
     member_money: "500",
     member_sell: "18432.00",
     member_stock: "258.26",
@@ -20582,7 +20582,7 @@
   {
     member_id: "2159",
     member_no: "2278",
-    member_name: "นางมรกต  วิวัฒน์ถาวรวงศ์",
+    member_name: "นางมรกต วิวัฒน์ถาวรวงศ์",
     member_money: "1000",
     member_sell: "40.00",
     member_stock: "516.51",
@@ -20592,7 +20592,7 @@
   {
     member_id: "2160",
     member_no: "2279",
-    member_name: "นางสาวจิราวรรณ  พิมพ์เศษ",
+    member_name: "นางสาวจิราวรรณ พิมพ์เศษ",
     member_money: "500",
     member_sell: "0.00",
     member_stock: "258.26",
@@ -20602,7 +20602,7 @@
   {
     member_id: "2161",
     member_no: "2280",
-    member_name: "นางสาวขนิษฐา  ยุบลพาส",
+    member_name: "นางสาวขนิษฐา ยุบลพาส",
     member_money: "2000",
     member_sell: "5725.00",
     member_stock: "1033.02",
@@ -20612,7 +20612,7 @@
   {
     member_id: "2162",
     member_no: "2281",
-    member_name: "นางสาวอังคณา  อัตตะโน",
+    member_name: "นางสาวอังคณา อัตตะโน",
     member_money: "1000",
     member_sell: "8105.00",
     member_stock: "516.51",
@@ -20622,7 +20622,7 @@
   {
     member_id: "2163",
     member_no: "2283",
-    member_name: "นางสาวปรียานันท์  สีเบ้า",
+    member_name: "นางสาวปรียานันท์ สีเบ้า",
     member_money: "1300",
     member_sell: "0.00",
     member_stock: "671.46",
@@ -20632,7 +20632,7 @@
   {
     member_id: "2164",
     member_no: "2284",
-    member_name: "นายโชคชัยโรจน์  เมาะราษี",
+    member_name: "นายโชคชัยโรจน์ เมาะราษี",
     member_money: "2000",
     member_sell: "5751.00",
     member_stock: "1033.02",
@@ -20652,7 +20652,7 @@
   {
     member_id: "2167",
     member_no: "2287",
-    member_name: "นางสาวขนิษฐา  เพชรโคตร",
+    member_name: "นางสาวขนิษฐา เพชรโคตร",
     member_money: "2000",
     member_sell: "1304.00",
     member_stock: "1033.02",
@@ -20662,7 +20662,7 @@
   {
     member_id: "2168",
     member_no: "2288",
-    member_name: "นายธนรรจน์  ปวรางกูล",
+    member_name: "นายธนรรจน์ ปวรางกูล",
     member_money: "2000",
     member_sell: "11122.00",
     member_stock: "1033.02",
@@ -20672,7 +20672,7 @@
   {
     member_id: "2169",
     member_no: "2289",
-    member_name: "นางสาวเพ็ญนภา  แวงวรรณ",
+    member_name: "นางสาวเพ็ญนภา แวงวรรณ",
     member_money: "500",
     member_sell: "6233.00",
     member_stock: "258.26",
@@ -20682,7 +20682,7 @@
   {
     member_id: "2170",
     member_no: "2290",
-    member_name: "นางจุฬาภรณ์  วารินทร์",
+    member_name: "นางจุฬาภรณ์ วารินทร์",
     member_money: "500",
     member_sell: "8018.00",
     member_stock: "258.26",
@@ -20692,7 +20692,7 @@
   {
     member_id: "2171",
     member_no: "2291",
-    member_name: "นางสาวชลธิชา  ไชยโภค",
+    member_name: "นางสาวชลธิชา ไชยโภค",
     member_money: "2000",
     member_sell: "7213.00",
     member_stock: "1033.02",
@@ -20702,7 +20702,7 @@
   {
     member_id: "2172",
     member_no: "2292",
-    member_name: "นางสาวปาลินี  ปวงสุข",
+    member_name: "นางสาวปาลินี ปวงสุข",
     member_money: "2000",
     member_sell: "13332.00",
     member_stock: "1033.02",
@@ -20712,7 +20712,7 @@
   {
     member_id: "2173",
     member_no: "2293",
-    member_name: "นางสาวศิรินภา  อ่อนอัฐ",
+    member_name: "นางสาวศิรินภา อ่อนอัฐ",
     member_money: "2000",
     member_sell: "6006.00",
     member_stock: "1033.02",
@@ -20722,7 +20722,7 @@
   {
     member_id: "2174",
     member_no: "2294",
-    member_name: "นายอนรรมวรรธน์    รัตนอนุชาติกมล",
+    member_name: "นายอนรรมวรรธน์  รัตนอนุชาติกมล",
     member_money: "1000",
     member_sell: "32150.00",
     member_stock: "516.51",
@@ -20732,7 +20732,7 @@
   {
     member_id: "2175",
     member_no: "2295",
-    member_name: "นางสาวพิสมัย  ตีตรา",
+    member_name: "นางสาวพิสมัย ตีตรา",
     member_money: "1000",
     member_sell: "2549.00",
     member_stock: "516.51",
@@ -20742,7 +20742,7 @@
   {
     member_id: "2176",
     member_no: "2296",
-    member_name: "นางสาวธิดารัตน์  มงคลมะไฟ",
+    member_name: "นางสาวธิดารัตน์ มงคลมะไฟ",
     member_money: "2000",
     member_sell: "6095.00",
     member_stock: "1033.02",
@@ -20752,7 +20752,7 @@
   {
     member_id: "2177",
     member_no: "2297",
-    member_name: "นายวุฒิไกร  แก้วขอนแก่น",
+    member_name: "นายวุฒิไกร แก้วขอนแก่น",
     member_money: "2000",
     member_sell: "60.00",
     member_stock: "1033.02",
@@ -20762,7 +20762,7 @@
   {
     member_id: "2178",
     member_no: "2298",
-    member_name: "นายชลนที  ประตาทะโย",
+    member_name: "นายชลนที ประตาทะโย",
     member_money: "2000",
     member_sell: "484.00",
     member_stock: "1033.02",
@@ -20792,7 +20792,7 @@
   {
     member_id: "2181",
     member_no: "2301",
-    member_name: "นางสาวมัทนา  รักษ์สงคะเนย์",
+    member_name: "นางสาวมัทนา รักษ์สงคะเนย์",
     member_money: "2000",
     member_sell: "4606.00",
     member_stock: "1033.02",
@@ -20802,7 +20802,7 @@
   {
     member_id: "2182",
     member_no: "2302",
-    member_name: "นางสาวขวัญจิรา  ซองเหล็กนอก",
+    member_name: "นางสาวขวัญจิรา ซองเหล็กนอก",
     member_money: "2000",
     member_sell: "4762.00",
     member_stock: "1033.02",
@@ -20812,7 +20812,7 @@
   {
     member_id: "2183",
     member_no: "2303",
-    member_name: "นางสาวจิตรา  ราชภักดี",
+    member_name: "นางสาวจิตรา ราชภักดี",
     member_money: "1000",
     member_sell: "14895.00",
     member_stock: "516.51",
@@ -20822,7 +20822,7 @@
   {
     member_id: "2184",
     member_no: "2304",
-    member_name: "นางสาวกฤติยา  วันนาท่อ",
+    member_name: "นางสาวกฤติยา วันนาท่อ",
     member_money: "2000",
     member_sell: "4963.00",
     member_stock: "1033.02",
@@ -20832,7 +20832,7 @@
   {
     member_id: "2185",
     member_no: "2305",
-    member_name: "นายจิรายุทธ  หนองทุม",
+    member_name: "นายจิรายุทธ หนองทุม",
     member_money: "500",
     member_sell: "467.00",
     member_stock: "258.26",
@@ -20842,7 +20842,7 @@
   {
     member_id: "2186",
     member_no: "2306",
-    member_name: "นางสาวจันทร์จิรา  สุ่มมาตย์",
+    member_name: "นางสาวจันทร์จิรา สุ่มมาตย์",
     member_money: "500",
     member_sell: "245.00",
     member_stock: "258.26",
@@ -20882,7 +20882,7 @@
   {
     member_id: "2190",
     member_no: "2310",
-    member_name: "นางสาวจรุ้งทิพย์  พรหมเกตุ",
+    member_name: "นางสาวจรุ้งทิพย์ พรหมเกตุ",
     member_money: "2000",
     member_sell: "7255.00",
     member_stock: "1033.02",
@@ -20892,7 +20892,7 @@
   {
     member_id: "2191",
     member_no: "2311",
-    member_name: "นายอนุรักษ์  จตุรวงศ์",
+    member_name: "นายอนุรักษ์ จตุรวงศ์",
     member_money: "2000",
     member_sell: "5778.00",
     member_stock: "1033.02",
@@ -20902,7 +20902,7 @@
   {
     member_id: "2192",
     member_no: "2312",
-    member_name: "นางสาววัชรินทร์  วินทะไชย",
+    member_name: "นางสาววัชรินทร์ วินทะไชย",
     member_money: "500",
     member_sell: "1198.00",
     member_stock: "258.26",
@@ -20912,7 +20912,7 @@
   {
     member_id: "2193",
     member_no: "2313",
-    member_name: "นางดวงดาว  ขันทองคำ",
+    member_name: "นางดวงดาว ขันทองคำ",
     member_money: "500",
     member_sell: "1065.00",
     member_stock: "258.26",
@@ -20922,7 +20922,7 @@
   {
     member_id: "2194",
     member_no: "2314",
-    member_name: "นางนันทรีย์  บ้งพรม",
+    member_name: "นางนันทรีย์ บ้งพรม",
     member_money: "500",
     member_sell: "265.00",
     member_stock: "258.26",
@@ -20932,7 +20932,7 @@
   {
     member_id: "2195",
     member_no: "2315",
-    member_name: "นางสุวนันท์  หารประชุม",
+    member_name: "นางสุวนันท์ หารประชุม",
     member_money: "1000",
     member_sell: "4653.00",
     member_stock: "516.51",
@@ -20942,7 +20942,7 @@
   {
     member_id: "2196",
     member_no: "2316",
-    member_name: "นางสาวสมัย  สันนท์",
+    member_name: "นางสาวสมัย สันนท์",
     member_money: "1000",
     member_sell: "5401.00",
     member_stock: "516.51",
@@ -20952,7 +20952,7 @@
   {
     member_id: "2197",
     member_no: "2317",
-    member_name: "นางสาวขวัญจิรา  สมอาษา",
+    member_name: "นางสาวขวัญจิรา สมอาษา",
     member_money: "2000",
     member_sell: "6595.00",
     member_stock: "1033.02",
@@ -20962,7 +20962,7 @@
   {
     member_id: "2198",
     member_no: "2318",
-    member_name: "นางสาวรัชนก  เวินชุม",
+    member_name: "นางสาวรัชนก เวินชุม",
     member_money: "2000",
     member_sell: "533.00",
     member_stock: "1033.02",
@@ -20972,7 +20972,7 @@
   {
     member_id: "2199",
     member_no: "2319",
-    member_name: "นางสาวสำลี  ศรีโวหะ",
+    member_name: "นางสาวสำลี ศรีโวหะ",
     member_money: "1000",
     member_sell: "11643.00",
     member_stock: "516.51",
@@ -20982,7 +20982,7 @@
   {
     member_id: "2200",
     member_no: "2320",
-    member_name: "นางสาวดวงมณี  ไสยสิทธิ์",
+    member_name: "นางสาวดวงมณี ไสยสิทธิ์",
     member_money: "500",
     member_sell: "8134.00",
     member_stock: "258.26",
@@ -20992,7 +20992,7 @@
   {
     member_id: "2201",
     member_no: "2321",
-    member_name: "นางสาววิภาภรณ์  ปะกิจะณา",
+    member_name: "นางสาววิภาภรณ์ ปะกิจะณา",
     member_money: "500",
     member_sell: "13696.00",
     member_stock: "258.26",
@@ -21012,7 +21012,7 @@
   {
     member_id: "2203",
     member_no: "2323",
-    member_name: "นางสาวจิราพัชร  สุ่มมาตย์",
+    member_name: "นางสาวจิราพัชร สุ่มมาตย์",
     member_money: "1000",
     member_sell: "4750.00",
     member_stock: "516.51",
@@ -21042,7 +21042,7 @@
   {
     member_id: "2206",
     member_no: "2326",
-    member_name: "นางกฤติยา  ผ่องกมล",
+    member_name: "นางกฤติยา ผ่องกมล",
     member_money: "2000",
     member_sell: "936.00",
     member_stock: "1033.02",
@@ -21052,7 +21052,7 @@
   {
     member_id: "2207",
     member_no: "2327",
-    member_name: "นางสาวพัณรพี  ทวีพัฒน์",
+    member_name: "นางสาวพัณรพี ทวีพัฒน์",
     member_money: "2000",
     member_sell: "7046.00",
     member_stock: "1033.02",
@@ -21062,7 +21062,7 @@
   {
     member_id: "2208",
     member_no: "2328",
-    member_name: "นางสาวรัตติยาภรณ์  พลรัตน์",
+    member_name: "นางสาวรัตติยาภรณ์ พลรัตน์",
     member_money: "500",
     member_sell: "14077.00",
     member_stock: "258.26",
@@ -21072,7 +21072,7 @@
   {
     member_id: "2209",
     member_no: "2329",
-    member_name: "นางสาวศิวาพร  วินทะไชย",
+    member_name: "นางสาวศิวาพร วินทะไชย",
     member_money: "1000",
     member_sell: "4615.00",
     member_stock: "516.51",
@@ -21082,7 +21082,7 @@
   {
     member_id: "2210",
     member_no: "2330",
-    member_name: "นางพิมญดา  โชติวิรวัฒน์",
+    member_name: "นางพิมญดา โชติวิรวัฒน์",
     member_money: "2000",
     member_sell: "109.00",
     member_stock: "1033.02",
@@ -21102,7 +21102,7 @@
   {
     member_id: "2212",
     member_no: "2333",
-    member_name: "นางนิภาพร  ศรีษะเกษ",
+    member_name: "นางนิภาพร ศรีษะเกษ",
     member_money: "500",
     member_sell: "16315.00",
     member_stock: "258.26",
@@ -21112,7 +21112,7 @@
   {
     member_id: "2213",
     member_no: "2334",
-    member_name: "นางสาวสุทธิดา  โพธิ์ทอง",
+    member_name: "นางสาวสุทธิดา โพธิ์ทอง",
     member_money: "1000",
     member_sell: "5955.00",
     member_stock: "516.51",
@@ -21122,7 +21122,7 @@
   {
     member_id: "2214",
     member_no: "2335",
-    member_name: "นางสาวยศพร  นนนุศาสตร์",
+    member_name: "นางสาวยศพร นนนุศาสตร์",
     member_money: "500",
     member_sell: "6290.00",
     member_stock: "258.26",
@@ -21132,7 +21132,7 @@
   {
     member_id: "2215",
     member_no: "2336",
-    member_name: "นางสาววิภาวรรณ  แฝงยงค์",
+    member_name: "นางสาววิภาวรรณ แฝงยงค์",
     member_money: "2000",
     member_sell: "1367.00",
     member_stock: "1033.02",
@@ -21152,7 +21152,7 @@
   {
     member_id: "2217",
     member_no: "2338",
-    member_name: "นางสาวจิราวรรณ  จรนนท์",
+    member_name: "นางสาวจิราวรรณ จรนนท์",
     member_money: "1000",
     member_sell: "8569.00",
     member_stock: "516.51",
@@ -21172,7 +21172,7 @@
   {
     member_id: "2219",
     member_no: "2340",
-    member_name: "นางสาวสงกรานต์  ฮามพิทักษ์",
+    member_name: "นางสาวสงกรานต์ ฮามพิทักษ์",
     member_money: "2000",
     member_sell: "8587.00",
     member_stock: "1033.02",
@@ -21192,7 +21192,7 @@
   {
     member_id: "2222",
     member_no: "2343",
-    member_name: "นางสาวจันจิรา  นามราช",
+    member_name: "นางสาวจันจิรา นามราช",
     member_money: "2000",
     member_sell: "6169.00",
     member_stock: "1033.02",
@@ -21212,7 +21212,7 @@
   {
     member_id: "2224",
     member_no: "2345",
-    member_name: "นางสาวจิราพร  อินอุ่นโชติ",
+    member_name: "นางสาวจิราพร อินอุ่นโชติ",
     member_money: "2000",
     member_sell: "4079.00",
     member_stock: "1033.02",
@@ -21222,7 +21222,7 @@
   {
     member_id: "2225",
     member_no: "2346",
-    member_name: "นางสุภาพร  พวงเพ็ชร",
+    member_name: "นางสุภาพร พวงเพ็ชร",
     member_money: "2000",
     member_sell: "1744.00",
     member_stock: "1033.02",
@@ -21242,7 +21242,7 @@
   {
     member_id: "2227",
     member_no: "2348",
-    member_name: "นายกฤษวัชร  ทองสุก",
+    member_name: "นายกฤษวัชร ทองสุก",
     member_money: "2000",
     member_sell: "3225.00",
     member_stock: "1033.02",
@@ -21252,7 +21252,7 @@
   {
     member_id: "2228",
     member_no: "2349",
-    member_name: "นางสาวจรีรัตน์  ทะวโร",
+    member_name: "นางสาวจรีรัตน์ ทะวโร",
     member_money: "500",
     member_sell: "3528.00",
     member_stock: "258.26",
@@ -21272,7 +21272,7 @@
   {
     member_id: "2230",
     member_no: "2351",
-    member_name: "นายจักรพงษ์  สามารถ",
+    member_name: "นายจักรพงษ์ สามารถ",
     member_money: "1500",
     member_sell: "6108.00",
     member_stock: "774.77",
@@ -21282,7 +21282,7 @@
   {
     member_id: "2231",
     member_no: "2352",
-    member_name: "นางสาวเนตรชนก  สันตะลับ",
+    member_name: "นางสาวเนตรชนก สันตะลับ",
     member_money: "500",
     member_sell: "2575.00",
     member_stock: "258.26",
@@ -21292,7 +21292,7 @@
   {
     member_id: "2232",
     member_no: "2354",
-    member_name: "นายรัก  ขจรภพ",
+    member_name: "นายรัก ขจรภพ",
     member_money: "2000",
     member_sell: "3032.00",
     member_stock: "1033.02",
@@ -21302,7 +21302,7 @@
   {
     member_id: "2233",
     member_no: "2355",
-    member_name: "นายพหัสชัย  จันทร์เหลือง",
+    member_name: "นายพหัสชัย จันทร์เหลือง",
     member_money: "2000",
     member_sell: "2445.00",
     member_stock: "1033.02",
@@ -21312,7 +21312,7 @@
   {
     member_id: "2234",
     member_no: "2356",
-    member_name: "นายเอกราช  สังฆะมณี",
+    member_name: "นายเอกราช สังฆะมณี",
     member_money: "2000",
     member_sell: "117.00",
     member_stock: "1033.02",
@@ -21322,7 +21322,7 @@
   {
     member_id: "2235",
     member_no: "2357",
-    member_name: "นางสาวจันทร์เพ็ญ  พัฒนสาร",
+    member_name: "นางสาวจันทร์เพ็ญ พัฒนสาร",
     member_money: "2000",
     member_sell: "5343.00",
     member_stock: "1033.02",
@@ -21332,7 +21332,7 @@
   {
     member_id: "2236",
     member_no: "2358",
-    member_name: "นายวิโรจน์  สุดทะโส",
+    member_name: "นายวิโรจน์ สุดทะโส",
     member_money: "1000",
     member_sell: "30651.00",
     member_stock: "516.51",
@@ -21342,7 +21342,7 @@
   {
     member_id: "2237",
     member_no: "2359",
-    member_name: "นายอนุวัฒน์  จตุเทน",
+    member_name: "นายอนุวัฒน์ จตุเทน",
     member_money: "1000",
     member_sell: "10.00",
     member_stock: "516.51",
@@ -21372,7 +21372,7 @@
   {
     member_id: "2240",
     member_no: "2362",
-    member_name: "นายพงษ์ดนัย  นามไพร",
+    member_name: "นายพงษ์ดนัย นามไพร",
     member_money: "1000",
     member_sell: "4904.00",
     member_stock: "516.51",

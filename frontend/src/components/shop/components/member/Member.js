@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import SearchMember from "../common/SearchMember";
 import Information from "../common/info-json";
 import MemberList from "./MemberList";
-
+import MemberMessage from "./MemberMessage";
 function Member() {
   const [data, setData] = useState([]);
 
@@ -32,6 +32,7 @@ function Member() {
             <div className="card">
               <SearchMember confirm={onConfirm} />
               <div className="card-body">
+                <MemberMessage />
                 <MemberList data={data} />
               </div>
             </div>
