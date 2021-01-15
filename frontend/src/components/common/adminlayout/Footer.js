@@ -10,7 +10,7 @@ export default function Footer() {
       </div>
       <strong>
         Copyright © 2020 ศูนย์คอมพิวเตอร์{" "}
-        <Link
+        {/* <Link
           to="route"
           target="_blank"
           onClick={(event) => {
@@ -19,7 +19,8 @@ export default function Footer() {
           }}
         >
           รพ. ร้อยเอ็ด
-        </Link>
+        </Link> */}
+        <Link to="/shop/memberlab">รพ. ร้อยเอ็ด</Link>
       </strong>
     </footer>
   );
